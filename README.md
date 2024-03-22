@@ -70,10 +70,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
         - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
     - [2.4 Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-    - [3.1][To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [3.2][User Stories](#32-user-stories)
-    - [3.3][Impact Mapping](#33-impact-mapping)
-    - [3.4][Product Backlog](#34-product-backlog)
+    - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2 User Stories](#32-user-stories)
+    - [3.3 Impact Mapping](#33-impact-mapping)
+    - [3.4 Product Backlog](#34-product-backlog)
 
 ---
 
