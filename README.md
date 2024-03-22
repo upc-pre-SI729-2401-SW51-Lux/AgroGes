@@ -108,7 +108,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 [Poner información aquí]
 
 ### 1.1.2 Perfiles de integrantes del equipo
-[Poner información aquí]
+#### - Favio Sebastián Landeo Simeón
+Mi nombre es Favio Sebastián Landeo Simeón, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis  compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad  de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y, Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
 
 ---
 
