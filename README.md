@@ -99,6 +99,55 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     - [4.8 Database Design](#48-database-design)
         - [4.8.1 Database Diagram](#481-database-diagram)
 
+-[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)
+    - [5.1 Software Configuration Management](#51-software-configuration-management)
+        -[5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
+        -[5.1.2 Source Code Management](#512-source-code-management)
+    - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
+        -[5.2.1 Sprint 1](#521-sprint-1)
+            -[5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+            -[5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
+            -[5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+            -[5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+            -[5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+            -[5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+            -[5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+            -[5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        -[5.2.2 Sprint 2](#522-sprint-2)
+            -[5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+            -[5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
+            -[5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+            -[5.2.2.4 Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+            -[5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            -[5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            -[5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            -[5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+       -[5.2.2 Sprint 2](#522-sprint-2)
+            -[5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+            -[5.2.2.2 Sprint Backlog 2](#5222-sprint-backlog-2)
+            -[5.2.2.3 Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+            -[5.2.2.4 Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+            -[5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            -[5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            -[5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            -[5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+       -[5.2.3 Sprint 3](#523-sprint-3)
+            -[5.2.3.1 Sprint Planning 2](#5231-sprint-planning-3)
+            -[5.2.3.2 Sprint Backlog 2](#5232-sprint-backlog-3)
+            -[5.2.3.3 Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+            -[5.2.3.4 Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+            -[5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            -[5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            -[5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            -[5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    -[5.3 Validation Interviews](#53-validation-interviews)
+            -[5.3.1 Diseño de Entrevistas](#531-diseño-entrevistas)
+            -[5.3.2 Registro de Entrevistas](#532-registro-entrevistas)
+            -[5.3.3 Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    -[5.4 Video About-the-Product](#54-video-about-the-product) 
+
+
+
 ---
 
 
@@ -201,44 +250,180 @@ Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera d
 [Poner información aquí]
 
 ---
-
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
-- ### 4.1.1 General Style Guidelines###
-- ### 4.1.2 Web Style Guidelines###
+- ### 4.1.1 General Style Guidelines
+  [Poner información aquí]
+
+- ### 4.1.2 Web Style Guidelines
+  [Poner información aquí]
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
+ [Poner información aquí]
+ 
 - ### 4.2.2 Labeling Systems
+  [Poner información aquí]
+  
 - ### 4.2.3 SEO Tags and Meta Tags
+  [Poner información aquí]
+  
 - ### 4.2.4 Searching Systems
+  [Poner información aquí]
+  
 - ### 4.2.5 Navigation Systems
+  [Poner información aquí]
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
+  [Poner información aquí]
+  
 - ### 4.3.2 Landing Page Mock-up
+  [Poner información aquí]
 
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
+  [Poner información aquí]
+  
 - ### 4.4.2 Web Applications Wireflow Diagrams
+  [Poner información aquí]
+  
 - ### 4.4.3 Web Applications Mock-ups
+  [Poner información aquí]
+  
 - ### 4.4.4 Web Applications User Flow Diagrams
+  [Poner información aquí]
 
 ## 4.5 Web Applications Prototyping
 
+[Poner información aquí]
+
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
+  [Poner información aquí]
+  
 - ### 4.6.2 Software Architecture Container Diagrams
-- ### 4.6.3 Software Architecture Components Diagrams
+  [Poner información aquí]
 
+- ### 4.6.3 Software Architecture Components Diagrams
+  [Poner información aquí]
+  
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
+  [Poner información aquí]
+  
 - ### 4.7.2 Class Dictionary
+  [Poner información aquí]
+  
 
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-
+   [Poner información aquí]
+  
 ---
 
+# Capítulo V: Product Implementation, Validation & Deployment
 
+## 5.1 Software Configuration Management
+- ### Software Development Environment Configuration
+   [Poner información aquí]
+- ### Source Code Management
+   [Poner información aquí]
+- ### Source Code Style Guide & Conventions
+   [Poner información aquí]
+- ### Software Deployment Configuration
+   [Poner información aquí]
+  
+## 5.2 Landing Page, Services & Applications Implementation.
+- ### 5.2.1 Sprint 1
+- #### 5.2.1.1. Sprint Planning 1
+   [Poner información aquí]
+  
+- #### 5.2.1.2. Sprint Backlog 1
+   [Poner información aquí]
+  
+- #### 5.2.1.3. Development Evidence for Sprint Review
+   [Poner información aquí]
+   
+- #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+   [Poner información aquí]
+   
+- #### 5.2.1.5. Execution Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+   [Poner información aquí]
+
+- #### 5.2.1.8. Team Collaboration Insights during Sprint
+   [Poner información aquí]
+  
+
+- ### 5.2.2 Sprint 2
+- #### 5.2.2.1. Sprint Planning 2
+   [Poner información aquí]
+  
+- #### 5.2.2.2. Sprint Backlog 2
+   [Poner información aquí]
+  
+- #### 5.2.2.3. Development Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.2.5. Execution Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.2.8. Team Collaboration Insights during Sprint
+   [Poner información aquí]
+  
+
+- ### 5.2.3 Sprint 3
+- #### 5.2.3.1. Sprint Planning 3
+   [Poner información aquí]
+  
+- #### 5.2.3.2. Sprint Backlog 3
+   [Poner información aquí]
+  
+- #### 5.2.3.3. Development Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.3.5. Execution Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+   [Poner información aquí]
+  
+- #### 5.2.3.8. Team Collaboration Insights during Sprint
+   [Poner información aquí]
+
+## 5.3 Validation Interviews
+- ### 5.3.1. Diseño de Entrevistas
+   [Poner información aquí]
+  
+- ### 5.3.2. Registro de Entrevistas
+   [Poner información aquí]
+  
+- ### 5.3.3. Evaluaciones según heurísticas
+   [Poner información aquí]
+  
+
+## 5.3 Video About-the-Product
+
+   [Poner información aquí]
 
