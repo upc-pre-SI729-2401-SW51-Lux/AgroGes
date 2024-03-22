@@ -78,4 +78,16 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ---
 
 
+# Capítulo I: Introducción
+## 1.1 Startup Profile
+### 1.1.1 Descripción de la Startup
+norem
+
+### 1.1.2 Perfiles de integrantes del equipo
+- **Sergio Joel Pecan Pariona**: Estudiante de Ing. de Software.
+.
+
+---
+
+
 
