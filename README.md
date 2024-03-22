@@ -109,7 +109,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ### 1.1.2 Perfiles de integrantes del equipo
 #### - Favio Sebastián Landeo Simeón
-Mi nombre es Favio Sebastián Landeo Simeón, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis  compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad  de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y, Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
+Mi nombre es Favio Sebastián Landeo Simeón, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis  compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad  de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y, Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos .
+
+
+#### - Gustavo Arturo Poma Espinoza 
+Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo.
 
 ---
 
