@@ -107,6 +107,66 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 [Poner información aquí]
 
 ---
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1 Competidores
+### 2.1.1 Análisis competitivo
+[Poner información aquí]
+
+### 2.1.2 Estrategias y tácticas frente a competidores
+[Poner información aquí]
+
+---
+
+## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
+[Poner información aquí]
+
+### 2.2.2 Registro de entrevistas
+[Poner información aquí]
+
+### 2.2.3 Análisis de entrevistas
+[Poner información aquí]
+
+---
+
+## 2.3 Needfinding
+### 2.3.1 User Personas
+[Poner información aquí]
+
+### 2.3.2 User Task Matrix
+[Poner información aquí]
+
+### 2.3.3 User Journey Mapping
+[Poner información aquí]
+
+### 2.3.4 Empathy Mapping
+[Poner información aquí]
+
+### 2.3.5 As-is Scenario Mapping
+[Poner información aquí]
+
+---
+
+## 2.4 Ubiquitous Language
+[Poner información aquí]
+
+---
+
+# Capítulo III: Requirements Specification
+## 3.1 To-Be Scenario Mapping
+[Poner información aquí]
+
+## 3.2 User Stories
+[Poner información aquí]
+
+## 3.3 Impact Mapping
+[Poner información aquí]
+
+## 3.4 Product Backlog
+[Poner información aquí]
+
+---
+
 
 
 
