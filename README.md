@@ -36,7 +36,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ---
 
 # Contenido
-- [Tabla de contenidos](#tabla-de-contenidos)
+- [Tabla de contenidos]
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1 Startup Profile](#11-startup-profile)
@@ -81,11 +81,34 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
 ### 1.1.1 Descripción de la Startup
-norem
+[Poner información aquí]
 
 ### 1.1.2 Perfiles de integrantes del equipo
-- **Sergio Joel Pecan Pariona**: Estudiante de Ing. de Software.
-.
+[Poner información aquí]
+
+---
+
+## 1.2 Solution Profile
+### 1.2.1 Antecedentes y problemática
+[Poner información aquí]
+
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statements
+[Poner información aquí]
+
+#### 1.2.2.2 Lean UX Assumptions
+[Poner información aquí]
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+[Poner información aquí]
+
+#### 1.2.2.4 Lean UX Canvas
+[Poner información aquí]
+
+---
+
+## 1.3 Segmentos objetivo
+[Poner información aquí]
 
 ---
 
