@@ -257,27 +257,9 @@ Claro, aquí tienes un ejemplo ficticio de un **To-Be Scenario Mapping** en **Ma
 
 
 ## 3.2 User Stories
-¡Claro! Aquí tienes un ejemplo de cómo estructurar un **Epic** y una **User Story** en **Markdown**:
-
-### Epic: **informacion**
-
-- **ID**: EPIC-001
-- **Título**: informacion
-- **Descripción**:
-  - informacion
-  - informacion
-  - informacion
-
-#### User Story 1: **Búsqueda y Selección del Restaurante**
-
-- **ID**: US-001
-- **Descripción**:
-  - Como **usuario**, quiero **informacion** para **informacion**.
-- **Criterios de Aceptación**:
-  - informacion
-  - informacion
-  - informacion
-- **Relacionado con (Epic ID)**: EPIC-001
+| **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
+|--------|-----------|-----------------|-----------------------------|---------------------------------|
+|        |           |                 |                             |                                 |
 
 ## 3.3 Impact Mapping
 [Poner información aquí]
