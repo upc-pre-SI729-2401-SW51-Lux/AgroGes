@@ -237,8 +237,8 @@ Claro, aquí tienes un ejemplo ficticio de un **To-Be Scenario Mapping** en **Ma
 ## To-Be Scenario Mapping: Entrega de Comida a Domicilio
 
 ### Fases:
-1. **Búsqueda y Selección del Restaurante**
-2. **Realización del Pedido**
+1. **Búsqueda y Selección**
+2. **Realización**
 3. **Preparación y Empaque del Pedido**
 4. **Entrega al Cliente**
 
