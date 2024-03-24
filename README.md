@@ -144,6 +144,9 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
+Nuestro proyecto se centra en proporcionar una solución que optimice la gestión de productos agrícolas, mejore la calidad de la producción y facilite las operaciones para los productores en la industria agrícola.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba0d247-84f1-4b44-b38b-d1cad0d2f0b8)
+
 ### 1.1.1 Descripción de la Startup
 AgroGes us una startup que busca poder apoyar a pequeños y medianos agricultores en el desarrollo de sus cultivos. En nuestro compromiso por fortalecer el sector agrícola, ofrecemos una plataforma integral que proporciona información técnica y asesoramiento especializado para optimizar la producción.Nuestro equipo está conformado por profesionales altamente capacitados, listos para brindar orientación sobre las mejores prácticas agrícolas, incluyendo recomendaciones sobre las temporadas ideales para el cultivo, los períodos óptimos de riego, así como consejos sobre el manejo de plagas y enfermedades.Además, facilitamos a los agricultores la posibilidad de programar visitas de nuestros profecionales a sus terrenos para realizar evaluaciones específicas y ofrecer recomendaciones personalizadas. Creemos firmemente en la importancia de la atención individualizada para garantizar un mejor desempeño en sus cultivos.
 En resumen, en nuestra plataforma encontrarás el respaldo necesario para impulsar tu producción agrícola, con acceso a información precisa y la asistencia de expertos que te acompañarán en cada etapa del proceso. Juntos, trabajaremos para alcanzar el éxito en tu actividad agrícola.  
@@ -181,11 +184,24 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 ---
 
 ## 1.2 Solution Profile
+En un mundo donde la agricultura desempeña un papel importante, la necesidad de herramientas innovadoras que optimicen la gestión y la calidad de la producción agrícola es necesaria. Por eso presentamos un software revolucionario diseñado para transformar la forma en que los productores de cultivos interactúan y gestionan sus operaciones.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/75561662-33f1-4660-be32-063574f4ead4)
+
 
 ### 1.2.1 Antecedentes y problemática
-[Poner información aquí]
+
+Los agricultores enfrentan una variedad de problemáticas en diferentes partes del mundo y en diferentes etapas de la cadena de producción agrícola, estos son:
+Cambio climático: El cambio climático genera sequías, inundaciones, y cambios en los patrones de temperatura, lo que afecta la productividad de los cultivos y el ganado.
+Escasez de agua: En muchas regiones, la disponibilidad de agua para riego es limitada, lo que dificulta la producción agrícola, especialmente en áreas áridas o semiáridas.
+Pérdida de suelo: La deforestación, la erosión del suelo y la mala gestión de la tierra pueden llevar a la pérdida de la fertilidad del suelo y a la desertificación, reduciendo la productividad agrícola a largo plazo.
+Plagas y enfermedades: Las plagas de insectos, enfermedades de las plantas y malezas pueden dañar los cultivos y reducir los cultivos, lo que resulta en pérdidas económicas para los agricultores.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/42b17f45-d235-4eaf-8794-ee09eb0fb47b)
 
 ### 1.2.2 Lean UX Process
+Nuestro software ofrece un sistema de gestión agrícola que aborda los desafíos que enfrentan los agricultores. Dirigido principalmente a los productores de cultivos, nuestro proyecto proporciona herramientas para la planificación de cultivos, la gestión de insumos. Además, ofrece un detallado de cultivos que permite a los agricultores realizar un seguimiento de sus operaciones y tomar decisiones informadas para mejorar la calidad y la productividad de sus cultivos.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/fa430c2b-d955-451e-910e-e04abc24aded)
+
+
 #### 1.2.2.1 Lean UX Problem Statements
 [Poner información aquí]
 
@@ -193,7 +209,12 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 [Poner información aquí]
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-[Poner información aquí]
+
+Esperamos que la aplicación aumente la productividad agrícola.
+Esperamos mejorar la calidad de los productos.
+ Esperamos reducir las pérdidas de los cultivos.
+Esperamos que los agricultores se adapten a la tecnología y se modernicen.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/b48d14a5-9a8d-4de2-ae09-617c3b86c20c)
 
 #### 1.2.2.4 Lean UX Canvas
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d39d3b40-da81-48cb-9bbd-3738bfab9b88" width="500"/>
@@ -202,7 +223,9 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 ---
 
 ## 1.3 Segmentos objetivo
-[Poner información aquí]
+El software está dirigido a los usuarios dentro del sector agrícola, incluyendo productores de cultivos individuales, agricultores familiares, empresas agrícolas, cooperativas agrícolas, exportadores de productos agrícolas, organizaciones sin fines de lucro , consultores agrícolas y cualquier persona novata que desee aprender sobre agricultura.
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a)
+
 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
