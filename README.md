@@ -24,8 +24,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
-| 1.0         | [Fecha]   | [Autor]   | [Descripción de la primera versión] |
-| 1.1         | [Fecha]   | [Autor]   | [Descripción de modificaciones relevantes] |
+| 1.0         | [22/03/24]   | [Autor]   | [Descripción de la primera versión] |
+| 1.1         | [25/03/24]   | [Autor]   | [Descripción de modificaciones relevantes] |
 | ...         | ...       | ...       | ...                             |
 
 ---
@@ -39,16 +39,39 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
     - [1.1 Startup Profile](#11-startup-profile)
+    - AgroGes us una startup que busca poder apoyar a pequeños y medianos agricultores en el desarrollo de sus cultivos. En nuestro compromiso por fortalecer el sector agrícola, ofrecemos una plataforma integral que proporciona información técnica y asesoramiento especializado para optimizar la producción.Nuestro equipo está conformado por profesionales altamente capacitados, listos para brindar orientación sobre las mejores prácticas agrícolas, incluyendo recomendaciones sobre las temporadas ideales para el cultivo, los períodos óptimos de riego, así como consejos sobre el manejo de plagas y enfermedades.Además, facilitamos a los agricultores la posibilidad de programar visitas de nuestros profecionales a sus terrenos para realizar evaluaciones específicas y ofrecer recomendaciones personalizadas. Creemos firmemente en la importancia de la atención individualizada para garantizar un mejor desempeño en sus cultivos. En resumen, en nuestra plataforma encontrarás el respaldo necesario para impulsar tu producción agrícola, con acceso a información precisa y la asistencia de expertos que te acompañarán en cada etapa del proceso. Juntos, trabajaremos para alcanzar el éxito en tu actividad agrícola.
+
         - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+     Nuestro proyecto se centra en proporcionar una solución que optimice la gestión de productos agrícolas, mejore la calidad de la producción y facilite las operaciones para los productores en la industria agrícola.
+
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
     - [1.2 Solution Profile](#12-solution-profile)
+ En un mundo donde la agricultura desempeña un papel importante, la necesidad de herramientas innovadoras que optimicen la gestión y la calidad de la producción agrícola es necesaria. Por eso presentamos un software revolucionario diseñado para transformar la forma en que los productores de cultivos interactúan y gestionan sus operaciones.
         - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+        - Los agricultores enfrentan una variedad de problemáticas en diferentes partes del mundo y en diferentes etapas de la cadena de producción agrícola, estos son:
+Cambio climático: El cambio climático genera sequías, inundaciones, y cambios en los patrones de temperatura, lo que afecta la productividad de los cultivos y el ganado.
+Escasez de agua: En muchas regiones, la disponibilidad de agua para riego es limitada, lo que dificulta la producción agrícola, especialmente en áreas áridas o semiáridas.
+Pérdida de suelo: La deforestación, la erosión del suelo y la mala gestión de la tierra pueden llevar a la pérdida de la fertilidad del suelo y a la desertificación, reduciendo la productividad agrícola a largo plazo.
+Plagas y enfermedades: Las plagas de insectos, enfermedades de las plantas y malezas pueden dañar los cultivos y reducir los cultivos, lo que resulta en pérdidas económicas para los agricultores.
+
         - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+     Nuestro software ofrece un sistema de gestión agrícola que aborda los desafíos que enfrentan los agricultores. Dirigido principalmente a los productores de cultivos, nuestro proyecto proporciona herramientas para la planificación de cultivos, la gestión de insumos. Además, ofrece un detallado de cultivos que permite a los agricultores realizar un seguimiento de sus operaciones y tomar decisiones informadas para mejorar la calidad y la productividad de sus cultivos
+
+      - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - 
             - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
             - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        Esperamos que la aplicación aumente la productividad agrícola.
+Esperamos mejorar la calidad de los productos.
+ Esperamos reducir las pérdidas de los cultivos.
+Esperamos que los agricultores se adapten a la tecnología y se modernicen.
+
+
             - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+        
         - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+       El software está dirigido a los usuarios dentro del sector agrícola, incluyendo productores de cultivos individuales, agricultores familiares, empresas agrícolas, cooperativas agrícolas, exportadores de productos agrícolas, organizaciones sin fines de lucro , consultores agrícolas y cualquier persona novata que desee aprender sobre agricultura.
+
 
 - [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
     - [2.1 Competidores](#21-competidores)
