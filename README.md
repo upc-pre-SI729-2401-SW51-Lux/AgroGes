@@ -203,10 +203,14 @@ Nuestro software ofrece un sistema de gestión agrícola que aborda los desafío
 
 
 #### 1.2.2.1 Lean UX Problem Statements
-[Poner información aquí]
+Algunos desafios que podemos enfrentar como grupo son la adopción y capacitación ya que no podemos asegurar que los usuarios,adopten la aplicación y comprendan cómo usarla de manera efectiva, tambien garantizar que los usuarios tengan acceso a la tecnología necesaria, como dispositivos móviles o computadoras y conexión a internet, por ultimo garantizar la seguridad y privacidad de los datos de los usuarios, especialmente cuando se trata de información sobre la producción agrícola.
+
 
 #### 1.2.2.2 Lean UX Assumptions
-[Poner información aquí]
+Los usuarios están abiertos a la idea de utilizar una aplicación para gestionar sus operaciones agrícolas, en lugar de los métodos tradicionales.
+La aplicación resolverá problemas reales ya que abordará desafíos concretos que enfrentan los agricultores,como la planificación de cultivos, la gestión de insumos y la optimización de la cadena de suministro
+los usuarios comprenderán rápidamente cómo utilizar la aplicación y verán su valor para mejorar la eficiencia y la calidad en sus operaciones agrícolas.
+La aplicación podrá adaptarse fácilmente a diferentes entornos agrícolas, desde pequeñas granjas familiares hasta grandes operaciones comerciales, y satisfacer las necesidades específicas de cada usuario.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
