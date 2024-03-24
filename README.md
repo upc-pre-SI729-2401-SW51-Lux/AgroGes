@@ -3,7 +3,7 @@
 
 # Carátula
 - **Universidad**: UPC
-- **Carrera**: Ing de Software
+- **Carrera**: Ingieneria de Software
 - **Ciclo**: 5
 - **Curso**: Desarrollo de Aplicaciones Open Source
 - **Sección**: SW51
