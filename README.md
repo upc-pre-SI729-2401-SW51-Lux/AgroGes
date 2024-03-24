@@ -178,28 +178,32 @@ En resumen, en nuestra plataforma encontrarás el respaldo necesario para impuls
 
 ### 1.1.2 Perfiles de integrantes del equipo
 #### - Favio Sebastián Landeo Simeón
-Mi nombre es Favio, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis  compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad  de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y, Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos .
-![Imagen de WhatsApp 2024-03-23 a las 22 46 30_45676f9b](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/390b1ef9-ec7f-45c7-9e14-dee2de631e2c)
+Mi nombre es Favio, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
 
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/390b1ef9-ec7f-45c7-9e14-dee2de631e2c" width="300"/>
 
-#### - Gustavo Arturo Poma Espinoza 
+#### - Gustavo Arturo Poma Espinoza
 Mi nombre es Gustavo, actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software. Disfruto escuchando música, ya que siento que esta actividad me inspira creatividad. Salir a caminar con mis mascotas me ayuda a relajarme y meditar. Además, soy aficionado a las artes marciales, las cuales me han inculcado disciplina y perseverancia. Mi color favorito es el azul. Estoy disponible para ayudar siempre a mis compañeros y tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo.
-![Imagen de WhatsApp 2024-03-23 a las 22 46 09_d1d9e84c](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/a107ed14-ee65-463d-b996-8666f02a1297)
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/a107ed14-ee65-463d-b996-8666f02a1297" width="300"/>
 
 
 
 #### - Daniel Mateo Del Castillo Bueno
 Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Desde que soy pequeño siempre me he sentido atraído por la tecnología, lo que evolucionó en mi vocación por la programación de software. Tengo conocimientos en Linux, SQL, C++, Python, HTML, CSS y JavaScript. Considero que el mayor aporte que puedo brindar a mi equipo es mi compañerismo y compromiso por ayudar y solucionar problemas para poder brindar un trabajo idóneo.
-![Imagen de WhatsApp 2024-03-23 a las 22 46 24_e3e2b087](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d400d572-2e9f-458f-8d13-dd8e70e51387)
 
-### - Sergio Joel Pecan  
-Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actualmente en mi quinto ciclo. Desde pequeño, siempre he sentido una gran curiosidad por la tecnología y una pasión por la innovación que me impulsa constantemente a explorar y aprender nuevas cosas. Lo admito, soy un chico difícil de quedarme quieto, pero esa inquietud es mi mayor ventaja. Me encanta estar siempre en movimiento, buscando nuevas formas de innovar y aplicar lo que aprendo en el desarrollo de software. La UPC me ha brindado un entorno perfecto para nutrir mi curiosidad y ampliar mis horizontes tecnológicos.
-![Imagen de WhatsApp 2024-03-23 a las 22 55 26_94860f7d](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/4a9fc240-68c7-4b1b-8e8b-2b41a01dfc1a)
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d400d572-2e9f-458f-8d13-dd8e70e51387" width="300"/>
+
+### - Sergio Joel Pecan
+Soy Sergio Joel Pecan, un estudiante de Ingeniería de Software en la UPC, actualmente en mi quinto ciclo. Desde pequeño, siempre he sentido una gran curiosidad por la tecnología y una pasión por la innovación que me impulsa constantemente a explorar y aprender nuevas cosas. Lo admito, soy un chico difícil de quedarme quieto, pero esa inquietud es mi mayor ventaja. Me encanta estar siempre en movimiento, buscando nuevas formas de innovar y aplicar lo que aprendo en el desarrollo de software. La UPC me ha brindado un entorno perfecto para nutrir mi curiosidad y ampliar mis horizontes tecnológicos.
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/4a9fc240-68c7-4b1b-8e8b-2b41a01dfc1a" width="300"/>
 
 
-### - Andrea Milagros Cabanillas Gora
-Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta diseñar paginas web, dibujar y bailar marinera.
-![Imagen de WhatsApp 2024-03-23 a las 22 46 16_215b71c2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/f5173526-5f9c-40cc-92b7-16327f8a5be9)
+### - Andrea Milagros Cabanillas Gora
+Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta diseñar paginas web, dibujar y bailar marinera.
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/f5173526-5f9c-40cc-92b7-16327f8a5be9" width="300"/>
 
 ---
 
