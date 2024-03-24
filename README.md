@@ -232,7 +232,6 @@ Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. 
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-Claro, aquí tienes un ejemplo ficticio de un **To-Be Scenario Mapping** en **Markdown**. Imaginemos que estamos diseñando una aplicación de entrega de comida a domicilio:
 
 ## To-Be Scenario Mapping: Entrega de Comida a Domicilio
 
