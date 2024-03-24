@@ -63,7 +63,7 @@ Plagas y enfermedades: Las plagas de insectos, enfermedades de las plantas y mal
      
 
 
-            - [1.2.2.3 Lean UX Hypothesis Statements]
+            - [1.2.2.3 Lean UX Hypothesis Statements] (#1211-lean-ux-hyphotesis-statements)
         Esperamos que la aplicación aumente la productividad agrícola.
 Esperamos mejorar la calidad de los productos.
  Esperamos reducir las pérdidas de los cultivos.
