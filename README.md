@@ -185,8 +185,8 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 
 ## 1.2 Solution Profile
 En un mundo donde la agricultura desempeña un papel importante, la necesidad de herramientas innovadoras que optimicen la gestión y la calidad de la producción agrícola es necesaria. Por eso presentamos un software revolucionario diseñado para transformar la forma en que los productores de cultivos interactúan y gestionan sus operaciones.
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/75561662-33f1-4660-be32-063574f4ead4)
 
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/75561662-33f1-4660-be32-063574f4ead4" width="300"/>
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -195,12 +195,11 @@ Cambio climático: El cambio climático genera sequías, inundaciones, y cambios
 Escasez de agua: En muchas regiones, la disponibilidad de agua para riego es limitada, lo que dificulta la producción agrícola, especialmente en áreas áridas o semiáridas.
 Pérdida de suelo: La deforestación, la erosión del suelo y la mala gestión de la tierra pueden llevar a la pérdida de la fertilidad del suelo y a la desertificación, reduciendo la productividad agrícola a largo plazo.
 Plagas y enfermedades: Las plagas de insectos, enfermedades de las plantas y malezas pueden dañar los cultivos y reducir los cultivos, lo que resulta en pérdidas económicas para los agricultores.
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/42b17f45-d235-4eaf-8794-ee09eb0fb47b)
-
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/42b17f45-d235-4eaf-8794-ee09eb0fb47b" width="300"/>
 ### 1.2.2 Lean UX Process
 Nuestro software ofrece un sistema de gestión agrícola que aborda los desafíos que enfrentan los agricultores. Dirigido principalmente a los productores de cultivos, nuestro proyecto proporciona herramientas para la planificación de cultivos, la gestión de insumos. Además, ofrece un detallado de cultivos que permite a los agricultores realizar un seguimiento de sus operaciones y tomar decisiones informadas para mejorar la calidad y la productividad de sus cultivos.
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/fa430c2b-d955-451e-910e-e04abc24aded)
 
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/fa430c2b-d955-451e-910e-e04abc24aded" width="300"/>
 
 #### 1.2.2.1 Lean UX Problem Statements
 Algunos desafios que podemos enfrentar como grupo son la adopción y capacitación ya que no podemos asegurar que los usuarios,adopten la aplicación y comprendan cómo usarla de manera efectiva, tambien garantizar que los usuarios tengan acceso a la tecnología necesaria, como dispositivos móviles o computadoras y conexión a internet, por ultimo garantizar la seguridad y privacidad de los datos de los usuarios, especialmente cuando se trata de información sobre la producción agrícola.
@@ -218,8 +217,8 @@ Esperamos que la aplicación aumente la productividad agrícola.
 Esperamos mejorar la calidad de los productos.
  Esperamos reducir las pérdidas de los cultivos.
 Esperamos que los agricultores se adapten a la tecnología y se modernicen.
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/b48d14a5-9a8d-4de2-ae09-617c3b86c20c)
 
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/b48d14a5-9a8d-4de2-ae09-617c3b86c20c" width="500"/>
 #### 1.2.2.4 Lean UX Canvas
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d39d3b40-da81-48cb-9bbd-3738bfab9b88" width="500"/>
 
@@ -228,8 +227,8 @@ Esperamos que los agricultores se adapten a la tecnología y se modernicen.
 
 ## 1.3 Segmentos objetivo
 El software está dirigido a los usuarios dentro del sector agrícola, incluyendo productores de cultivos individuales, agricultores familiares, empresas agrícolas, cooperativas agrícolas, exportadores de productos agrícolas, organizaciones sin fines de lucro , consultores agrícolas y cualquier persona novata que desee aprender sobre agricultura.
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a)
 
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a" width="500"/>
 
 ---
 # Capítulo II: Requirements Elicitation & Analysis
