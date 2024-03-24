@@ -219,6 +219,7 @@ Esperamos mejorar la calidad de los productos.
 Esperamos que los agricultores se adapten a la tecnología y se modernicen.
 
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/b48d14a5-9a8d-4de2-ae09-617c3b86c20c" width="500"/>
+
 #### 1.2.2.4 Lean UX Canvas
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d39d3b40-da81-48cb-9bbd-3738bfab9b88" width="500"/>
 
