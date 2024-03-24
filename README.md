@@ -14,7 +14,7 @@
 # Informe de Trabajo Final
 - **Nombre del Startup**: Lux
 - **Nombre del Producto**: AgroGes
-- **Relación de Integrantes**: [Nombres de los Integrantes]
+- **Relación de Integrantes**: Pecan Pariona, Sergio Joel (u20201a938)
 - **Mes y Año**: marzo del 2024
 
 ---
