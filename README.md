@@ -181,6 +181,7 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 ---
 
 ## 1.2 Solution Profile
+
 ### 1.2.1 Antecedentes y problemática
 [Poner información aquí]
 
