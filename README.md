@@ -236,10 +236,12 @@ Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. 
 ## To-Be Scenario Mapping: Entrega de Comida a Domicilio
 
 ### Fases:
-1. **Búsqueda y Selección**
-2. **Realización**
-3. **Preparación y Empaque del Pedido**
-4. **Entrega al Cliente**
+1. **Análisis y Diagnóstico**
+2. **Diseño del Futuro Deseado**
+3. **Planificación Estratégica**
+4. **Implementación y Desarrollo**
+5. **Gestión del Cambio**
+6. **Evaluación y Ajuste**
 
 ### Acciones:
 | Fase | Acción | Pensamientos | Sentimientos |
