@@ -270,8 +270,14 @@ Claro, aquí tienes un ejemplo ficticio de un **To-Be Scenario Mapping** en **Ma
 ---
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
+En esta sección, diseñaremos las guías de estilo que son los patrones a seguir para 
+construir nuestro producto desde cero, establecen un estándar en la tipografía, tamaño 
+y paleta de colores necesarios para que nuestra aplicación web se pueda diseñar de una 
+manera más rápida y efectiva desde el inicio del proceso de prototipado.
+
 - ### 4.1.1 General Style Guidelines
-  [Poner información aquí]
+A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
+y tipografía que usamos para establecer los estilos a la aplicación web.
 
 - ### 4.1.2 Web Style Guidelines
   [Poner información aquí]
