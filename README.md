@@ -340,8 +340,8 @@ desarrollándolo bajo un repositorio común en GitHub.
 A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
 y tipografía que hemos escogido para nuestra aplicación web.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/53d27f53-3ad4-4995-b6db-28c134ffe2d6"/>
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9e3582-8aa3-44b7-9114-b7488a9dbeab"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/53d27f53-3ad4-4995-b6db-28c134ffe2d6" width="600"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9e3582-8aa3-44b7-9114-b7488a9dbeab" width="600"/>
 
 Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples 
 para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación.
@@ -352,9 +352,9 @@ atención del usuario. También esta característica ayuda en el rendimiento de 
 Además, que consideramos no sobrecargar la vista del usuario colocando solo los elementos necesarios
 para que también nos facilite la interacción responsiva en diferentes dispositivos.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/14c76048-82df-436c-9472-d967df880b58"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/14c76048-82df-436c-9472-d967df880b58" width="600"/>
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/78cd58bb-1c62-43fa-98bf-75314507b7d3"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/78cd58bb-1c62-43fa-98bf-75314507b7d3" width="600"/>
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
