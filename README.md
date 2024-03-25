@@ -1,4 +1,4 @@
-# AgroGes
+![pfp](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/b1dbddd5-782c-40a0-aa3a-e10a9bba550a)# AgroGes
 ---
 
 # Carátula
@@ -331,16 +331,22 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 # Capítulo IV: Product Design
 ## 4.1 Style Guidelines
 En esta sección, diseñaremos las guías de estilo que son los patrones a seguir para 
-construir nuestro producto desde cero, establecen un estándar en la tipografía, tamaño 
+construir nuestro producto desde cero, establecer un estándar en la tipografía, tamaño 
 y paleta de colores necesarios para que nuestra aplicación web se pueda diseñar de una 
-manera más rápida y efectiva desde el inicio del proceso de prototipado.
+manera más rápida y efectiva desde el inicio del proceso de prototipado. Todo esto
+desarrollándolo bajo un repositorio común en GitHub.
 
 - ### 4.1.1 General Style Guidelines
 A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
-y tipografía que usamos para establecer los estilos a la aplicación web.
+y tipografía que hemos escogido para nuestra aplicación web.
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/53d27f53-3ad4-4995-b6db-28c134ffe2d6"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9e3582-8aa3-44b7-9114-b7488a9dbeab"/>
+
+Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples 
+para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación.
 
 - ### 4.1.2 Web Style Guidelines
-  [Poner información aquí]
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
