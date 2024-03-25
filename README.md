@@ -303,30 +303,7 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-
-## To-Be Scenario Mapping: Entrega de Comida a Domicilio
-
-### Fases:
-1. **Análisis y Diagnóstico**
-2. **Diseño del Futuro Deseado**
-3. **Planificación Estratégica**
-4. **Implementación y Desarrollo**
-5. **Gestión del Cambio**
-6. **Evaluación y Ajuste**
-
-### Acciones:
-| Fase | Acción | Pensamientos | Sentimientos |
-|------|--------|--------------|--------------|
-| 1.   |  |  | Curiosidad |
-|      |  |  | Expectativa |
-| 2.   |  | | Anticipación |
-|      |  | | Confianza |
-| 3.   |  | | Eficiencia |
-|      |  | | Organización |
-| 4.   |  | | Satisfacción |
-|      |  | | Logro |
-
-
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/files/14749150/Scenario.Mapping.Template.pdf" width="500"/>
 
 ## 3.2 User Stories
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
