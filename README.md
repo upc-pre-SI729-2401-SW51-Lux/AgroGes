@@ -303,7 +303,7 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/files/14749150/Scenario.Mapping.Template.pdf" width="500"/>
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/bb941e93-3157-4f28-b29a-a3c0b2f3c380" width="500"/>
 
 ## 3.2 User Stories
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
