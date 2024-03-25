@@ -234,8 +234,28 @@ El software está dirigido a los usuarios dentro del sector agrícola, incluyend
 ---
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+Dentro del mercado al que planeamos brindar una solución, pudimos identificar varios competidores que ofrecen una solución con un enfoque similar para la gestión agrícola. A continuación, resumiremos su solución de Software:
+
+**Agrobit:** Agrobit es una herramienta de gestión de gestión agrícola y ganadera que busca nuevas formas de producir alimentos de manera sustentable y rentable. Esta solución tiene como enfoque las grandes empresas. Su plataforma cuenta con funciones como, control de actividades, evolución de cultivos y monitoreo predictivo y trazabilidad y huella de carbono. <br>
+**Efemis:** Efemis es una plataforma digital para la gestión agricola, utiliza imagenes satelitales, predicciones del clima y sensores para controlar los costes y optimizar los costes de operaciones agricolas. Es una iniciativa creada por hispatec que cuenta con soluciones diferentes para el sector agrícola.<br>
+**Agri:** Agri es un software especializado en el sector agrícola que permite gestionar órdenes de aplicación, control de faenas, cosecha y riego, entre otras funciones. Para acceder a sus servicios, el territorio agrícola debe ser revisado y categorizado por el tamaño del mismo, posteriormente se hace un cobro mensual que va desde 320 dólares para las pequeñas empresas agrícolas hasta 715 dólares para las empresas agrícolas grandes.<br>
 ### 2.1.1 Análisis competitivo
-[Poner información aquí]
+
+¿Por que llevar a cabo este análisis? 
+Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado
+
+| Nombre | [Agroges] | [Agrobit] | [Efemis] | [Agri.pe] |
+|--------- |-----------|-----------|----------|-----------|
+| Overview | Software de gestión agricola centrado en la capacitación del usuario que puede adaptarse a sus necesidades  | Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama | Software de hispatec que  | Agri es una solución de software peruano que permite gestionar campos de cultivo de forma centralizada  | 
+| Ventaja Competitiva | Centrado en el usuario y su adaptabilidad |  | Mayor experiencia |  | 
+| Mercado Objetivo |  |  |  |  | 
+| Estrategias de marketing |  |  |  |  | 
+| Productos y Servicios|  |  |  |  | 
+| Precios y Costos|  |  |  |  | 
+| Fortalezas |  |  |  |  | 
+| Debilidades |  |  |  |  | 
+| Oportunidades|  |  |  |  | 
+| Amenazas|  |  |  |  | 
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 [Poner información aquí]
@@ -244,7 +264,11 @@ El software está dirigido a los usuarios dentro del sector agrícola, incluyend
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
-[Poner información aquí]
+**Segmento 1**:
+¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?.<br>
+¿Usa alguna herramienta tecnológica para ayudarse?.<br>
+¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos ?.<br>
+
 
 ### 2.2.2 Registro de entrevistas
 [Poner información aquí]
