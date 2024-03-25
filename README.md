@@ -24,7 +24,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
-| 1.0         | [22/03/24]   | [Autor]   | [Descripción de la primera versión] |
+| 1.0         | [22/03/24]   | Andrea Cabanillas Gora  | [Capitulo 1] |
 | 1.1         | [25/03/24]   | [Autor]   | [Descripción de modificaciones relevantes] |
 | ...         | ...       | ...       | ...                             |
 
