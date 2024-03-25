@@ -347,6 +347,14 @@ Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual c
 para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación.
 
 - ### 4.1.2 Web Style Guidelines
+Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil de entender con colores vivos que capten la
+atención del usuario. También esta característica ayuda en el rendimiento de la aplicación, por lo que el tiempo de espera del usuario será el mínimo.
+Además, que consideramos no sobrecargar la vista del usuario colocando solo los elementos necesarios
+para que también nos facilite la interacción responsiva en diferentes dispositivos.
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/14c76048-82df-436c-9472-d967df880b58"/>
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/78cd58bb-1c62-43fa-98bf-75314507b7d3"/>
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
