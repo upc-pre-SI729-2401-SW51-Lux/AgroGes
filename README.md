@@ -242,7 +242,7 @@ Dentro del mercado al que planeamos brindar una solución, pudimos identificar v
 ### 2.1.1 Análisis competitivo
 
 ¿Por que llevar a cabo este análisis? 
-Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado
+Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo
 
 | Nombre | [Agroges] | [Agrobit] | [Efemis] | [Agri] |
 |--------- |-----------|-----------|----------|-----------|
@@ -259,18 +259,29 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso de sus
->Diferenciación......
+Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso eficiente de sus recursos 
 ---
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
-**Segmento 1**:<br>
-¿Cúal es su nombre, cúanto lleva trabajando en el sector agrícola?
-¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?.<br>
-¿Usa alguna herramienta tecnológica para ayudarse?.<br>
-¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos ?.<br>
-¿Que caracteristicas cree que debería implementar el Software?.<br>
+**Segmento 1: Pequeños agricultores**<br>
+¿Cúal es su nombre?<br>
+¿Qué produce?<br>
+¿Cúanto lleva trabajando en el sector agrícola?<br>
+¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?<br>
+¿Usa alguna herramienta tecnológica para ayudarse?<br>
+¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?<br>
+¿Que caracteristicas cree que debería implementar el Software?<br>
+**Segmento 2: Grandes agricultores**<br>
+¿Cuál es el su nombre y Razón Social de su empresa?<br>
+¿Qué produce?<br>
+¿Cúanto tiempo lleva trbajando en el negocio agrícola?<br>
+¿Considera que la gestión de sus hectáreas de cultivo es una tarea pesada?<br>
+¿Cómo gestiona sus actividades agrícolas, Cuenta con alguna herramienta tecnológica para ayudarse?<br>
+¿Qué características buscó en el software para elegirlo?<br>
+¿Consideraría cambiar los software que usa por uno solo en el que pueda hacer todo el trabajo?<br>
+¿Qué características adicionales cree que debería tener nuestra nueva herramienta?<br>
+
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
