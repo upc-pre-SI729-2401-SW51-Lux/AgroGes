@@ -428,15 +428,26 @@ para que también nos facilite la interacción responsiva en diferentes disposit
   
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
-  [Poner información aquí]
+
+  ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/94254725-59fd-4cec-814d-fc1bec11d1a5)
+
   
 - ### 4.7.2 Class Dictionary
-  [Poner información aquí]
-  
 
+  Company: Empresas a las que se les brinda el servicio.
+  Crop: Es el cultivo al cual se le monitorea y administra.
+  Worker: Personas que trabajan en las diferentes compañías agrícolas.
+  Equipment: Conjunto de Workers encargados de un Crop
+  Collection pending: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
+  Pending payment: Son las deudas pendientes de una Company.
+  Balance: Esta clase se crea mensualmente y determina las ganancias de la Company.
+
+  
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
-   [Poner información aquí]
+
+   ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/49e99b2d-0e83-4f81-8212-26e32d032e54)
+
   
 ---
 
