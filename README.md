@@ -259,8 +259,17 @@ Debemos llevar a cabo este análisis para poder saber en que se especializan nue
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso eficiente de sus recursos 
----
+Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso eficiente de sus recursos.
+<br><br>
+**Estrategia general**: Diferenciacición <br>
+**Objetivo principal:** Destacar ante la competencia enfocandonos en hacer un producto que pueda satisfacer necesidades específicas de nuestros segmentos objetivos.
+<br> <br>
+**Estrategias Clave:**<br>
+<ul>
+    <li>Enfoque al usuario: Concentrarse en hacer mejoras basadas en lo que nuestros clientes soliciten </li>
+    <li>Control de usuarios: Nuestra aplicación contará con una red interconectada de 
+        usuarios en las que se puede llevar un control de los trabajadores bajo el mando del usuario administrador</li>
+</ul>
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
@@ -272,6 +281,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ¿Usa alguna herramienta tecnológica para ayudarse?<br>
 ¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?<br>
 ¿Que caracteristicas cree que debería implementar el Software?<br>
+
 **Segmento 2: Grandes agricultores**<br>
 ¿Cuál es el su nombre y Razón Social de su empresa?<br>
 ¿Qué produce?<br>
