@@ -315,7 +315,21 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 [Poner información aquí]
 
 ### 2.3.5 As-is Scenario Mapping
-[Poner información aquí]
+User persona 1: <br>
+
+| Fases | Iniciar sesión | Revisar el progreso de las cosechas | Revisar el progreso de mis trabajadores | Revisar el pronostico de cosechas |
+|-------|-----------------|--|--|--|
+| Doing |  |  |  |  |
+| Thinking |  |  |  |  |
+| Feeling |  |  |  |  |
+
+User persona 2: <br>
+
+| Fases | Iniciar sesión | Revisar el progreso de las cosechas | Revisar el progreso de mis trabajadores | Revisar el pronostico de cosechas |
+|-------|-----------------|--|--|--|
+| Doing |  |  |  |  |
+| Thinking |  |  |  |  |
+| Feeling |  |  |  |  |
 
 ---
 
