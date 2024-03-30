@@ -270,7 +270,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
     <li>Control de usuarios: Nuestra aplicación contará con una red interconectada de 
         usuarios en las que se puede llevar un control de los trabajadores bajo el mando del usuario administrador</li>
 </ul>
-
+---
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
 **Segmento 1: Pequeños agricultores**<br>
@@ -295,7 +295,11 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
-[Poner información aquí]
+![Brainstorming User Persona Experiencia De Usuario Estético Lila](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/3f8f9cd5-b6ff-46b6-970c-5f39c9e95ab4)
+
+![Brainstorming User Persona Experiencia De Usuario Estético Lila (2)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b350c893-1ea9-4e10-87b6-84f42f2e54a6)
+
+
 
 ### 2.3.2 User Task Matrix
 [Poner información aquí]
