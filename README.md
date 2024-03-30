@@ -270,7 +270,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
     <li>Control de usuarios: Nuestra aplicación contará con una red interconectada de 
         usuarios en las que se puede llevar un control de los trabajadores bajo el mando del usuario administrador</li>
 </ul>
----
+
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
 **Segmento 1: Pequeños agricultores**<br>
@@ -292,6 +292,10 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ¿Consideraría cambiar los software que usa por uno solo en el que pueda hacer todo el trabajo?<br>
 ¿Qué características adicionales cree que debería tener nuestra nueva herramienta?<br>
 
+### 2.2.2 Registro de entrevistas
+### 2.2.3 Análisis de entrevistas
+
+---
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
