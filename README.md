@@ -482,17 +482,41 @@ para que también nos facilite la interacción responsiva en diferentes disposit
   
 ---
 
-# Capítulo V: Product Implementation, Validation & Deployment
-
 ## 5.1 Software Configuration Management
 - ### Software Development Environment Configuration
-   [Poner información aquí]
+
+ **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
+ **CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
+ **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+ **C# (C Sharp):** Para el desarrollo del backend de la aplicación.
+ **SQL Server:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+ **Visual Studio:** Como entorno de desarrollo integrado (IDE) para el desarrollo de la aplicación web, especialmente para el desarrollo en C# y la gestión de la base de 
+ datos SQL Server.
+ **Visual Studio Code:** Como editor de código ligero y altamente personalizable que también puede ser utilizado para el desarrollo web, incluyendo soporte para HTML, CSS, 
+ JavaScript y C#.
+ **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+ **ASP.NET:** Un framework de desarrollo web como para facilitar el desarrollo del backend en C#
+   
 - ### Source Code Management
-   [Poner información aquí]
+
+  URL del repositorio de GitHub para cada producto
+  Implementación de GitFlow como Workflow de control de versiones - explicar cómo implementarás este modelo en tu proyecto, incluyendo convenciones para nombrar las diferentes ramas, como las ramas de características, de lanzamiento y de corrección de errores.
+  Aplicación de Semantic Versioning para nombrar las Releases -  explicar cómo aplicarás Semantic Versioning para nombrar las diferentes versiones de tu proyecto, siguiendo el formato MAJOR.MINOR.PATCH.
+  Aplicación de Conventional Commits para los mensajes de commit  - son prefijos que todos los prog entienden en los comints 
+  
 - ### Source Code Style Guide & Conventions
-   [Poner información aquí]
+
+Esta sección del documento se enfoca en establecer un conjunto de reglas y convenciones para nombrar elementos y escribir código en los diferentes lenguajes de programación 
+utilizados en la solución. Aquí hay una explicación de lo que se espera incluir:
+
+Adopción de referencias para cada lenguaje
+  
 - ### Software Deployment Configuration
-   [Poner información aquí]
+
+  Se refiere a la configuración necesaria para implementar y desplegar el software en un entorno de producción o de uso final
+  Configuración de servidores Especificación de los servidores o plataformas de alojamiento que se utilizarán para desplegar la aplicación. Esto puede incluir servidores
+  físicos, servidores virtuales en la nube
+  Configuración de bases de datos 
   
 ## 5.2 Landing Page, Services & Applications Implementation.
 - ### 5.2.1 Sprint 1
