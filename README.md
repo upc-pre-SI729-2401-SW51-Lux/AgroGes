@@ -3,7 +3,7 @@
 
 # Carátula
 - **Universidad**: UPC
-- **Carrera**: Ingieneria de Software
+- **Carrera**: Ingeniería de Software
 - **Ciclo**: 5
 - **Curso**: Desarrollo de Aplicaciones Open Source
 - **Sección**: SW51
@@ -14,8 +14,10 @@
 # Informe de Trabajo Final
 - **Nombre del Startup**: Lux
 - **Nombre del Producto**: AgroGes
-- **Relación de Integrantes**: Pecan Pariona, Sergio Joel (u20201a938)
-- **Mes y Año**: marzo del 2024
+- **Relación de Integrantes**:
+  - Pecan Pariona, Sergio Joel (u20201a938)
+  - Landeo Simeón, Favio Sebastián (u202119588)
+- **Ciclo**: 2024-1
 
 ---
 
