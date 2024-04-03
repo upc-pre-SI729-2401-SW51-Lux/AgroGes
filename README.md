@@ -402,7 +402,7 @@ User persona 2: <br>
 
 ## 3.4 Product Backlog
 | **#Order** | **User Story Id** | **Título** | **Descripción** |  **Story Points (1 / 2 / 3 / 5 / 8)** |
-|------------|-------------------|------------|-----------------|------------------|-------------------------------------|
+|------------|-------------------|------------|-----------------|-------------------------------------|
 | 1          | US001              | Planificar la Temporada de Cultivo | "Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo." | 3 |
 | 2          | US002              | Definir Objetivos de Rendimiento |  "Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos." | 2 |
 | 3          | US003              | Seguimiento Detallado de Actividades Agrícolas |  "Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas." | 5 |
