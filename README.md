@@ -401,7 +401,18 @@ User persona 2: <br>
 
 
 ## 3.4 Product Backlog
-[Poner información aquí]
+| **#Order** | **User Story Id** | **Título** | **Descripción** | **User Stories** | **Story Points (1 / 2 / 3 / 5 / 8)** |
+|------------|-------------------|------------|-----------------|------------------|-------------------------------------|
+| 1          | US001              | Planificar la Temporada de Cultivo | Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo. | "Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo." | 3 |
+| 2          | US002              | Definir Objetivos de Rendimiento | Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos. | "Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos." | 2 |
+| 3          | US003              | Seguimiento Detallado de Actividades Agrícolas | Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas. | "Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas." | 5 |
+| 4          | US004              | Visualización de Métricas de Rendimiento | Como agricultor, quiero visualizar gráficos y métricas que muestren el progreso de mis cultivos para evaluar su rendimiento y tomar decisiones informadas. | "Como agricultor, quiero visualizar gráficos y métricas que muestren el progreso de mis cultivos para evaluar su rendimiento y tomar decisiones informadas." | 3 |
+| 5          | US005              | Mensajes Internos y Notificaciones | Como agricultor, quiero enviar mensajes a otros usuarios dentro de la aplicación para coordinar con mi equipo, proveedores y compradores. | "Como agricultor, quiero enviar mensajes a otros usuarios dentro de la aplicación para coordinar con mi equipo, proveedores y compradores." | 3 |
+| 6          | US006              | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | "Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda." | 5 |
+| 7          | US007              | Informe de Rendimiento Histórico | Como agricultor, quiero generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores para identificar áreas de mejora. | "Como agricultor, quiero generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores para identificar áreas de mejora." | 3 |
+| 8          | US008              | Adaptación a Cambios | Como agricultor, quiero adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas, reflexionando sobre las decisiones tomadas. | "Como agricultor, quiero adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas, reflexionando sobre las decisiones tomadas." | 5 |
+
+
 
 ---
 # Capítulo IV: Product Design
