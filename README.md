@@ -429,37 +429,58 @@ desarrollándolo bajo un repositorio común en GitHub.
 A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
 y tipografía que hemos escogido para nuestra aplicación web.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/53d27f53-3ad4-4995-b6db-28c134ffe2d6" width="600"/>
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9e3582-8aa3-44b7-9114-b7488a9dbeab" width="600"/>
-
-Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples 
-para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación.
-
-- ### 4.1.2 Web Style Guidelines
 Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil de entender con colores vivos que capten la
 atención del usuario. También esta característica ayuda en el rendimiento de la aplicación, por lo que el tiempo de espera del usuario será el mínimo.
-Además, que consideramos no sobrecargar la vista del usuario colocando solo los elementos necesarios
-para que también nos facilite la interacción responsiva en diferentes dispositivos.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/14c76048-82df-436c-9472-d967df880b58" width="600"/>
+- ### 4.1.2 Web Style Guidelines
+Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples 
+para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación. 
+Además, nosotros hemos decidido desarrollar una landing page y una aplicación web con interacción responsiva para 
+adaptarse a diferentes dispositivos facilitando la comprensión y adaptabilidad del contenido.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/78cd58bb-1c62-43fa-98bf-75314507b7d3" width="600"/>
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
- [Poner información aquí]
+En esta parte sintetizamos la estructura del sistema en dos partes: la landing page y la aplicación web.
+La primera está destinada a contener la información sobre el proyecto y nuestro equipo; mientras que la segunda tratará
+las funcionalidades y la lógica de negocio.
+ 
  
 - ### 4.2.2 Labeling Systems
-  [Poner información aquí]
-  
+Como anteriormente hemos explicado, se presenta el contenido con un lenguaje serio y casual para garantizar una mayor comprensión. 
+A continuación explicaremos los conjuntos de información dentro de nuestra landing page.
+
+| **Título** | **Descripción** |
+|------------|-----------------|
+| Inicio     | Aquí se expone un vistazo general de lo que ofrece nuestro proyecto |
+| Servicios  | Se presentan algunas de las funcionalidades y características que ofrece nuestra aplicación web |
+| Equipo     | En esta sección los visitantes pueden conocer a los miembros del equipo de desarrollo de AgroGes |
+| Tarifas    | Se exponen los planes de suscripción que ofrecemos |
+| Contacto   | En esta parte se encuentran las redes sociales de nuestro proyecto |
+   
 - ### 4.2.3 SEO Tags and Meta Tags
-  [Poner información aquí]
+Para ayudar a destacar y diferenciar a nuestro sitio web se tienen que tener ciertas etiquetas específicas para ayudarnos a tener mejor exposición en diferentes
+motores de búsqueda.
+  - Título de Landing Page y Web Application: AgroGes.
+  - Descripción: Agroges servicio de consultoría y planeamiento agrícola.
+  - Palabras clave: agricultura, planeación, cultivo, plantas.
+  - Autores: Equipo Lux.
   
 - ### 4.2.4 Searching Systems
-  [Poner información aquí]
+Dentro de nuestra landing page el usuario tiene la libertad de observar y conocer las características del proyecto y el equipo de desarrollo. 
+También se podra acceder a la aplicación web donde ofrecemos las funcionalidades que nuestro segmento objetivo necesita. Algunas de las funcionalidades que
+nuestro usuario puede encontrar luego de realizar la búsqueda dentro de nuestra aplicación web son:
+ - Registrar tipo de cultivo
+ - Listado de cultivos
+ - Ajustes de notificaciones
+ - Seguimiento de cultivo
+ - Visualización de perfil
+ - Visualizar consejos
+  
   
 - ### 4.2.5 Navigation Systems
-  [Poner información aquí]
+El visitante o usuario dentro de nuestra landing page podrán explorar el contenido mediante la barra de desplazamiento ubicada en la parte derecha. Además,
+los encabezados funcionan como botones que ayudan a explorar la página de manera más precisa. Esto ayuda a que nuestro sitio web tenga una interacción intuitiva y simple.
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
