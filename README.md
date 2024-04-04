@@ -545,15 +545,23 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 - ### Software Development Environment Configuration
 
  **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
+ 
  **CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
+ 
  **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+ 
  **C# (C Sharp):** Para el desarrollo del backend de la aplicación.
+ 
  **SQL Server:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+ 
  **Visual Studio:** Como entorno de desarrollo integrado (IDE) para el desarrollo de la aplicación web, especialmente para el desarrollo en C# y la gestión de la base de 
  datos SQL Server.
+ 
  **Visual Studio Code:** Como editor de código ligero y altamente personalizable que también puede ser utilizado para el desarrollo web, incluyendo soporte para HTML, CSS, 
  JavaScript y C#.
+ 
  **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+ 
  **ASP.NET:** Un framework de desarrollo web como para facilitar el desarrollo del backend en C#
    
 - ### Source Code Management
@@ -572,11 +580,28 @@ Adopción de referencias para cada lenguaje
   
 - ### Software Deployment Configuration
 
-  Se refiere a la configuración necesaria para implementar y desplegar el software en un entorno de producción o de uso final
-  Configuración de servidores Especificación de los servidores o plataformas de alojamiento que se utilizarán para desplegar la aplicación. Esto puede incluir servidores
-  físicos, servidores virtuales en la nube
-  Configuración de bases de datos 
+Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto 
+  Hardward:
+  Procesador	Intel Xeon E-2324G 
+  Disco duro	10TB
+  Memoria	64GB DDR4
   
+  Sistema Operativo: 
+  Windows server 
+  
+Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web 
+  Microsoft Azure 
+
+Configuración del servidor: Configuración del servidor necesario para alojar el sistema
+  Node.js
+  Angular
+  SQL server 
+Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos
+ Istalar SQL server 
+ Crear la base de datos de AgroGes
+ Crear las tablas de las entidades mensionadas 
+
+
 ## 5.2 Landing Page, Services & Applications Implementation.
 - ### 5.2.1 Sprint 1
 - #### 5.2.1.1. Sprint Planning 1
