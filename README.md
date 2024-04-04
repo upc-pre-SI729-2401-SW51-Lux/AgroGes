@@ -566,17 +566,23 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
    
 - ### Source Code Management
 
-  URL del repositorio de GitHub para cada producto
-  Implementación de GitFlow como Workflow de control de versiones - explicar cómo implementarás este modelo en tu proyecto, incluyendo convenciones para nombrar las diferentes ramas, como las ramas de características, de lanzamiento y de corrección de errores.
-  Aplicación de Semantic Versioning para nombrar las Releases -  explicar cómo aplicarás Semantic Versioning para nombrar las diferentes versiones de tu proyecto, siguiendo el formato MAJOR.MINOR.PATCH.
-  Aplicación de Conventional Commits para los mensajes de commit  - son prefijos que todos los prog entienden en los comints 
+ Repositorio del Landing Page : 
+
+ https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes
+
+En el marco de este proyecto, se implementarán tres ramas principales: "master", "develop" y "feature branches".
+
+La rama "feature branches" se destinará específicamente para la creación de nuevas funcionalidades, clases u otros elementos que añadirán nuevas capacidades al proyecto. Esta rama servirá como un entorno aislado para el desarrollo de estas características, permitiendo un trabajo paralelo sin afectar la estabilidad del código principal.
+
+La rama "develop" funcionará como el entorno de integración continua, donde se unificarán y probarán los cambios provenientes de las ramas de características. En este entorno, los cambios deben ser integrados y asegurados para garantizar el funcionamiento cohesivo del proyecto.
+
+Finalmente, la rama "master" será la rama principal y estable del repositorio. Aquí se fusionarán todos los cambios provenientes de la rama "develop", generando así nuevas versiones del sistema. Esta rama representa el estado más actualizado y confiable del proyecto, adecuado para su despliegue en entornos de producción.
+
+Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
   
 - ### Source Code Style Guide & Conventions
 
-Esta sección del documento se enfoca en establecer un conjunto de reglas y convenciones para nombrar elementos y escribir código en los diferentes lenguajes de programación 
-utilizados en la solución. Aquí hay una explicación de lo que se espera incluir:
 
-Adopción de referencias para cada lenguaje
   
 - ### Software Deployment Configuration
 
