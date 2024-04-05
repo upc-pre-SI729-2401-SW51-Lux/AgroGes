@@ -440,7 +440,7 @@ para que cualquier usuario puedan entender fácilmente las funcionalidades de nu
 Además, nosotros hemos decidido desarrollar una landing page y una aplicación web con interacción responsiva para 
 adaptarse a diferentes dispositivos facilitando la comprensión y adaptabilidad del contenido.
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/f7088482-8c2c-4f68-8d91-311e176f37c5)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/e4de51c2-0f6b-411a-bac9-111b76e0b35e)
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
