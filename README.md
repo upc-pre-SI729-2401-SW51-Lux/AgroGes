@@ -429,6 +429,8 @@ desarrollándolo bajo un repositorio común en GitHub.
 A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
 y tipografía que hemos escogido para nuestra aplicación web.
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/bece0942-1add-435e-aaf0-7e0734f45643)
+
 Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil de entender con colores vivos que capten la
 atención del usuario. También esta característica ayuda en el rendimiento de la aplicación, por lo que el tiempo de espera del usuario será el mínimo.
 
@@ -438,14 +440,16 @@ para que cualquier usuario puedan entender fácilmente las funcionalidades de nu
 Además, nosotros hemos decidido desarrollar una landing page y una aplicación web con interacción responsiva para 
 adaptarse a diferentes dispositivos facilitando la comprensión y adaptabilidad del contenido.
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/f7088482-8c2c-4f68-8d91-311e176f37c5)
 
 ## 4.2 Information Architecture
 - ### 4.2.1 Organization Systems
 En esta parte sintetizamos la estructura del sistema en dos partes: la landing page y la aplicación web.
 La primera está destinada a contener la información sobre el proyecto y nuestro equipo; mientras que la segunda tratará
 las funcionalidades y la lógica de negocio.
- 
- 
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/5b3fbf5e-2d1a-4499-a7ee-96b819e06126)
+
 - ### 4.2.2 Labeling Systems
 Como anteriormente hemos explicado, se presenta el contenido con un lenguaje serio y casual para garantizar una mayor comprensión. 
 A continuación explicaremos los conjuntos de información dentro de nuestra landing page.
@@ -484,37 +488,51 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
-  [Poner información aquí]
-  
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/1a6c7c15-d7ab-4f3a-8124-a029481801c3)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/36755d60-7cec-4d96-bb9a-5b1026f4fb29)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/63d3076f-a4ae-47ba-a9df-f41fe0869ed8)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6023be37-7db3-409d-929e-f479bf6d6a49)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/d119f951-e1b1-482f-b95c-eaeaa5878283)
+
 - ### 4.3.2 Landing Page Mock-up
-  [Poner información aquí]
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/54683278-f360-4077-8c19-6f66709cc0db)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/50fd1ee9-2557-44de-80e5-2922f39366dd)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/83df525e-898a-4c6e-a7bb-6080a8311c7e)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/b39838b7-b679-475c-98e3-9c1262519838)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6a83d6e7-eecd-43c2-ad43-5ae084617f29)
 
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
-  [Poner información aquí]
   
 - ### 4.4.2 Web Applications Wireflow Diagrams
-  [Poner información aquí]
   
 - ### 4.4.3 Web Applications Mock-ups
-  [Poner información aquí]
   
 - ### 4.4.4 Web Applications User Flow Diagrams
-  [Poner información aquí]
 
 ## 4.5 Web Applications Prototyping
 
-[Poner información aquí]
+
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
-  [Poner información aquí]
+ 
   
 - ### 4.6.2 Software Architecture Container Diagrams
-  [Poner información aquí]
+
 
 - ### 4.6.3 Software Architecture Components Diagrams
-  [Poner información aquí]
+
   
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
