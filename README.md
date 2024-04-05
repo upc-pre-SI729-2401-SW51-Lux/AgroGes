@@ -513,7 +513,17 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
-  
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/79257208-5686-42fb-bb20-d09d6ce04f9d)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/01530b85-deeb-40c5-a5c1-7b9ca4b55009)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7fb99bd9-481d-4ea5-99b8-c2485565d672)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/e4f96fa0-0e30-4c9a-afc8-30de967bb83b)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9fa6b0-7b7f-4448-9ea1-f97eee5f8f70)
+
 - ### 4.4.2 Web Applications Wireflow Diagrams
   
 - ### 4.4.3 Web Applications Mock-ups
