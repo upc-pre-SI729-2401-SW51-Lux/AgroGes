@@ -295,6 +295,19 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ¿Qué características adicionales cree que debería tener nuestra nueva herramienta?<br>
 
 ### 2.2.2 Registro de entrevistas
+
+**Entrevistado 1:**Roberto Hoyos Gutierrez <br/>
+**Resumen:**El entrevistado es un hombre de 45 años lleva 5 años trabajando en el sector agrícola plantando y cosechando manzana golden. Él considera que su labor en el campo es relajante, por lo que no representa una dificultad para él. Acerca de la tecnología usada en su trabajo, menciona que usa un sistema de riego y curaciónes con unos motores estacionarios. Cuando le preguntamos sobre las caracteristicas que debería tener el software mencionó que le gustaría tener una opción para administrar el riego con una computadora para ya no tener que activar su motor estacionario manualmente.  <br/>
+**Link:**  <br/>
+
+**Entrevistado 2:**Hernan Delgado <br/>
+**Resumen:** El entrevistado es un agricultor especializado en maíz y papa que lleva en el sector desde hace 10 años. Él considera que el cuidado de las plantas es una tarea de sumo cuidado, ya que implica una dedicación especial a cada tipo de cultivo. El considera que nuestro software sería una ayuda a la planificación y gestión de los cultivos, centrado en el agricultor para hacerlo más fácil y practico<br/>
+**Link:** <br/>
+
+**Entrevistado 3:**Luis Carlos Cruz <br/>
+**Resumen:** Luis nos comenta que lleva alrededor de 10 años de experiencia en el sector agrícola, nos menciona que cada cultivo es diferente y que este se aplica artesanalmente en sus campos. Él opina que la herramienta de software debería tener un indicador de un control meteorológico para saber cuando lloverá y así planear mejor los riegos. Durante la entrevista pudimos entender que las personas en su entorno laboral no usaban tanta tecnología por lo que podemos ver como oportunidad de negocio ya que los competidores no estan llegando la gente aledaña Luis <br/>
+**Link:** <br/>
+
 ### 2.2.3 Análisis de entrevistas
 
 ---
