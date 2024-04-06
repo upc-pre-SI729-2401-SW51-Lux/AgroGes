@@ -308,6 +308,9 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 **Resumen:** Luis nos comenta que lleva alrededor de 10 años de experiencia en el sector agrícola, nos menciona que cada cultivo es diferente y que este se aplica artesanalmente en sus campos. Él opina que la herramienta de software debería tener un indicador de un control meteorológico para saber cuando lloverá y así planear mejor los riegos. Durante la entrevista pudimos entender que las personas en su entorno laboral no usaban tanta tecnología por lo que podemos ver como oportunidad de negocio ya que los competidores no estan llegando la gente aledaña Luis <br/>
 **Link:** <br/>
 
+
+
+
 ### 2.2.3 Análisis de entrevistas
 
 ---
@@ -332,19 +335,12 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ### 2.3.5 As-is Scenario Mapping
 User persona 1: <br>
 
-| Fases | Iniciar sesión | Revisar el progreso de las cosechas | Revisar el progreso de mis trabajadores | Revisar el pronostico de cosechas |
+| Fases | Planificación de cultivos y gestión de insumos | Seguimiento de operaciones y toma de decisiones | Comunicación y colaboración | Evaluación y adaptación |
 |-------|-----------------|--|--|--|
-| Doing |  |  |  |  |
-| Thinking |  |  |  |  |
-| Feeling |  |  |  |  |
+| Doing | Los agricultores se rigen por las temporadas y hacen cultivos esperando que no hayan imprevistos | Los agricultores registran el seguimiento de los cultivos en un cuaderno o algún registro manual que puede perderse o en caso sea digital este puede corromperse y perderse tambien | Los agricultores se comunican con otros miembros del equipo por telefono o por algun tipo de radio | Los agricultores analizan sus cultivos y se preparan para las siguientes temporadas luego de las cosechas |
+| Thinking | Los agricultores quieren que la cosecha de frutos pero su incertidumbre acaba con su esperanza | Los agricultores piensan que el seguimiento escrito a mano es mas confiable que uno modernizado | Los agricultores consideran que el sistema de radio es más rentable | Los agricultores consideran que adaptarse en base a experiencias pasadas sin cuidado de eventos repentinos como fenomenos y deslizamiento de rocas |
+| Feeling | Los agricultores se sienten desesperados por comenzar ya la temporada y cosechar lo mas pronto posible | Los agricultores se sienten conformes con los registros analogicos | Los agricultores se sienten conformes con las radios pero no quieren usar pilas para cada equipo | Los agricultores se sienten ansiosos de que no haya algún imprevisto durante la siguiente cosecha |
 
-User persona 2: <br>
-
-| Fases | Iniciar sesión | Revisar el progreso de las cosechas | Revisar el progreso de mis trabajadores | Revisar el pronostico de cosechas |
-|-------|-----------------|--|--|--|
-| Doing |  |  |  |  |
-| Thinking |  |  |  |  |
-| Feeling |  |  |  |  |
 
 ---
 
