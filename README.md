@@ -616,15 +616,12 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
  
  **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
  
- **C# (C Sharp):** Para el desarrollo del backend de la aplicación.
+ **Java :** Para el desarrollo del backend de la aplicación.
  
  **SQL Server:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
  
  **Visual Studio:** Como entorno de desarrollo integrado (IDE) para el desarrollo de la aplicación web, especialmente para el desarrollo en C# y la gestión de la base de 
  datos SQL Server.
- 
- **Visual Studio Code:** Como editor de código ligero y altamente personalizable que también puede ser utilizado para el desarrollo web, incluyendo soporte para HTML, CSS, 
- JavaScript y C#.
  
  **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
  
