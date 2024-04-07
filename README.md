@@ -552,8 +552,9 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/06994943-7a89-4c58-b92b-ff5c0e17b5ae)
 
-
 - ### 4.6.3 Software Architecture Components Diagrams
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/0bc46829-74bb-4feb-be7d-431990232b1d)
 
 
   
