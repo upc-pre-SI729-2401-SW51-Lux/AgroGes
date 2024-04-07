@@ -628,7 +628,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
  
  **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
  
- **ASP.NET:** Un framework de desarrollo web como para facilitar el desarrollo del backend en C#
+ **Angular** Un framework de desarrollo web para facilitar el front end
    
 - ### Source Code Management
 
