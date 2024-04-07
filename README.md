@@ -324,10 +324,34 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 
 ### 2.3.2 User Task Matrix
-[Poner información aquí]
+
+Usuario: Aldo
+
+| Tareas  | Frecuencia | Importancia | 
+|---------|------------|-------------|
+| Registro de usuario  | Alta | Alta |
+| Planificar el cultivo de una temporada | Media | Alta | 
+| Agregar trabajadores | Baja | Alta |
+| Informes de seguimiento de cultivos | Alta | Alta |
+| Calendario Meteorologico | Alta | Alta |
+<br/>
+<br/>
+Usuario: Antonio <br/>
+
+| Tareas | Frecuencia | Importancia |
+|--------|------------|-------------|
+| Registro de usuario  | Alta | Alta |
+| Planificar el cultivo de una temporada | Media | Alta | 
+| Agregar trabajadores | Alta | Alta |
+| Informes de seguimiento de cultivos | Alta | Alta |
+| Calendario Meteorologico | Alta | Alta |
 
 ### 2.3.3 User Journey Mapping
-[Poner información aquí]
+
+![Whiteboard1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/ab895260-b51f-4295-bc2f-e544bc72863c)
+
+![Whiteboard](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/9ca4690e-4c76-460f-9135-aa70335e996e)
+
 
 ### 2.3.4 Empathy Mapping
 [Poner información aquí]
