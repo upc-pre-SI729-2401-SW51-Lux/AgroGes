@@ -547,12 +547,14 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 - ### 4.6.1 Software Architecture Context Diagram
  
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/07097e0f-d85c-464b-ae9e-d20c83b410b8)
-
   
 - ### 4.6.2 Software Architecture Container Diagrams
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/06994943-7a89-4c58-b92b-ff5c0e17b5ae)
+
 
 - ### 4.6.3 Software Architecture Components Diagrams
+
 
   
 ## 4.7 Software Object-Oriented Design
