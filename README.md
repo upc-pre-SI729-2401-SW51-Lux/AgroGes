@@ -609,12 +609,75 @@ https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-i
 - ### 4.7.2 Class Dictionary
 
   Company: Empresas a las que se les brinda el servicio.
-  Crop: Es el cultivo al cual se le monitorea y administra.
-  Worker: Personas que trabajan en las diferentes compañías agrícolas.
-  Equipment: Conjunto de Workers encargados de un Crop
-  Collection pending: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
-  Pending payment: Son las deudas pendientes de una Company.
-  Balance: Esta clase se crea mensualmente y determina las ganancias de la Company.
+-RUC: Código de la empresa
+-Password: Contraseña con la que se accede a la cuenta
+-Company_name: El nombre de una compañía
+-Phone: Teléfono de la empresa
+-Mail: Correo de la empresa
+-Create_company(): Es el método por el cual se crea las nuevas empresas
+-Update_data(): El método por el cual se actualizan los datos de una empresa
+
+Crop: Es el cultivo al cual se le monitorea y administra.
+-Crop_code: Código del cultivo
+-Area: Área del terreno
+-Product: Alimento que produce el cultivo
+-State: El estado en que se encuentra el alimento
+-Cost: Costo de producir ese cultivo
+-Location: El lugar geográfico donde se encuentra el producto
+-Return: El costo aproximado que se espera ganar por el cultivo
+-Update_status(): Actualización del estado
+-Add_expense(): Registra un nuevo gasto para el cultivo
+-Decrease_expenditure(): Elimina un gasto
+
+Worker: Personas que trabajan en las diferentes compañías agrícolas.
+-DNI: Documento de identificación de los trabajadores
+-Name: Nombre del trabajador
+-Last_name: Apellido
+-Post: Cargo dentro de la empresa
+-Salary: Dinero que gana el trabajador
+-Phone: Teléfono de la empresa
+-Age: Edad
+-Estado: Dentro de la empresa
+-Hire_employee(): Contrata a los empleados
+-Vacations(): Para cuando un empleado salga de vacaciones
+-Update_data(): Permite actualizar los datos de los trabajadores
+
+Equipment: Conjunto de Workers encargados de un Crop
+-equipment_code: Código del equipo
+-number_members: Dice la cantidad de integrantes de un equipo
+-Manager_code: Indica quién es el líder del equipo
+-crop_code: El código del cultivo en que trabaja el equipo
+-create_team(): Crea un nuevo equipo
+-Add_member(): Agrega a un nuevo miembro
+-Remove_member(): Quitar a un miembro del equipo
+
+Collection pending: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
+-Collection_id: Código de la deuda a cobrar
+-RUC: Código de la empresa que es la deuda a cobrar
+-Type: Qué tipo de cobranza es
+-Amount: Monto a cobrar
+-Description: Explica el origen de la deuda
+-State: Indica si pagó o no
+-Create_pending_collection(): Crea una nueva deuda a cobrar
+-Update_status(): Actualiza si ya se pagó la deuda
+
+Pending payment: Son las deudas pendientes de una Company.
+-Collection_id: Código de la deuda a pagar
+-RUC: Código de la empresa que es la deuda a pagar
+-Type: Qué tipo de cobranza es
+-Amount: Monto a pagar
+-Description: Explica el origen de la deuda
+-State: Indica si pagó o no
+-Create_pending_collection(): Crea una nueva deuda a pagar
+-Update_status(): Actualiza si ya se pagó la deuda
+
+Balance: Esta clase se crea mensualmente y determina las ganancias de la Company.
+-Month: El mes del que se calcula el balance
+-Spent: Gastos generados por la empresa
+-Ingreso: Lo que generó la empresa
+-Revenue: Ganancia de la empresa
+-Ruc_company: El código de la empresa que se está sacando el balance
+-Create_balance: Calcula las ganancias de la empresa
 
   
 ## 4.8 Database Design
