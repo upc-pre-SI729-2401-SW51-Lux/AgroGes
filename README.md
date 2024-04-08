@@ -560,7 +560,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.2 Web Applications Wireflow Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/c761895c-ca87-4b5d-a13b-a08dfb4d9c3e)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/043b7ab4-7ae2-434f-b879-14acf60b4b7b)
 
 - ### 4.4.3 Web Applications Mock-ups
 
@@ -576,9 +576,14 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.4 Web Applications User Flow Diagrams
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/924652fa-d293-4bd1-b5a1-c6b0b1bac0db)
+
 ## 4.5 Web Applications Prototyping
 
+![iamge](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9f25c672-b311-434c-ac47-09cd5384b9c1)
 
+Link al prototipo en Figma:
+https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-id=0%3A1&mode=design&t=NJ27qusj7UOMi0s4-1
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
