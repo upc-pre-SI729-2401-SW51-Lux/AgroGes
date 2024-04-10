@@ -755,31 +755,54 @@ Configuración de la base de datos: Configuración necesaria para instalar y con
 
 
 ## 5.2 Landing Page, Services & Applications Implementation.
-- ### 5.2.1 Sprint 1
-- #### 5.2.1.1. Sprint Planning 1
-   [Poner información aquí]
-  
-- #### 5.2.1.2. Sprint Backlog 1
-   [Poner información aquí]
-  
-- #### 5.2.1.3. Development Evidence for Sprint Review
-   [Poner información aquí]
-   
-- #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-   [Poner información aquí]
-   
-- #### 5.2.1.5. Execution Evidence for Sprint Review
-   [Poner información aquí]
-  
-- #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-   [Poner información aquí]
-  
-- #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-   [Poner información aquí]
 
-- #### 5.2.1.8. Team Collaboration Insights during Sprint
-   [Poner información aquí]
-  
+### 5.2.1 Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroGes utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+
+- Diseñar la estructura general de la landing page.
+- Seleccionar una paleta de colores y definir estilos visuales.
+- Configurar el repositorio en GitHub para el proyecto.
+
+#### 5.2.1.2. Sprint Backlog 1
+
+El backlog del sprint incluye las siguientes tareas:
+
+1. Crear wireframes para cada sección de la landing page.
+2. Seleccionar y aplicar una paleta de colores utilizando CSS.
+3. Configurar la estructura básica de la landing page utilizando HTML.
+4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+Durante el sprint, se desarrollaron los siguientes elementos:
+
+- Wireframes detallados de cada sección de la landing page.
+- Paleta de colores definida y aplicada utilizando CSS.
+- Estructura básica de la landing page creada en HTML.
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el sprint, se trabajó activamente en el desarrollo de la landing page utilizando HTML y CSS para estructurar y estilizar la página según los wireframes y la paleta de colores definida.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+No se realizó despliegue de software en este sprint, ya que el enfoque se centró en el desarrollo inicial de la landing page.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
+
 
 - ### 5.2.2 Sprint 2
 - #### 5.2.2.1. Sprint Planning 2
