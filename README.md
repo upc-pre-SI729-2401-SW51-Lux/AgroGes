@@ -329,22 +329,27 @@ Usuario: Aldo
 
 | Tareas  | Frecuencia | Importancia | 
 |---------|------------|-------------|
-| Registro de usuario  | Alta | Alta |
 | Planificar el cultivo de una temporada | Media | Alta | 
-| Agregar trabajadores | Baja | Alta |
-| Informes de seguimiento de cultivos | Alta | Alta |
-| Calendario Meteorologico | Alta | Alta |
+| Comunicarse con trabajadores | Media | Alta |
+| Seguimiento de cultivos | Alta | Alta |
+| Revisión de pronostico del clima | Alta | Media |
+| Riego de plantas | Media | Alta |
+| Control de pestes | Baja | Alta |
+| Pesaje de cosechas | Baja | Alta |
+
 <br/>
 <br/>
 Usuario: Antonio <br/>
 
-| Tareas | Frecuencia | Importancia |
-|--------|------------|-------------|
-| Registro de usuario  | Alta | Alta |
-| Planificar el cultivo de una temporada | Media | Alta | 
-| Agregar trabajadores | Alta | Alta |
-| Informes de seguimiento de cultivos | Alta | Alta |
-| Calendario Meteorologico | Alta | Alta |
+| Tareas  | Frecuencia | Importancia | 
+|---------|------------|-------------|
+| Planificar el cultivo de una temporada | Alta | Alta | 
+| Comunicarse con trabajadores | Alta | Alta |
+| Seguimiento de cultivos | Alta | Alta |
+| Revisión de pronostico del clima | Alta | Alta |
+| Riego de plantas | Alta | Alta |
+| Control de pestes | Media | Alta |
+| Pesaje de cosechas | Baja | Alta |
 
 ### 2.3.3 User Journey Mapping
 
