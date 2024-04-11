@@ -317,10 +317,9 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
-![Brainstorming User Persona Experiencia De Usuario Estético Lila](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/3f8f9cd5-b6ff-46b6-970c-5f39c9e95ab4)
+![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/01bf3457-b014-4fa2-9ef7-d17fd76b0650)
 
-![Brainstorming User Persona Experiencia De Usuario Estético Lila (2)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b350c893-1ea9-4e10-87b6-84f42f2e54a6)
-
+![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/c2672134-f295-4d70-be71-47038c6d27b2)
 
 
 ### 2.3.2 User Task Matrix
@@ -359,7 +358,13 @@ Usuario: Antonio <br/>
 
 
 ### 2.3.4 Empathy Mapping
-[Poner información aquí]
+
+![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0a4a6b2e-5077-4316-bdd3-5a3ccc6a6c61)
+
+![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d1427b1a-00d4-48d9-8b3c-2aece05fa55b)
+
+
+
 
 ### 2.3.5 As-is Scenario Mapping
 User persona 1: <br>
@@ -374,7 +379,8 @@ User persona 1: <br>
 ---
 
 ## 2.4 Ubiquitous Language
-[Poner información aquí]
+Para el completo entendimiento de este sistema se debe invertir un poco de tiempo para entender más sobre el funcionamiento del proyecto
+
 
 ---
 
