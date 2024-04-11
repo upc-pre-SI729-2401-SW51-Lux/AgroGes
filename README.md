@@ -317,10 +317,9 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
-![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/01bf3457-b014-4fa2-9ef7-d17fd76b0650)
+![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/44a04219-5293-4d5b-95d7-3bb5ada7b554)
 
-![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/c2672134-f295-4d70-be71-47038c6d27b2)
-
+![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0bfa5049-a56e-4e2f-a129-838d877b8dbc)
 
 ### 2.3.2 User Task Matrix
 
