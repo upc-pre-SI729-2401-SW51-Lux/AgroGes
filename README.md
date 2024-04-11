@@ -389,24 +389,19 @@ Para el completo entendimiento de este sistema se debe invertir un poco de tiemp
 
 
 ## 3.2 User Stories
-| **Epic ID** | **Título** |
-|--------|-----------|
-|EPIC001|Planificación de Cultivos y Gestión de Insumos|
-|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|
-|EPIC003|Comunicación y Colaboración|
-|EPIC004|Evaluación y Adaptación|
-
-
-| **Epic ID** | **Título** |
-|--------|-----------|
-|EPIC001|Planificación de Cultivos y Gestión de Insumos|
-|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|
-|EPIC003|Comunicación y Colaboración|
-|EPIC004|Evaluación y Adaptación|
-
 
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
 |--------|-----------|-----------------|-----------------------------|---------------------------------|
+|EPIC001|Planificación de Cultivos y Gestión de Insumos|||
+|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|||
+|EPIC003|Comunicación y Colaboración|||
+|EPIC004|Evaluación y Adaptación|||
+|EPIC001|Planificación de Cultivos y Gestión de Insumos|||
+|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|||
+|EPIC003|Comunicación y Colaboración|||
+|EPIC004|Evaluación y Adaptación|||
+| TEPIC001 | Landing Page |||
+| TEPIC002 | RESTful API |||
 | US001 | Planificar la Temporada de Cultivo | Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo. | - **Dado** que accedo a la aplicación, **Cuando** planifico la próxima temporada de cultivo, **Entonces** puedo crear un **calendario de siembra** que especifique las fechas de siembra para cada cultivo. - **Dado** que asigno recursos a los cultivos, **Cuando** especifico **recursos específicos** como semillas, fertilizantes y agua para cada tipo de cultivo dentro del plan, **Entonces** la aplicación me permite guardar y editar mi plan de cultivo. - **Dado** que establezco metas de producción, **Cuando** considero las **condiciones climáticas** y la **disponibilidad de insumos**, **Entonces** puedo ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. | EPIC001 |
 | US002 | Definir Objetivos de Rendimiento | Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos. | - **Dado** que accedo a la aplicación, **Cuando** establezco objetivos de rendimiento para cada cultivo, **Entonces** la aplicación permite ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. - **Dado** que considero las **condiciones climáticas** y la **disponibilidad de insumos**, **Cuando** establezco metas de producción, **Entonces** puedo ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. | EPIC001 |
 | US003 | Seguimiento Detallado de Actividades Agrícolas | Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas. | - **Dado** que accedo a la aplicación, **Cuando** registro datos diarios sobre las operaciones agrícolas, **Entonces** puedo incluir información sobre **riego, fertilización y tratamientos fitosanitarios** para cada cultivo. - **Dado** que registro datos diarios, **Cuando** agrego detalles específicos sobre cada actividad, como la cantidad de agua utilizada o el tipo de fertilizante aplicado, **Entonces** la aplicación me permite guardar y visualizar estos registros. - **Dado** que registro datos diarios, **Cuando** incluyo información sobre las operaciones realizadas en cada cultivo, **Entonces** la aplicación me permite agregar detalles específicos sobre cada actividad. | EPIC002 |
@@ -415,18 +410,6 @@ Para el completo entendimiento de este sistema se debe invertir un poco de tiemp
 | US006 | Precios y Demandas en Tiempo Real | Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda. | - **Dado** que accedo a la aplicación, **Cuando** la aplicación muestra información actualizada sobre precios de mercado y demanda de productos agrícolas, **Entonces** puedo tomar decisiones informadas sobre mis cultivos. - **Dado** que configuro notificaciones, **Cuando** recibo alertas sobre cambios significativos en los precios o demanda, **Entonces** puedo reaccionar rápidamente a las oportunidades del mercado. - **Dado** que accedo a la aplicación, **Cuando** accedo a información actualizada sobre precios de mercado y demanda, **Entonces** puedo tomar decisiones estratégicas basadas en datos en tiempo real. | EPIC003 |
 | US007 | Informe de Rendimiento Histórico | Como agricultor, quiero generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores para identificar áreas de mejora. | - **Dado** que accedo a la aplicación, **Cuando** genero informes detallados sobre el rendimiento de mis cultivos en temporadas anteriores, **Entonces** los informes incluyen métricas clave como rendimiento por cultivo, costos y ganancias. - **Dado** que reviso los informes, **Cuando** identifico áreas de mejora basadas en los datos históricos, **Entonces** puedo tomar medidas correctivas para optimizar futuras temporadas de cultivo. - **Dado** que accedo a los informes, **Cuando** evalúo el rendimiento pasado, **Entonces** reflexiono sobre las decisiones tomadas y busco oportunidades de mejora. | EPIC004 |
 | US008 | Adaptación a Cambios | Como agricultor, quiero adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas, reflexionando sobre las decisiones tomadas. | - **Dado** que accedo a la aplicación, **Cuando** realizo ajustes en mi plan de cultivo en función de cambios en el clima, disponibilidad de insumos o resultados del rendimiento pasado, **Entonces** puedo adaptar mi estrategia de cultivo de manera ágil y efectiva. - **Dado** que considero las **condiciones climáticas** y la **disponibilidad de insumos**, **Cuando** ajusto mi plan de cultivo, **Entonces** la aplicación me proporciona sugerencias o consejos basados en análisis de datos para ayudar en la toma de decisiones de adaptación. - **Dado** que accedo a la aplicación, **Cuando** reflexiono sobre las decisiones tomadas y busco oportunidades de mejora, **Entonces** puedo tomar medidas correctivas para optimizar futuras temporadas de cultivo. | EPIC004 |
-
-### Technical Stories
-
-
-| **ID** | **Título** |
-|--------|------------|
-| TEPIC001 | Landing Page |
-| TEPIC002 | RESTful API |
-:
-
-| **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
-|--------|------------|----------------|-----------------------------|-------------------------------|
 | T01    | Explorar la Página de Inicio | Como visitante, quiero explorar la página de inicio para obtener una visión general del sitio web y sus secciones. | - Dado que soy un visitante, cuando ingreso a la página de inicio, entonces debo ver una breve descripción del propósito del sitio. - Dado que soy un visitante, cuando navego por la página de inicio, entonces debo encontrar enlaces o botones que dirijan a las diferentes secciones del sitio. - Dado que soy un visitante, cuando hago clic en un enlace de una sección, entonces debo ser llevado a la página correspondiente. | TEPIC001 |
 | T02    | Ver Información de Productos/Servicios | Como visitante, quiero ver información detallada sobre los productos o servicios ofrecidos. | - Dado que soy un visitante, cuando accedo a la página de un producto/servicio, entonces debo ver una descripción detallada, imágenes y detalles relevantes. - Dado que soy un visitante, cuando busco información sobre un producto/servicio, entonces debo encontrar la información fácilmente. - Dado que soy un visitante, cuando navego por la página de un producto/servicio, entonces debo poder regresar a la página de inicio con facilidad. | TEPIC001 |
 | T03    | Contactar al Equipo de Ventas | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas. | - Dado que soy un visitante interesado, cuando busco información de contacto, entonces debo encontrar un formulario de contacto o información clara de contacto. - Dado que soy un visitante interesado, cuando lleno el formulario de contacto, entonces debo recibir una confirmación de que mi mensaje fue enviado correctamente. - Dado que soy un visitante interesado, cuando envío un mensaje al equipo de ventas, entonces debo recibir una respuesta dentro de las 24 horas. | TEPIC001 |
@@ -449,15 +432,22 @@ Para el completo entendimiento de este sistema se debe invertir un poco de tiemp
 ## 3.4 Product Backlog
 | **#Order** | **User Story Id** | **Título** | **Descripción** |  **Story Points (1 / 2 / 3 / 5 / 8)** |
 |------------|-------------------|------------|-----------------|-------------------------------------|
-| 1          | US001              | Planificar la Temporada de Cultivo | "Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo." | 3 |
-| 2          | US002              | Definir Objetivos de Rendimiento |  "Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos." | 2 |
-| 3          | US003              | Seguimiento Detallado de Actividades Agrícolas |  "Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas." | 5 |
-| 4          | US004              | Visualización de Métricas de Rendimiento | "Como agricultor, quiero visualizar gráficos y métricas que muestren el progreso de mis cultivos para evaluar su rendimiento y tomar decisiones informadas." | 3 |
-| 5          | US005              | Mensajes Internos y Notificaciones |  "Como agricultor, quiero enviar mensajes a otros usuarios dentro de la aplicación para coordinar con mi equipo, proveedores y compradores." | 3 |
-| 6          | US006              | Precios y Demandas en Tiempo Real |  "Como agricultor, quiero recibir notificaciones sobre ofertas de compra o venta, y acceder a información actualizada sobre precios y demanda." | 5 |
-| 7          | US007              | Informe de Rendimiento Histórico | "Como agricultor, quiero generar informes que resuman el rendimiento de mis cultivos en temporadas anteriores para identificar áreas de mejora." | 3 |
-| 8          | US008              | Adaptación a Cambios |  "Como agricultor, quiero adaptar mi estrategia según los cambios en el entorno o las condiciones climáticas, reflexionando sobre las decisiones tomadas." | 5 |
-
+| 1 | T01 | Explorar la Página de Inicio | Como visitante, quiero explorar la página de inicio para obtener una visión general del sitio web y sus secciones. | 3 |
+| 2 | T02 | Ver Información de Productos/Servicios | Como visitante, quiero ver información detallada sobre los productos o servicios ofrecidos. | 3 |
+| 3 | T03 | Contactar al Equipo de Ventas | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas. | 3 |
+| 4 | T04 | Explorar Testimonios o Casos de Éxito | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio. | 3 |
+| 5 | US003 | Seguimiento Detallado de Actividades Agrícolas | Como agricultor, registrarás datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas. Esto te permitirá llevar un seguimiento preciso de las actividades agrícolas. | 8 |
+| 6 | US001 | Planificar la Temporada de Cultivo | Como agricultor, crearás un plan de cultivo detallado para la próxima temporada. Asignarás recursos como semillas, fertilizantes y agua a cada cultivo. Esto te ayudará a optimizar la producción y la gestión de recursos. | 8 |
+| 7 | US008 | Adaptación a Cambios | Como agricultor, adaptarás tu estrategia según los cambios en el entorno o las condiciones climáticas. Reflexionarás sobre las decisiones tomadas y ajustarás tus acciones en consecuencia. | 8 |
+| 8 | US004 | Visualización de Métricas de Rendimiento | Como agricultor, visualizarás gráficos y métricas que muestren el progreso de tus cultivos. Esto te permitirá evaluar su rendimiento y tomar decisiones informadas. | 5 |
+| 9 | US002 | Definir Objetivos de Rendimiento | Como agricultor, establecerás metas de producción específicas para cada tipo de cultivo. Considerarás las condiciones climáticas y la disponibilidad de insumos para definir tus objetivos. | 5 |
+| 10 | US007 | Informe de Rendimiento Histórico | Como agricultor, generarás informes que resuman el rendimiento de tus cultivos en temporadas anteriores. Esto te ayudará a identificar áreas de mejora y a tomar decisiones estratégicas. | 5 |
+| 11 | US006 | Mensajes Internos y Notificaciones | Como agricultor, enviarás mensajes a otros usuarios dentro de la aplicación para coordinar con tu equipo, proveedores y compradores. La comunicación eficiente es esencial para el éxito. | 3 |
+| 12 | US005 | Precios y Demandas en Tiempo Real | Como agricultor, recibirás notificaciones sobre ofertas de compra o venta, y accederás a información actualizada sobre precios y demanda. Esto te ayudará a tomar decisiones comerciales acertadas. | 5 |
+| 13 | T05 | Configurar el Entorno de Desarrollo | Como desarrollador, necesito configurar el entorno de desarrollo local para trabajar en el sitio web. | 3 |
+| 14 | T06 | Crear Componentes Reutilizables | Como desarrollador, quiero crear componentes reutilizables (por ejemplo, encabezado, pie de página) para mantener la consistencia en todo el sitio. | 5 |
+| 15 | T07 | Implementar Rutas y Navegación | Como desarrollador, necesito implementar rutas y navegación para que los visitantes puedan acceder a diferentes secciones del sitio. | 5 |
+| 16 | T08 | Desarrollar el RESTful API | Como desarrollador, necesito implementar las funciones del RESTful API para manejar solicitudes y respuestas. | 8 |
 
 
 ---
