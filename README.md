@@ -767,7 +767,22 @@ En este sprint nos enfocaremos en establecer los cimientos para la creación de 
 - Seleccionar una paleta de colores y definir estilos visuales.
 - Configurar el repositorio en GitHub para el proyecto.
 
+| Sprint # | Sprint 1|
+|----------|---------|
+| | Sprint Planning Background |
+| Date | 2024-04-09 |
+| Location | Reunión virtual a través de google meet |
+| Prepared By | Andrea Cabanillas, Gustavo Poma |
+| Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
+| Sprint n - 1 Review Summary | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio |
+| Sprint n - 1 Retrospective Summary| Nuestros miembros opinan que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
+| | Sprint Goal & User Stories |
+| Sprint 1 Goal | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con  |
+| Sprint 1 Velocity | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro |
+| Sum of Story Points | 9 Story points serán los que incluimos en este sprint | 
+
 #### 5.2.1.2. Sprint Backlog 1
+
 
 El backlog del sprint incluye las siguientes tareas:
 
@@ -776,6 +791,12 @@ El backlog del sprint incluye las siguientes tareas:
 3. Configurar la estructura básica de la landing page utilizando HTML.
 4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
 
+| User Story Id | Title | Work-Item/TaskId | Title | Description | Estimation(Hours) | Assigned To | Status |
+|----|-------|----|-------|-------------|-------------------|-------------|--------|
+| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing page | Gustavo Poma, Favio Landeo | 1 | Done |
+| T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Andrea Cabanillas, Daniel del Castillo | 1 | Done |
+| T04 | Explorar Testimonios o Casos de Éxito	 | W04 | Añadir información de nuestros  | Gustavo Poma, Sergio Pecan | 1 | Done |
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 Durante el sprint, se desarrollaron los siguientes elementos:
@@ -783,6 +804,10 @@ Durante el sprint, se desarrollaron los siguientes elementos:
 - Wireframes detallados de cada sección de la landing page.
 - Paleta de colores definida y aplicada utilizando CSS.
 - Estructura básica de la landing page creada en HTML.
+
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| GustavoPoma| main | 8c856 | style: actualización del lenguaje de la landing |  04/09/2024  |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
