@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/97f969f1-8926-43a2-9f85-f41182d8de34)# AgroGes
+# AgroGes
 ---
 
 # Carátula
