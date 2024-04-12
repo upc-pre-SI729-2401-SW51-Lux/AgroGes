@@ -582,7 +582,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 ## 4.5 Web Applications Prototyping
 
-![iamge](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9f25c672-b311-434c-ac47-09cd5384b9c1)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/65999122-793c-4593-881c-cda16fc5da6f)
 
 Link al prototipo en Figma:
 https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-id=0%3A1&mode=design&t=NJ27qusj7UOMi0s4-1
