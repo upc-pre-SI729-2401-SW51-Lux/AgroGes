@@ -364,7 +364,7 @@ Despues de haber realizado las entrevistas pudimos observar un par de datos inte
   
 </ul>
 
-Luego de el analisis de los datos recolectados por nuestras entrevistas pudimos determinar cuales son las preocupaciones,gustos y caracteristicas generales del publico al que queremos dirigirnos, el cual plasmaremos a continuación en el apartado de las user personas, dentro de ellas podremos observar que todos son hombres entre 28 y 60 años como base, teniendo en cuenta que solo un entrevistado tiene la edad minima, es preciso asumir que esta no será la edad de nuestro user persona del segmento 
+Luego de el analisis de los datos recolectados por nuestras entrevistas pudimos determinar cuales son las preocupaciones,gustos y caracteristicas generales del publico al que queremos dirigirnos, el cual plasmaremos a continuación en el apartado de las user personas, dentro de ellas podremos observar una amalgama de información de cada uno de los individuos entrevistados.
 ---
 
 ## 2.3 Needfinding
