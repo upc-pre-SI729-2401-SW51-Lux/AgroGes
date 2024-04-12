@@ -370,9 +370,11 @@ Luego de el analisis de los datos recolectados por nuestras entrevistas pudimos 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
 
-![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/44a04219-5293-4d5b-95d7-3bb5ada7b554)
+![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0da430d1-ff31-4d9c-a514-85a2ed7f2ef3)
 
-![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0bfa5049-a56e-4e2f-a129-838d877b8dbc)
+![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/a9a7755c-50e8-4626-9a6a-eb5db9ab1fa3)
+
+
 
 ### 2.3.2 User Task Matrix
 
