@@ -30,8 +30,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
 | 1.0         | [22/03/24]   | Andrea Cabanillas Gora  | [Capitulo 1] |
-| 1.1         | [25/03/24]   | [Autor]   | [Descripción de modificaciones relevantes] |
-| ...         | ...       | ...       | ...                             |
+| 1.1          |  [01/04/24] |        Daniel del Castillo      |        [Capitulo 2]|
+| 1.2           |  [02/04/24] |       Sergio Pecan         |        [Capitulo 3] |
+| 1.3           |  [03/04/24] |       Favio Landeo y Gustavo Poma        |        [Capitulo 4] |
+| 1.4           |  [09/04/24] |       Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan       |      [Capitulo 5] |
 
 ---
 # Project Report Collaboration Insights 
