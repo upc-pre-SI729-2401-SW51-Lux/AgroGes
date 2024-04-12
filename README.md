@@ -342,9 +342,9 @@ Segmento 2: Medianas y Grandes Empresas agrícolas
 
 
 **Entrevistado 2:** Jesus Alvarado  <br/>
-**Resumen:**  Jesus es un ingeniero ambiental de 28 años que tiene un terreno en huaura. El nos relata que cultivan palta,yuca y camote debido a que el clima calido lo favore. Jesus también nos contó que él trabaja con formulas en excel y que le consume bastante tiempo. Cuando se le preguntó a Jesus sobre su disposición en cuanto a agregar una herramienta de software a su negocio, nos comentó que le gustaría ver dicha herramienta y comprobar su funcionalidad por lo que pudimos notar que es una persona analitica debido a que consideró que el trabajo está en una etapa inicial. Él considera que para que un software llame su atención debe ser editable de modo que cuente con un catálogo de opciones para escoger su interfaz y funciones
+**Resumen:**  Jesus es un ingeniero ambiental de 28 años que tiene un terreno en huaura. El nos relata que cultivan palta,yuca y camote debido a que el clima calido lo favore. Jesus también nos contó que él trabaja con formulas en excel y que le consume bastante tiempo. Cuando se le preguntó a Jesus sobre su disposición en cuanto a agregar una herramienta de software a su negocio, nos comentó que le gustaría ver dicha herramienta y comprobar su funcionalidad por lo que pudimos notar que es una persona analitica debido a que consideró que el trabajo está en una etapa inicial. Él considera que para que un software llame su atención debe ser editable de modo que cuente con un catálogo de opciones para escoger su interfaz y funciones <br/>
+
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/31d85574-3d67-4879-8572-2889e14862c5)
-<br/>
 
 
 
