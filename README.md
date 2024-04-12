@@ -856,7 +856,7 @@ El backlog del sprint incluye las siguientes tareas:
 
 | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |----|-------|----|-------|-------------|-------------------|-------------|--------|
-| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | one |
+| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | Done |
 | T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas, Daniel del Castillo |  Done |
 | T03 | Contactar al equipo de ventas | W03 | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información |1| Gustavo Poma, Sergio Pecan  | Done |
 
