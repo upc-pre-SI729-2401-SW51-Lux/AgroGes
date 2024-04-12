@@ -17,6 +17,7 @@
 - **Relación de Integrantes**:
   - Pecan Pariona, Sergio Joel (u20201a938)
   - Landeo Simeón, Favio Sebastián (u202119588)
+  - Cabanillas Gora, Andrea Milagros (u202211711)
 - **Ciclo**: 2024-1
 
 ---
