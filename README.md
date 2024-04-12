@@ -754,7 +754,7 @@ Configuración de la base de datos: Configuración necesaria para instalar y con
  Crear la base de datos de AgroGes
  Crear las tablas de las entidades mensionadas 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.2 Landing Page, Services & Applications Implementation.
 
 ### 5.2.1 Sprint 1
