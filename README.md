@@ -291,12 +291,12 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ¿Que caracteristicas cree que debería implementar el Software?<br>
 
 **Segmento 2: Grandes agricultores**<br>
-¿Cuál es el su nombre y Razón Social de su empresa?<br>
+¿Cuál es el su nombre?<br>
 ¿Qué produce?<br>
-¿Cúanto tiempo lleva trbajando en el negocio agrícola?<br>
+¿Cúanto tiempo lleva trabajando en el negocio agrícola?<br>
 ¿Considera que la gestión de sus hectáreas de cultivo es una tarea pesada?<br>
 ¿Cómo gestiona sus actividades agrícolas, Cuenta con alguna herramienta tecnológica para ayudarse?<br>
-¿Qué características buscó en el software para elegirlo?<br>
+¿Qué características buscaría en el software para elegirlo?<br>
 ¿Consideraría cambiar los software que usa por uno solo en el que pueda hacer todo el trabajo?<br>
 ¿Qué características adicionales cree que debería tener nuestra nueva herramienta?<br>
 
@@ -308,6 +308,7 @@ Segmento 1: Pymes Agrícolas <br/>
 **Entrevistado 1:** Roberto Hoyos Gutierrez <br/>
 **Resumen:** El entrevistado es un hombre de 45 años lleva 5 años trabajando en el sector agrícola plantando y cosechando manzana golden. Él considera que su labor en el campo es relajante, por lo que no representa una dificultad para él. Acerca de la tecnología usada en su trabajo, menciona que usa un sistema de riego y curaciónes con unos motores estacionarios. Cuando le preguntamos sobre las caracteristicas que debería tener el software mencionó que le gustaría tener una opción para administrar el riego con una computadora para ya no tener que activar su motor estacionario manualmente.  <br/>
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/52e7323b-cf1d-4dfd-8cba-07e29adff6dd)
 
 
 **Entrevistado 2:** Hernan Delgado <br/>
@@ -334,6 +335,7 @@ Segmento 2: Medianas y Grandes Empresas agrícolas
 
 **Entrevistado 1:** Luis Carlos Cruz <br/>
 **Resumen:** Luis es un hombre mayor nos comenta que lleva alrededor de 10 años de experiencia en el sector agrícola, nos menciona que cada cultivo es diferente y que este se aplica artesanalmente en sus campos. Él opina que la herramienta de software debería tener un indicador de un control meteorológico para saber cuando lloverá y así planear mejor los riegos. Durante la entrevista pudimos entender que las personas en su entorno laboral no usaban tanta tecnología por lo que podemos ver como oportunidad de negocio ya que los competidores no estan llegando la gente aledaña Luis
+
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b6e732d7-9d2e-4c40-91b0-204a4b68715c)
 
 <br/> <br/>
