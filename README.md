@@ -111,6 +111,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     - [5.1 Software Configuration Management](#51-software-configuration-management)
         - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
         - [5.1.2 Source Code Management](#512-source-code-management)
+        - [5.1.3 Software Development Environment Configuration](#513-source-code-style-guide--conventions)
+        - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
     - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
         - [5.2.1 Sprint 1](#521-sprint-1)
             - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
@@ -753,7 +755,7 @@ Balance: Esta clase se crea mensualmente y determina las ganancias de la Company
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management
-- ### Software Development Environment Configuration
+- ### 5.1.1 Software Development Environment Configuration
 
  **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
  
@@ -772,7 +774,7 @@ Balance: Esta clase se crea mensualmente y determina las ganancias de la Company
  
  **Angular** Un framework de desarrollo web para facilitar el front end
    
-- ### Source Code Management
+- ### 5.1.2 Source Code Management
 
  Repositorio del Landing Page : 
 
@@ -788,13 +790,13 @@ Finalmente, la rama "master" será la rama principal y estable del repositorio. 
 
 Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
   
-- ### Source Code Style Guide & Conventions
+- ### 5.1.3 Source Code Style Guide & Conventions
 
 En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
 
 Además, hemos establecido el uso de terminología en inglés para las diferentes declaraciones en nuestras líneas de código en todos los lenguajes de programación empleados en el proyecto. Esta decisión busca promover la coherencia y la claridad en la comunicación del código, facilitando la colaboración entre miembros del equipo y mejorando la legibilidad del código fuente en general.
   
-- ### Software Deployment Configuration
+- ### 5.1.4 Software Deployment Configuration
 
 Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto 
   Hardward:
