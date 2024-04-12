@@ -578,7 +578,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.4 Web Applications User Flow Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/924652fa-d293-4bd1-b5a1-c6b0b1bac0db)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/c310f9ee-c780-4568-a731-a7bc2dc83a80)
 
 ## 4.5 Web Applications Prototyping
 
