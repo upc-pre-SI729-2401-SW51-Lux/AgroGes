@@ -566,15 +566,15 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.3 Web Applications Mock-ups
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/79257208-5686-42fb-bb20-d09d6ce04f9d)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/32d74b6f-5ca9-488a-a76e-744a88d105bf)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/01530b85-deeb-40c5-a5c1-7b9ca4b55009)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9786306d-10af-49de-af23-858e32dbb0cd)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7fb99bd9-481d-4ea5-99b8-c2485565d672)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/15064e9d-bca5-43e6-9d0b-3a5f24d65d33)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/e4f96fa0-0e30-4c9a-afc8-30de967bb83b)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/8af1b6f5-efe7-4a1e-bbef-810f55d2f381)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/7c9fa6b0-7b7f-4448-9ea1-f97eee5f8f70)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/31c0305b-e342-4602-85d1-00cad74e9ae1)
 
 - ### 4.4.4 Web Applications User Flow Diagrams
 
