@@ -685,9 +685,9 @@ Balance: Esta clase se crea mensualmente y determina las ganancias de la Company
 
    ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/49e99b2d-0e83-4f81-8212-26e32d032e54)
 
- # Capítulo V : Product Implementation, Validation & Deployment. 
----
 
+---
+ # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management
 - ### Software Development Environment Configuration
@@ -754,7 +754,7 @@ Configuración de la base de datos: Configuración necesaria para instalar y con
  Crear la base de datos de AgroGes
  Crear las tablas de las entidades mensionadas 
 
-
+# Capítulo V: Product Implementation, Validation & Deployment
 ## 5.2 Landing Page, Services & Applications Implementation.
 
 ### 5.2.1 Sprint 1
