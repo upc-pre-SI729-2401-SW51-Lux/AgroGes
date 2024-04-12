@@ -550,15 +550,15 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 ## 4.4 Web Applications UX/UI Design
 - ### 4.4.1 Web Applications Wireframes
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/bdd1f74c-99da-4e9c-ac6b-464b5088e8d7)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/d38f259c-98a3-43e1-af4a-4dba73811ecb)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/458024d6-4cf9-4fcb-a343-e617fc842d9d)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/2e76e6e9-c749-4f56-8dcb-d9f778c60f61)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/26b391d6-561a-4a00-b47c-77b8dd5f94fc)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/e8b15922-61b3-43c9-a418-ed19e7692830)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/63229ec3-b076-419c-8f38-9c9d6ecb2961)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/8e27a1d0-5dcb-4026-92ac-d9cfc9422b83)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/8135a331-ea01-414c-8e3c-aa200cca6848)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/85fd100b-e59d-4462-a737-147e25f72241)
 
 - ### 4.4.2 Web Applications Wireflow Diagrams
 
