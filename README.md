@@ -1,4 +1,4 @@
-# AgroGes
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/97f969f1-8926-43a2-9f85-f41182d8de34)# AgroGes
 ---
 
 # Carátula
@@ -277,6 +277,7 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 </ul>
 
 ## 2.2 Entrevistas
+
 ### 2.2.1 Diseño de entrevistas
 **Segmento 1: Pequeños agricultores**<br>
 ¿Cúal es su nombre?<br>
@@ -299,27 +300,72 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 ### 2.2.2 Registro de entrevistas
 
+Segmento 1: Pymes Agrícolas <br/>
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/Edx3xkDKW8FLkz7rlFUToxsB3CrkBqPzBfs67F99S_8i8w?e=j6bgfj<br/>
+
 **Entrevistado 1:** Roberto Hoyos Gutierrez <br/>
-**Resumen:**El entrevistado es un hombre de 45 años lleva 5 años trabajando en el sector agrícola plantando y cosechando manzana golden. Él considera que su labor en el campo es relajante, por lo que no representa una dificultad para él. Acerca de la tecnología usada en su trabajo, menciona que usa un sistema de riego y curaciónes con unos motores estacionarios. Cuando le preguntamos sobre las caracteristicas que debería tener el software mencionó que le gustaría tener una opción para administrar el riego con una computadora para ya no tener que activar su motor estacionario manualmente.  <br/>
-**Link:**  <br/>
+**Resumen:** El entrevistado es un hombre de 45 años lleva 5 años trabajando en el sector agrícola plantando y cosechando manzana golden. Él considera que su labor en el campo es relajante, por lo que no representa una dificultad para él. Acerca de la tecnología usada en su trabajo, menciona que usa un sistema de riego y curaciónes con unos motores estacionarios. Cuando le preguntamos sobre las caracteristicas que debería tener el software mencionó que le gustaría tener una opción para administrar el riego con una computadora para ya no tener que activar su motor estacionario manualmente.  <br/>
+
+
 
 **Entrevistado 2:** Hernan Delgado <br/>
 **Resumen:** El entrevistado es un agricultor especializado en maíz y papa que lleva en el sector desde hace 10 años. Él considera que el cuidado de las plantas es una tarea de sumo cuidado, ya que implica una dedicación especial a cada tipo de cultivo. El considera que nuestro software sería una ayuda a la planificación y gestión de los cultivos, centrado en el agricultor para hacerlo más fácil y practico<br/>
-**Link:** <br/>
 
-**Entrevistado 3:** Luis Carlos Cruz <br/>
-**Resumen:** Luis nos comenta que lleva alrededor de 10 años de experiencia en el sector agrícola, nos menciona que cada cultivo es diferente y que este se aplica artesanalmente en sus campos. Él opina que la herramienta de software debería tener un indicador de un control meteorológico para saber cuando lloverá y así planear mejor los riegos. Durante la entrevista pudimos entender que las personas en su entorno laboral no usaban tanta tecnología por lo que podemos ver como oportunidad de negocio ya que los competidores no estan llegando la gente aledaña Luis <br/>
-**Link:** <br/>
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b991f330-0226-4307-a1a0-f9cebacefb10)
+
+
+**Entrevistado 3:** Tony Pariona Quispe <br/>
+**Resumen:** Tony es un hombre que lleva 5 años en el negocio agrícola. Pudimos observar que él está entusiasmado por implementar un software que le permita ayudar a su gestión agrícola. Tony considera que el software debe tener las funciones de cuidado de riego, consulta meteorologica, control de plagas. Gracias a su entrevista pudimos denotar que le gustaría incorporar en un futuro  
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/6601b9d0-fba4-4dc4-aaa4-53ef2b68fc88)
+
+<br/>
+
+
+
+
+Segmento 2: Medianas y Grandes Empresas agrícolas 
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/Eeyk1ycTEE1FpiiYioLJHzABH_JJkAgTjxBpdhGxxWI6Cw?e=dYl2l0 <br/>
+
+
+
+
+**Entrevistado 1:** Luis Carlos Cruz <br/>
+**Resumen:** Luis es un hombre mayor nos comenta que lleva alrededor de 10 años de experiencia en el sector agrícola, nos menciona que cada cultivo es diferente y que este se aplica artesanalmente en sus campos. Él opina que la herramienta de software debería tener un indicador de un control meteorológico para saber cuando lloverá y así planear mejor los riegos. Durante la entrevista pudimos entender que las personas en su entorno laboral no usaban tanta tecnología por lo que podemos ver como oportunidad de negocio ya que los competidores no estan llegando la gente aledaña Luis
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b6e732d7-9d2e-4c40-91b0-204a4b68715c)
+
+<br/> <br/>
+
+
+**Entrevistado 2:** Jesus Alvarado  <br/>
+**Resumen:**  Jesus es un ingeniero ambiental de 28 años que tiene un terreno en huaura. El nos relata que cultivan palta,yuca y camote debido a que el clima calido lo favore. Jesus también nos contó que él trabaja con formulas en excel y que le consume bastante tiempo. Cuando se le preguntó a Jesus sobre su disposición en cuanto a agregar una herramienta de software a su negocio, nos comentó que le gustaría ver dicha herramienta y comprobar su funcionalidad por lo que pudimos notar que es una persona analitica debido a que consideró que el trabajo está en una etapa inicial. Él considera que para que un software llame su atención debe ser editable de modo que cuente con un catálogo de opciones para escoger su interfaz y funciones
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/31d85574-3d67-4879-8572-2889e14862c5)
+<br/>
+
+
 
 
 
 
 ### 2.2.3 Análisis de entrevistas
 
+Despues de haber realizado las entrevistas pudimos observar un par de datos interesantes que mostraremos a continuación
+<ul>
+  <li> El 100% de los entrevistados son hombres </li>
+  <li> El 100% de los entrevistados del segmento 2 usan excel para sus cultivos </li>
+  <li> Un 32% de los usuarios del segundo segmento cultivan tuberculos</li>
+  <li>  Todos los entrevistados se vieron intrigados por la implementación de nuestra solución agroges</li>
+  <li> Pudimos ver que el 32% de nuestros entrevistados del segmento 2 han observado detenidamente el crecimiento agrícola de otros países y lo han relacionado a la modernización en estos procesos </li>
+ 
+  
+</ul>
+
+Luego de el analisis de los datos recolectados por nuestras entrevistas pudimos determinar cuales son las preocupaciones,gustos y caracteristicas generales del publico al que queremos dirigirnos, el cual plasmaremos a continuación en el apartado de las user personas, dentro de ellas podremos observar que todos son hombres entre 28 y 60 años como base, teniendo en cuenta que solo un entrevistado tiene la edad minima, es preciso asumir que esta no será la edad de nuestro user persona del segmento 
 ---
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
+
 ![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/44a04219-5293-4d5b-95d7-3bb5ada7b554)
 
 ![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0bfa5049-a56e-4e2f-a129-838d877b8dbc)
