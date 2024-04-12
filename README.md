@@ -562,7 +562,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.2 Web Applications Wireflow Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/043b7ab4-7ae2-434f-b879-14acf60b4b7b)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6fa9628b-71f1-46cf-b782-dacdd7f4e4b8)
 
 - ### 4.4.3 Web Applications Mock-ups
 
