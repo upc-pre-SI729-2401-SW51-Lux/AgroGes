@@ -18,7 +18,8 @@
   - Pecan Pariona, Sergio Joel (u20201a938)
   - Landeo Simeón, Favio Sebastián (u202119588)
   - Cabanillas Gora, Andrea Milagros (u202211711)
-  - Poma Espinoza Gustavo Arturo (u20221c138)
+  - Poma Espinoza, Gustavo Arturo (u20221c138)
+  - Del Castillo, Bueno Daniel Mateo (u202211212)
 - **Ciclo**: 2024-1
 
 ---
@@ -380,7 +381,15 @@ User persona 1: <br>
 ---
 
 ## 2.4 Ubiquitous Language
-Para el completo entendimiento de este sistema se debe invertir un poco de tiempo para entender más sobre el funcionamiento del proyecto
+
+Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser entendido en cualquier parte, esta sección tiene como intención permitirle a personas sin vocabulario de un Ingeniero de software puedan entender. A continuación, mostraremos un glosario con contenido de este proyecto:
+<ul>
+  <li> Api: Una "Application Programming Interface" sirve como un puente ente diferentes softwares, generalmente son utilizados para recaudar información del exterior para mostrarlas en el interior del documento </li>
+  <li> Catalogue: Es una sección sistematica y organizada de elementos, información o recursos disponibles para el usuario siendo esta una manera en la que el usuario tiene más libertad de elección. </li>
+  <li> User: Es el individuo que interactua con la plataforma y para la que ha sido diseñada la misma. Los usuarios representan una gran variedad de grupos de personas, siendo que estos aportan una retroalimentación util de cada punto de vista para la mejora constante del proyecto.  </li>
+  <li>Library: Una librería dentro del contexto del trabajo viene a ser un grupo de herramientas que cumplen funciones variadas que ayudan a organizar de mejor manera tareas específicas, el aspecto más relevante de los API es que es modular y puede incorporarse y retirarse del proyecto en cuanto sea pertinente. </li>
+
+</ul>
 
 
 ---
