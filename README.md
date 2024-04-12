@@ -525,15 +525,15 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 ## 4.3 Landing Page UI Design
 - ### 4.3.1 Landing Page Wireframe
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/1a6c7c15-d7ab-4f3a-8124-a029481801c3)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/5afda3de-144b-46b5-ad3b-e25fcc42027f)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/36755d60-7cec-4d96-bb9a-5b1026f4fb29)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/01f083af-fe92-4a7b-877c-179a5223a813)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/63d3076f-a4ae-47ba-a9df-f41fe0869ed8)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/ec6605f9-2e3b-49f5-8bcb-9e9b4fd74fc1)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6023be37-7db3-409d-929e-f479bf6d6a49)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/597eb932-a7a8-4bb9-8127-62789ffe165a)
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/d119f951-e1b1-482f-b95c-eaeaa5878283)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/5715041a-d46b-4265-9a87-5cb73246302f)
 
 - ### 4.3.2 Landing Page Mock-up
 
