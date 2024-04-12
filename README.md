@@ -687,7 +687,7 @@ Balance: Esta clase se crea mensualmente y determina las ganancias de la Company
 
 
 ---
- # Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1 Software Configuration Management
 - ### Software Development Environment Configuration
