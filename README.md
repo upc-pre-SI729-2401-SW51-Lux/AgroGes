@@ -644,7 +644,7 @@ https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-i
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
  
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/3c5390af-13e8-4445-9ba5-07d1cbce66d1)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/57d98ea0-b7a4-42ae-a776-d7fc747668e2)
   
 - ### 4.6.2 Software Architecture Container Diagrams
 
