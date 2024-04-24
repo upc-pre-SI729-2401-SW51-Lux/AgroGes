@@ -482,14 +482,7 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 ## 3.3 Impact Mapping
 
-| **Business Goals** | **Actors/Personas** | **Impact** | **Deliverables** | **User Stories** |
-|--------------------|---------------------|------------|------------------|------------------|
-| Alcanzar 600 usuarios suscritos al plan A en el lapso de 8 meses | Aldo Gomez | Aldo debe aprender a utilizar la tecnología para administrar su negocio y monitorear sus cultivos. | Una solución de software fácil de usar que permita a Aldo administrar su negocio y monitorear sus cultivos. | "Como Aldo, deseo poder monitorear mis cultivos a través de una aplicación para mejorar la eficiencia de mi negocio." |
-| Monitorear más sus cultivos | Aldo Gomez | Aldo debe aprender a utilizar la tecnología para administrar su negocio y monitorear sus cultivos. | Una solución de software fácil de usar que permita a Aldo administrar su negocio y monitorear sus cultivos. | "Como Aldo, deseo poder monitorear mis cultivos a través de una aplicación para mejorar la eficiencia de mi negocio." |
-| Expandir la marca para llegar a mercados extranjeros | Antonio Herrera | Antonio necesita encontrar una herramienta confiable que satisfaga todas sus necesidades y le permita expandir su negocio. | Una solución de software integral que permita a Antonio gestionar todos los aspectos de su negocio agrícola. | "Como Antonio, deseo tener una herramienta que me permita gestionar todos los aspectos de mi negocio para poder expandir mi marca a mercados extranjeros." |
-| Buscar herramientas nuevas que satisfagan las necesidades | Antonio Herrera | Antonio necesita encontrar una herramienta confiable que satisfaga todas sus necesidades y le permita expandir su negocio. | Una solución de software integral que permita a Antonio gestionar todos los aspectos de su negocio agrícola. | "Como Antonio, deseo tener una herramienta que me permita gestionar todos los aspectos de mi negocio para poder expandir mi marca a mercados extranjeros." |
-| Ser más eficiente | Antonio Herrera | Antonio necesita encontrar una herramienta confiable que satisfaga todas sus necesidades y le permita expandir su negocio. | Una solución de software integral que permita a Antonio gestionar todos los aspectos de su negocio agrícola. | "Como Antonio, deseo tener una herramienta que me permita gestionar todos los aspectos de mi negocio para poder expandir mi marca a mercados extranjeros." |
-
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/blob/main/AgroGes/Images/impact%20mapping.png)
 
 ## 3.4 Product Backlog
 | **#Order** | **User Story Id** | **Título** | **Descripción** |  **Story Points (1 / 2 / 3 / 5 / 8)** |
