@@ -283,24 +283,28 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ## 2.2 Entrevistas
 
 ### 2.2.1 Diseño de entrevistas
-**Segmento 1: Pequeños agricultores**<br>
-¿Cúal es su nombre?<br>
-¿Qué produce?<br>
-¿Cúanto lleva trabajando en el sector agrícola?<br>
-¿Considera que la gestión de sus huertas de cultivo es una tarea pesada?<br>
-¿Usa alguna herramienta tecnológica para ayudarse?<br>
-¿Estaría dispuesto a incluir una solución de Software para agilizar sus procesos?<br>
-¿Que caracteristicas cree que debería implementar el Software?<br>
+**Segmento 1: Agricultores**<br>
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarollaste en tu trabajo?<br/>
+¿Que navegador web usa más?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Podría brindarnos una frase que describa su situación?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
-**Segmento 2: Grandes agricultores**<br>
-¿Cuál es el su nombre?<br>
-¿Qué produce?<br>
-¿Cúanto tiempo lleva trabajando en el negocio agrícola?<br>
-¿Considera que la gestión de sus hectáreas de cultivo es una tarea pesada?<br>
-¿Cómo gestiona sus actividades agrícolas, Cuenta con alguna herramienta tecnológica para ayudarse?<br>
-¿Qué características buscaría en el software para elegirlo?<br>
-¿Consideraría cambiar los software que usa por uno solo en el que pueda hacer todo el trabajo?<br>
-¿Qué características adicionales cree que debería tener nuestra nueva herramienta?<br>
+**Segmento 2: Consultores**<br>
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
 ### 2.2.2 Registro de entrevistas
 
