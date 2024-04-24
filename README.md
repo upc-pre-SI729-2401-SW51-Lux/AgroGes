@@ -461,16 +461,13 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
 |--------|-----------|-----------------|-----------------------------|---------------------------------|
-|EPIC001|Planificación de Cultivos y Gestión de Insumos|||
-|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|||
-|EPIC003|Comunicación y Colaboración|||
-|EPIC004|Evaluación y Adaptación|||
-|EPIC001|Planificación de Cultivos y Gestión de Insumos|||
-|EPIC002|Seguimiento de Operaciones y Toma de Decisiones|||
-|EPIC003|Comunicación y Colaboración|||
-|EPIC004|Evaluación y Adaptación|||
-| TEPIC001 | Landing Page |||
-| TEPIC002 | RESTful API |||
+| EPIC001 | Planificación de Cultivos y Gestión de Insumos | Como agricultor, quiero poder planificar mis cultivos y gestionar mis insumos para maximizar la eficiencia y la productividad de mi granja. |||
+| EPIC002 | Seguimiento de Operaciones y Toma de Decisiones | Como gerente de granja, quiero poder seguir las operaciones en tiempo real y tomar decisiones basadas en datos para mejorar la gestión de la granja. |||
+| EPIC003 | Comunicación y Colaboración | Como miembro del equipo de la granja, quiero poder comunicarme y colaborar eficazmente con mis compañeros para asegurar que todos estamos trabajando hacia los mismos objetivos. |||
+| EPIC004 | Evaluación y Adaptación | Como propietario de una granja, quiero poder evaluar el rendimiento de mis operaciones y adaptar mis estrategias según sea necesario para garantizar la sostenibilidad a largo plazo de mi granja. |||
+| TEPIC001 | Landing Page | Como visitante, quiero poder navegar por la página de inicio para obtener una visión general de lo que la plataforma ofrece y cómo puede beneficiarme. |||
+| TEPIC002 | RESTful API | Como desarrollador, quiero poder interactuar con la API RESTful para crear, leer, actualizar y eliminar datos en la plataforma de manera eficiente. |||
+
 | US001 | Planificar la Temporada de Cultivo | Como agricultor, quiero crear un plan de cultivo detallado para la próxima temporada, asignando recursos como semillas, fertilizantes y agua a cada cultivo. | - **Dado** que accedo a la aplicación, **Cuando** planifico la próxima temporada de cultivo, **Entonces** puedo crear un **calendario de siembra** que especifique las fechas de siembra para cada cultivo. - **Dado** que asigno recursos a los cultivos, **Cuando** especifico **recursos específicos** como semillas, fertilizantes y agua para cada tipo de cultivo dentro del plan, **Entonces** la aplicación me permite guardar y editar mi plan de cultivo. - **Dado** que establezco metas de producción, **Cuando** considero las **condiciones climáticas** y la **disponibilidad de insumos**, **Entonces** puedo ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. | EPIC001 |
 | US002 | Definir Objetivos de Rendimiento | Como agricultor, quiero establecer metas de producción específicas para cada tipo de cultivo, considerando las condiciones climáticas y la disponibilidad de insumos. | - **Dado** que accedo a la aplicación, **Cuando** establezco objetivos de rendimiento para cada cultivo, **Entonces** la aplicación permite ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. - **Dado** que considero las **condiciones climáticas** y la **disponibilidad de insumos**, **Cuando** establezco metas de producción, **Entonces** puedo ajustar las metas en función de cambios en las condiciones climáticas o disponibilidad de insumos. | EPIC001 |
 | US003 | Seguimiento Detallado de Actividades Agrícolas | Como agricultor, quiero registrar datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas. | - **Dado** que accedo a la aplicación, **Cuando** registro datos diarios sobre las operaciones agrícolas, **Entonces** puedo incluir información sobre **riego, fertilización y tratamientos fitosanitarios** para cada cultivo. - **Dado** que registro datos diarios, **Cuando** agrego detalles específicos sobre cada actividad, como la cantidad de agua utilizada o el tipo de fertilizante aplicado, **Entonces** la aplicación me permite guardar y visualizar estos registros. - **Dado** que registro datos diarios, **Cuando** incluyo información sobre las operaciones realizadas en cada cultivo, **Entonces** la aplicación me permite agregar detalles específicos sobre cada actividad. | EPIC002 |
