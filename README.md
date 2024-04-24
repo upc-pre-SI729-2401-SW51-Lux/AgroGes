@@ -655,7 +655,7 @@ https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-i
   
 - ### 4.6.2 Software Architecture Container Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/8dc6ac58-9bfa-44fe-a0cb-ab163e531f3d)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/065e52a5-0954-42c3-9d4d-b6078450f0c4)
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
