@@ -471,18 +471,18 @@ Hipótesis 3:
 		<TD> Pequeños Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
         <TD>
 
-- Apasionado por la escritura y la narrativa. 
+- busca mejorar la eficiencia y calidad de su producción.
 - Creativo y curioso. 
-- Busca expresarse y comunicar ideas.   
+- desea apoyo en su cultivo
 </TD> 
 <TD>
 
-- Edad: Varía ampliamente, desde jóvenes hasta adultos mayores. 
-- Educación: Diversa, desde autodidactas hasta titulados en literatura o escritura creativa. 
+- Edad: desde adultos jovenes hasta adultos mayores.
+- 
 </TD>
 	</TR>
     <TR>
-		<TD> Grandes Agricultores /TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+		<TD> Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
         <TD>
 
 - Creativo y visualmente orientado. 
