@@ -8,8 +8,8 @@ Profesor: Ángel Augusto Velásquez Núñez
 
 
 # Informe de Trabajo Final
-- **Nombre del Startup**: Lux
-- **Nombre del Producto**: AgroGes
+- *Startup**: Lux
+- **Producto**: AgroGes
 - **Relación de Integrantes**:
   - Pecan Pariona, Sergio Joel (u20201a938)
   - Landeo Simeón, Favio Sebastián (u202119588)
@@ -17,6 +17,43 @@ Profesor: Ángel Augusto Velásquez Núñez
   - Poma Espinoza, Gustavo Arturo (u20221c138)
   - Del Castillo, Bueno Daniel Mateo (u202211212)
 - **Ciclo**: 2024-1
+
+- <div>
+    <h3 align="center">Team Members:</h3>
+    </div>
+<div>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Amaro Villanueva, Camila Elena</td>
+            <td>U202114248</td>
+        </tr>
+        <tr>
+            <td>Jave Diaz, Mathias Alejandro</td>
+            <td> U202212721</td>
+        </tr>
+        <tr>
+            <td>Huilca Chipana, Gustavo</td>
+            <td>U202213983</td>
+        </tr>
+        <tr>
+            <td>Luna Capuñay, Italo D'Alessandro</td>
+            <td>U202213375</td>
+        </tr>
+         <tr>
+            <td>Cuadros Rodriguez, Juan Alejandro</td>
+            <td>U20221A359</td>
+        </tr>
+          <tr>
+            <td>Alvarez Araguache, Samira Jetzabel</td>
+            <td>U20211A046</td>
+        </tr>
+    </table>
+</div>
+
 
 ---
 
