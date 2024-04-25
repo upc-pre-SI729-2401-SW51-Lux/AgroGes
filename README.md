@@ -468,7 +468,7 @@ Hipótesis 3:
 **Demográfico**</TD>
 </TR>
 	<TR>
-		<TD>Escritor</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+		<TD> Pequeños Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
         <TD>
 
 - Apasionado por la escritura y la narrativa. 
@@ -482,7 +482,7 @@ Hipótesis 3:
 </TD>
 	</TR>
     <TR>
-		<TD>Ilustrador</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+		<TD> Grandes Agricultores /TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
         <TD>
 
 - Creativo y visualmente orientado. 
@@ -493,19 +493,7 @@ Hipótesis 3:
 - Educación: Puede variar, desde autodidactas hasta graduados en bellas artes o diseño.
 </TD>
 	</TR>
-    <TR>
-		<TD>Lector </TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
-        <TD>
-        
-- Amante de la lectura y la imaginación. 
-- Busca entretenimiento, conocimiento o escapismo. 
-- Puede tener preferencias específicas de género literario.
-</TD> <TD>
-
-- Edad: Diversa, desde niños hasta adultos mayores. 
-- Educación: Varía, desde personas con educación básica hasta titulados universitarios.
-</TD>
-	</TR>
+  
 </TABLE>
 
 
