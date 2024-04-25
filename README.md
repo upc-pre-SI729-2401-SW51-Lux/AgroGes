@@ -742,22 +742,31 @@ Balance: Esta clase se crea mensualmente y determina las ganancias de la Company
 ## 5.1 Software Configuration Management
 - ### 5.1.1 Software Development Environment Configuration
 
+ **Miro :** Es una plataforma en línea que permite la colaboración en tiempo real y la creación de tableros virtuales, diagramar procesos, crear mapas mentales, hacer lluvias de ideas, diseñar wireframes y mucho más. Utilizamos esta herramienta para poder realizar mapas de escenarios As-Is y To-Be.
+ 
+ **Figma :** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
+ 
+ **Structurizi :**ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
+
+ **IntelliJ IDEA :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
+ 
+ **Java :** Para el desarrollo del backend de la aplicación.
+
+ **Uxspresia :**
+ 
+ **MySQL** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+ 
+ **WebStorm :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
+ 
+ **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+ 
+ **Angular** Un framework de desarrollo web para facilitar el front end
+
  **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
  
  **CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
  
  **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
- 
- **Java :** Para el desarrollo del backend de la aplicación.
- 
- **SQL Server:** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
- 
- **Visual Studio:** Como entorno de desarrollo integrado (IDE) para el desarrollo de la aplicación web, especialmente para el desarrollo en C# y la gestión de la base de 
- datos SQL Server.
- 
- **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
- 
- **Angular** Un framework de desarrollo web para facilitar el front end
    
 - ### 5.1.2 Source Code Management
 
