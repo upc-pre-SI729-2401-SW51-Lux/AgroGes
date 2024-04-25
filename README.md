@@ -389,16 +389,16 @@ El desafío de los agricultores esta en la monitorización del crecimiento de cu
 Los usuarios son productores agrícolas, empresas agroindustriales grandes y pequeñas y expertos en agricultura.
 
 #### User Outcomes & Benefits
-Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
-Empresas agroindustriales grandes y pequeñas: Empresas dedicadas al procesamiento, envasado y distribución de productos agrícolas, incluyendo cooperativas y asociaciones de productores.
-Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
+-Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
+-Empresas agroindustriales grandes y pequeñas: Empresas dedicadas al procesamiento, envasado y distribución de productos agrícolas, incluyendo cooperativas y asociaciones de productores.
+-Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
-Esperamos que la aplicación aumente la productividad agrícola.
-Esperamos mejorar la calidad de los productos.
- Esperamos reducir las pérdidas de los cultivos.
-Esperamos que los agricultores se adapten a la tecnología y se modernicen.
+-Esperamos que la aplicación aumente la productividad agrícola.
+-Esperamos mejorar la calidad de los productos.
+- Esperamos reducir las pérdidas de los cultivos.
+-Esperamos que los agricultores se adapten a la tecnología y se modernicen.
 
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/8fc1bada-3b36-4cb8-af0b-28aae21a446b" width="300"/>
 
