@@ -85,7 +85,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
             <th style="text-align:center;">Acciones realizadas</th>
             <th style="text-align:center;">Conclusiones</th>
         </tr>
-        <tr>
+   
             <td align = "center">Participa en equipos
 multidisciplinarios con eficacia,
 eficiencia y objetividad, en el
