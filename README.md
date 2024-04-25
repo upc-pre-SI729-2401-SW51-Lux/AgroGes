@@ -8,7 +8,7 @@
     <br>INFORME
 </p>
 <p align="center">
-    <strong>Startup: ArtCollab </strong><br>
+    <strong>Startup: Lux </strong><br>
     <strong>Producto: ArtCollab </strong>
 </p>
 
