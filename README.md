@@ -46,6 +46,14 @@
 
 
 ---
+# Project Report Collaboration Insights
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+
+- Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
+
+TB2: Las tareas asignadas para la entrega TB2 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+  
 
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
@@ -57,6 +65,29 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | 1.2           |  [02/04/24] |       Sergio Pecan         |        [Capitulo 3] |
 | 1.3           |  [03/04/24] |       Favio Landeo y Gustavo Poma        |        [Capitulo 4] |
 | 1.4           |  [09/04/24] |       Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan       |      [Capitulo 5] |
+
+<table >
+        <tr>
+            <th style="text-align:center;">Versión</th>
+            <th style="text-align:center;">Fecha</th>
+            <th style="text-align:center;">Autor</th>
+            <th style="text-align:center;">Descripción de la modificación</th>
+        </tr>
+        <tr>
+            <td align = "center">TB1</td>
+            <td>11/04/2024</td>
+            <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
+            <td> capítulo 1 ; capítulo 2 ; capítulo 3 ; capítulo 4 ; capítulo 5 </td>
+<table>
+<br>
+
+
+
+
+
+
+
+
 
 ---
 # Project Report Collaboration Insights 
