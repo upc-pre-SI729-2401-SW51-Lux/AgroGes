@@ -1,5 +1,5 @@
 <p align="center">
-# **AgroGes**
+AgroGes
 </p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 Ingeniería de Software
@@ -8,8 +8,8 @@ Desarrollo de Aplicaciones Open Source - SW51
 
 Profesor: Ángel Augusto Velásquez Núñez
 
-
-# Informe de Trabajo Final
+<p align="center">
+# Informe 
 - *Startup**: Lux
 - **Producto**: AgroGes
 - **Relación de Integrantes**:
@@ -19,6 +19,7 @@ Profesor: Ángel Augusto Velásquez Núñez
   - Poma Espinoza, Gustavo Arturo (u20221c138)
   - Del Castillo, Bueno Daniel Mateo (u202211212)
 - **Ciclo**: 2024-1
+</p>
 
 - <div>
     <h3 align="center">Team Members:</h3>
