@@ -283,9 +283,7 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba0d247-84f1-4b44-b38b-d1cad0d2f0b8)
 
 ### 1.1.1 Descripción de la Startup
-AgroGes us una startup que busca poder apoyar a pequeños y medianos agricultores en el desarrollo de sus cultivos. En nuestro compromiso por fortalecer el sector agrícola, ofrecemos una plataforma integral que proporciona información técnica y asesoramiento especializado para optimizar la producción.Nuestro equipo está conformado por profesionales altamente capacitados, listos para brindar orientación sobre las mejores prácticas agrícolas, incluyendo recomendaciones sobre las temporadas ideales para el cultivo, los períodos óptimos de riego, así como consejos sobre el manejo de plagas y enfermedades.Además, facilitamos a los agricultores la posibilidad de programar visitas de nuestros profecionales a sus terrenos para realizar evaluaciones específicas y ofrecer recomendaciones personalizadas. Creemos firmemente en la importancia de la atención individualizada para garantizar un mejor desempeño en sus cultivos.
-En resumen, en nuestra plataforma encontrarás el respaldo necesario para impulsar tu producción agrícola, con acceso a información precisa y la asistencia de expertos que te acompañarán en cada etapa del proceso. Juntos, trabajaremos para alcanzar el éxito en tu actividad agrícola.  
-
+Nuestro proyecto agrícola surge de la identificación de una necesidad insatisfecha en la gestión de productos agrícolas ya que los agrícolas enfrentan desafíos en la gestión de sus productos y operaciones, por lo que hemos visto una oportunidad para aplicar este software y asi mejorar la eficiencia y la calidad en las operaciones para los productores agrícolas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 #### - Favio Sebastián Landeo Simeón
@@ -319,26 +317,64 @@ Soy Andrea, actualmente soy una estudiante de Ingeniería de software, me gusta 
 ---
 
 ## 1.2 Solution Profile
-En un mundo donde la agricultura desempeña un papel importante, la necesidad de herramientas innovadoras que optimicen la gestión y la calidad de la producción agrícola es necesaria. Por eso presentamos un software revolucionario diseñado para transformar la forma en que los productores de cultivos interactúan y gestionan sus operaciones.
+Se encuentra compuesta por 2 secciones: 
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/75561662-33f1-4660-be32-063574f4ead4" width="300"/>
+- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
+ 
+- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio. 
 
 ### 1.2.1 Antecedentes y problemática
 
-Los agricultores enfrentan una variedad de problemáticas en diferentes partes del mundo y en diferentes etapas de la cadena de producción agrícola, estos son:
-Cambio climático: El cambio climático genera sequías, inundaciones, y cambios en los patrones de temperatura, lo que afecta la productividad de los cultivos y el ganado.
-Escasez de agua: En muchas regiones, la disponibilidad de agua para riego es limitada, lo que dificulta la producción agrícola, especialmente en áreas áridas o semiáridas.
-Pérdida de suelo: La deforestación, la erosión del suelo y la mala gestión de la tierra pueden llevar a la pérdida de la fertilidad del suelo y a la desertificación, reduciendo la productividad agrícola a largo plazo.
-Plagas y enfermedades: Las plagas de insectos, enfermedades de las plantas y malezas pueden dañar los cultivos y reducir los cultivos, lo que resulta en pérdidas económicas para los agricultores.
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/42b17f45-d235-4eaf-8794-ee09eb0fb47b" width="300"/>
-### 1.2.2 Lean UX Process
-Nuestro software ofrece un sistema de gestión agrícola que aborda los desafíos que enfrentan los agricultores. Dirigido principalmente a los productores de cultivos, nuestro proyecto proporciona herramientas para la planificación de cultivos, la gestión de insumos. Además, ofrece un detallado de cultivos que permite a los agricultores realizar un seguimiento de sus operaciones y tomar decisiones informadas para mejorar la calidad y la productividad de sus cultivos.
+### Antecedentes:
+-Creciente demanda de alimentos debido al aumento de la población mundial.
+-Necesidad de aumentar la productividad agrícola para satisfacer esta demanda.
+-Desafíos asociados con el cambio climático y la sostenibilidad.
+-Dificultad para monitorear y optimizar el crecimiento de los cultivos.
+-Preocupaciones sobre la calidad y seguridad de los productos.
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/fa430c2b-d955-451e-910e-e04abc24aded" width="300"/>
+### Problemática (5Ws y 2Hs)
+### What/Qué
+#### ¿Cuál es el problema?
+La gestión de productos agrícolas y la optimización de operaciones para productores en la industria agrícola.
+
+### Where / Dónde
+#### ¿Dónde está el usuario cuando usa el producto?
+En áreas rurales y regiones agrícolas, campos de cultivos o huertas.
+
+#### ¿Dónde surge el problema?
+En las grandes y pequeñas empreas agricolas , asi como agricolas independientes.
+
+### Why / Por Qué
+#### ¿Cuál es la causa del problema?
+Debido a la creciente demanda de alimentos, la necesidad de aumentar la productividad agrícola y los desafíos asociados con el cambio climático y la sostenibilidad.
+
+### When / Cuándo
+#### ¿Cuándo sucede el problema?
+Cuando la población mundial está en constante crecimiento y la presión sobre la producción agrícola es cada vez mayor debido a factores como el cambio climático
+
+### Who / Quién
+#### ¿Quiénes están involucrados?
+ Productores agrícolas, empresas grandes y pequeñas del sector agroindustrial.
+
+### How / Cómo
+#### ¿En qué condiciones los usuarios usan nuestro producto?
+Utilizando celulares, tablets,  donde tienen colaboraciones con expertos en agricultura y desarrollo de soluciones personalizadas.
+
+#### ¿Cómo nos conoceran los usuarios?
+Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
+
+- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
+- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
+- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
+
+### How much / Cuánto
+El impacto económico puede variar según el alcance y la implementación de las soluciones propuestas, pero el potencial de mejora en eficiencia y calidad es significativo.
+
+
+### 1.2.2 Lean UX Process
 
 #### 1.2.2.1 Lean UX Problem Statements
-Algunos desafios que podemos enfrentar como grupo son la adopción y capacitación ya que no podemos asegurar que los usuarios,adopten la aplicación y comprendan cómo usarla de manera efectiva, tambien garantizar que los usuarios tengan acceso a la tecnología necesaria, como dispositivos móviles o computadoras y conexión a internet, por ultimo garantizar la seguridad y privacidad de los datos de los usuarios, especialmente cuando se trata de información sobre la producción agrícola.
-
+El desafío de los agricultores esta en la monitorización del crecimiento de cultivos, ya que la falta de herramientas efectivas para monitorear el crecimiento de los cultivos dificulta la identificación temprana de problemas, como  condiciones climáticas adversas, lo que resulta en pérdidas de cosechas y disminución de la calidad de los productos, por otro lado Los productores agrícolas luchan por optimizar sus operaciones debido a la falta de herramientas, desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para aumentar la eficiencia y la productividad
 
 #### 1.2.2.2 Lean UX Assumptions
 Los usuarios están abiertos a la idea de utilizar una aplicación para gestionar sus operaciones agrícolas, en lugar de los métodos tradicionales.
