@@ -93,26 +93,7 @@ eficiencia y objetividad, en el
 marco de un proyecto en
 soluciones de ingeniería de
 software.</td>
-            <td> 
-
-Andrea Cabanillas Gora <br>
-TB1 <br>
-
-Daniel Del Castillo <br>
-TB1 <br>
-
-TB1 <br>
-
-Gustavo Poma Espinoza <br>
-TB1 <br>
-
-Sergio Pecan <br>
-TB1 <br>
-
-Favio Landeo <br>
-TB1 <br>
-
-</td>
+           
             <td>
             
    <tr>
@@ -141,6 +122,29 @@ TB1 <br>
 </td>
     
        <tr>
+
+ <td> 
+
+Andrea Cabanillas Gora <br>
+TB1 <br>
+
+Daniel Del Castillo <br>
+TB1 <br>
+
+TB1 <br>
+
+Gustavo Poma Espinoza <br>
+TB1 <br>
+
+Sergio Pecan <br>
+TB1 <br>
+
+Favio Landeo <br>
+TB1 <br>
+
+</td
+
+       
 </table>
 
 <br>
