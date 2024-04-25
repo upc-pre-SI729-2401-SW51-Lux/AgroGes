@@ -71,7 +71,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
             <td align = "center">TB1</td>
             <td>11/04/2024</td>
             <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
-            <td> capítulo 1 ; capítulo 2 ; capítulo 3 ; capítulo 4 ; capítulo 5 </td>
+            <td>capitulo 1 <br><br>capitulo 2<br><br>capitulo 3<br><br>capitulo 4<br><br>capitulo 5 <br><br>  </td>
 <table>
 <br>
 
