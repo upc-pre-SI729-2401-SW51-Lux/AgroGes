@@ -94,7 +94,7 @@ soluciones de ingeniería de
 software.</td>
             <td> 
 
-Amaro Villanueva, Camila Elena <br>
+Andrea Cabanillas Gora <br>
 TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
@@ -131,10 +131,9 @@ aplicación de soluciones de
 software.</td>
             <td> 
 
-Amaro Villanueva, Camila Elena <br>
+Andrea Cabanillas Gora <br>
 TB1 <br>
-Para esta entrega se analizaron las preferencias de los segmentos escritor, ilustrador y lector mendiante la realización y análisis de entrevistas. Además, de aplicar un adecuado diseño UX/UI acorde a los usuarios tanto para la versión de escritorio como responsive. Asimismo, se realizó un análisis exhaustivo de la competencia, para poder identificar de que manera nuestra aplicacion se puede diferenciar de ello, considerando tambien los antecedentes relacionados a la problematica que deseamos resolver.
-
+Para esta entrega se analizaron las preferencias de los segmentos objetivos mendiante la realización y análisis de entrevistas. . 
 Cuadros Rodriguez, Juan Alejandro <br>
 TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
@@ -449,7 +448,95 @@ Hipótesis 3:
 
 
 #### 1.2.2.4 Lean UX Canvas
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d39d3b40-da81-48cb-9bbd-3738bfab9b88" width="500"/>
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha:** 16/04/2024
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**Iteración 1**
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**
+        
+Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climaticos y plagas , lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**
+Desarrollar una aplicacion que integre seguimiento en tiempo real , monitorización del clima, y aviso de plagas.
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**
+- Mejora en la calidad del producto
+- educción de pérdidas y desperdicios
+- Aumento de la satisfacción del cliente
+
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Usuarios y Clientes:**
+pequeñas empresas y grandes empresas agrícolas.
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+***Creemos que** *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola *
+**Sabremos que** *los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados *
+
+### Hipótesis 2:
+***Creemos*** * que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real *
+**Sabremos que** *los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha *
+
+Hipótesis 3:
+
+### Hipótesis 3:
+***Creemos que** * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola *
+**Sabremos que** * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
+</TD>
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**
+
+Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.
+</TD> 
+
+<TD>
+
+**4. Beneficios del usuario:**
+
+- Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.
+- Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+        
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+
+Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
+
+</TD> 
+	</TR>
+</TABLE>
 
 
 ---
@@ -491,7 +578,6 @@ Hipótesis 3:
 </TD> <TD>
 
 - Edad: Desde adultos y personas de la tercera edad
--
 </TD>
 	</TR>
   
