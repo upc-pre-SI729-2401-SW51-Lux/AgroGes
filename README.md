@@ -398,14 +398,55 @@ Los usuarios son productores agrícolas, empresas agroindustriales grandes y peq
 
 -Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
 
+
+#### User assumptions
+#### ¿Quién es el usuario?
+El usuario es típicamente un productor agrícola o un gerente de una empresa agroindustrial que busca mejorar la eficiencia y calidad de la producción agrícola.
+
+#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+Nuestro producto encaja en su día a día al facilitar la gestión de productos agrícolas, desde el cultivo hasta la distribución, optimizando operaciones y mejorando la calidad del producto final.
+
+#### ¿Qué problema resuelve nuestro producto?
+Nuestro producto resuelve problemas como  la ineficiencia en la gestión de inventario, y la dificultad para monitorear el crecimiento de cultivos, mejorando la eficiencia operativa y la calidad de la producción agrícola.
+
+#### ¿Cuándo y cómo es usado nuestro producto?
+Nuestro producto es utilizado a lo largo de todo el ciclo de producción agrícola, desde la planificación de cultivos hasta la distribución, a través de una plataforma digital accesible desde dispositivos móviles o computadoras.
+
+#### ¿Qué características son importantes?
+Las caracteristicas de seguimiento de la cadena de suministro en tiempo real, gestión automatizada de inventario, herramientas de monitorización de cultivos, trazabilidad de productos, y análisis de datos para la toma de decisiones informadas.
+
+#### ¿Cómo debería verse y comportarse nuestro producto?
+Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y herramientas de análisis poderosas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
+
+#### Business Assumptions
+1. **Creemos que nuestros clientes necesitan** una solución que les permita gestionar eficientemente sus operaciones agrícolas, desde el cultivo hasta la distribución, mejorando la eficiencia y la calidad de la producción.
+2. **Estas necesidades se pueden resolver con una** plataforma digital que integre funciones de seguimiento del clima, gestión de inventario, monitorización de cultivos y análisis de datos, proporcionando herramientas poderosas para la toma de decisiones informadas.
+3. **El valor #1 que mi cliente quiere de mi servicio**  es la mejora en la eficiencia operativa y la calidad de la producción agrícola, lo que les permite maximizar los rendimientos y la rentabilidad.
+4. **El cliente también puede obtener beneficios adicionales como** un mejor manejo de sus cultivos ya que estaran atentos del clima y plagas y sabran como tratarlas.
+5. **Voy a adquirir la mayoría de mis clientes** a través de campañas de marketing dirigidas a productores agrícolas y redes sociales.
+6. **Haré dinero a través de** modelos de suscripción mensual o anual por el uso de nuestra plataforma.
+7. **Mi competencia principal en el mercado** son otras soluciones de gestión agrícola existentes, tanto tradicionales como digitales.
+8. **Los venceremos debido a la simplicidad** .y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente
+9. **El mayor riesgo es que**  los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnollogico.
+10. **Resolveremos esto a través de** demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
+
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
+### Hipótesis 1:
+***Creemos que** *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola *
+**Sabremos que** *los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados *
 
--Esperamos que la aplicación aumente la productividad agrícola.
--Esperamos mejorar la calidad de los productos.
-- Esperamos reducir las pérdidas de los cultivos.
--Esperamos que los agricultores se adapten a la tecnología y se modernicen.
+### Hipótesis 2:
+***Creemos*** * que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real *
+**Sabremos que** *los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha *
 
-<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/8fc1bada-3b36-4cb8-af0b-28aae21a446b" width="300"/>
+Hipótesis 3:
+
+### Hipótesis 3:
+***Creemos que** * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola *
+**Sabremos que** * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
+
+
 
 #### 1.2.2.4 Lean UX Canvas
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/d39d3b40-da81-48cb-9bbd-3738bfab9b88" width="500"/>
@@ -414,7 +455,59 @@ Los usuarios son productores agrícolas, empresas agroindustriales grandes y peq
 ---
 
 ## 1.3 Segmentos objetivo
-El software está dirigido a los usuarios dentro del sector agrícola, incluyendo productores de cultivos individuales, agricultores familiares, empresas agrícolas, cooperativas agrícolas, exportadores de productos agrícolas, organizaciones sin fines de lucro , consultores agrícolas y cualquier persona novata que desee aprender sobre agricultura.
+<TABLE BORDER>
+	<TR>
+		<TD>
+
+**Tipo de usuario**</TD> <TD>
+
+**Geográfico** </TD> <TD>
+
+**Psicográfico**</TD> <TD>
+
+**Demográfico**</TD>
+</TR>
+	<TR>
+		<TD>Escritor</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+
+- Apasionado por la escritura y la narrativa. 
+- Creativo y curioso. 
+- Busca expresarse y comunicar ideas.   
+</TD> 
+<TD>
+
+- Edad: Varía ampliamente, desde jóvenes hasta adultos mayores. 
+- Educación: Diversa, desde autodidactas hasta titulados en literatura o escritura creativa. 
+</TD>
+	</TR>
+    <TR>
+		<TD>Ilustrador</TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+
+- Creativo y visualmente orientado. 
+- Apasionado por el arte y la expresión gráfica. 
+</TD> <TD>
+
+- Edad: Diversa, desde jóvenes talentosos hasta artistas experimentados. 
+- Educación: Puede variar, desde autodidactas hasta graduados en bellas artes o diseño.
+</TD>
+	</TR>
+    <TR>
+		<TD>Lector </TD> <TD>Puede estar ubicado en cualquier parte del mundo.</TD> 
+        <TD>
+        
+- Amante de la lectura y la imaginación. 
+- Busca entretenimiento, conocimiento o escapismo. 
+- Puede tener preferencias específicas de género literario.
+</TD> <TD>
+
+- Edad: Diversa, desde niños hasta adultos mayores. 
+- Educación: Varía, desde personas con educación básica hasta titulados universitarios.
+</TD>
+	</TR>
+</TABLE>
+
 
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a" width="500"/>
 
