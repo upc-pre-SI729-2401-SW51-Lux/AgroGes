@@ -8,13 +8,12 @@
     <br>INFORME
 </p>
 <p align="center">
-    <strong>Startup: Lux </strong><b>
-        
-    <strong>Producto: Agrogres </strong>
+    -<strong>Startup: Lux </strong><b>
+    -<strong>Producto: Agrogres </strong>
 </p>
 
 
-- <div>
+<div>
     <h3 align="center">Team Members:</h3>
     </div>
 <div>
