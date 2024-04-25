@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <strong>Startup: Lux </strong><br>
-    <strong>Producto: ArtCollab </strong>
+    <strong>Producto: Agrogres </strong>
 </p>
 
 <div>
