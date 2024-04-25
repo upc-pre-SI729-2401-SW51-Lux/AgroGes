@@ -8,10 +8,9 @@
     <br>INFORME
 </p>
 <p align="center">
-    <strong>Startup: Lux </strong><b>
-    <strong>Producto: Agrogres </strong>
+    <strong>Startup: ArtCollab </strong><br>
+    <strong>Producto: ArtCollab </strong>
 </p>
-
 
 <div>
     <h3 align="center">Team Members:</h3>
