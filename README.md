@@ -47,24 +47,18 @@
 
 ---
 # Project Report Collaboration Insights
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el repositorio de Github.
 
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
-- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1, que se enfoca en la Landing Page.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1.
+- 
+TB2: Las tareas asignadas para la entrega TB2 se han completado y están documentadas en el repositorio de Github.
+- Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 2.
 
-TB2: Las tareas asignadas para la entrega TB2 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
   
-
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
-
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-|-------------|-----------|-----------|---------------------------------|
-| 1.0         | [22/03/24]   | Andrea Cabanillas Gora  | [Capitulo 1] |
-| 1.1          |  [01/04/24] |        Daniel del Castillo      |        [Capitulo 2]|
-| 1.2           |  [02/04/24] |       Sergio Pecan         |        [Capitulo 3] |
-| 1.3           |  [03/04/24] |       Favio Landeo y Gustavo Poma        |        [Capitulo 4] |
-| 1.4           |  [09/04/24] |       Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan       |      [Capitulo 5] |
 
 <table >
         <tr>
