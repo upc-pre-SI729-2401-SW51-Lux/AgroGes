@@ -97,11 +97,10 @@ software.</td>
 
 Andrea Cabanillas Gora <br>
 TB1 <br>
-Se encargo del capitulo 1 ,entrevistas , caratula y landing page
 
 Daniel Del Castillo <br>
 TB1 <br>
- Ayudo en la elaboracion de preguntas para las entrevistas , los resumenes, el capitulo 2  y landing page.
+
 TB1 <br>
 
 Gustavo Poma Espinoza <br>
@@ -114,9 +113,8 @@ Favio Landeo <br>
 TB1 <br>
 
 </td>
-            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
+            <td>
             
-
    <tr>
             <td align = "center">Conoce al menos un sector
 empresarial o dominio de
