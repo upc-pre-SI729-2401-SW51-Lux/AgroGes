@@ -1,10 +1,10 @@
 # AgroGes
 ---
--Ingeniería de Software
+Ingeniería de Software
 
--Desarrollo de Aplicaciones Open Source - SW51
+Desarrollo de Aplicaciones Open Source - SW51
 
--Profesor: Ángel Augusto Velásquez Núñez
+Profesor: Ángel Augusto Velásquez Núñez
 
 
 # Informe de Trabajo Final
