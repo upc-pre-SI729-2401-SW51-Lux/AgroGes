@@ -478,19 +478,20 @@ Hipótesis 3:
 <TD>
 
 - Edad: desde adultos jovenes hasta adultos mayores.
-- 
+
 </TD>
 	</TR>
     <TR>
-		<TD> Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+		<TD> Grandes Agricultores </TD> <TD> Esta ubicado en un campo o zona de cultivo grande.</TD> 
         <TD>
 
-- Creativo y visualmente orientado. 
-- Apasionado por el arte y la expresión gráfica. 
+- Quiere reconocer las proximas plagas 
+- Desea estar atento a las proximas plagas para proteger sus cultivos
+- Le gusta ver el clima para lograr saber que hacer ese dia con sus cultivos 
 </TD> <TD>
 
-- Edad: Diversa, desde jóvenes talentosos hasta artistas experimentados. 
-- Educación: Puede variar, desde autodidactas hasta graduados en bellas artes o diseño.
+- Edad: Desde adultos y personas de la tercera edad
+-
 </TD>
 	</TR>
   
