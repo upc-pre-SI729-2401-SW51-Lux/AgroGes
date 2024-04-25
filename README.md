@@ -1,19 +1,17 @@
+# Agrogres
 <p align="center">
-AgroGes
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - SW51</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
+    <br>INFORME
 </p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-Ingeniería de Software
-
-Desarrollo de Aplicaciones Open Source - SW51
-
-Profesor: Ángel Augusto Velásquez Núñez
-
 <p align="center">
-# Informe 
-- *Startup**: Lux
-- **Producto**: AgroGes
-- **Ciclo**: 2024-1
+    <strong>Startup: Lux </strong><b>
+    <strong>Producto: Agrogres </strong>
 </p>
+
 
 - <div>
     <h3 align="center">Team Members:</h3>
