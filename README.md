@@ -1,4 +1,6 @@
+<center>
 # Agrogres
+</center>
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -8,8 +10,8 @@
     <br>INFORME
 </p>
 <p align="center">
-    -<strong>Startup: Lux </strong><b>
-    -<strong>Producto: Agrogres </strong>
+    <strong>Startup: Lux </strong><b>
+    <strong>Producto: Agrogres </strong>
 </p>
 
 
