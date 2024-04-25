@@ -78,7 +78,6 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ---
 # Student Outcome
-# Student Outcome
 
 <table >
         <tr>
