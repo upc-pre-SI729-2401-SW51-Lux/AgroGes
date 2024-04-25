@@ -1,19 +1,13 @@
 # AgroGes
 ---
+Ingeniería de Software
+Desarrollo de Aplicaciones Open Source - SW51
+Profesor: Ángel Augusto Velásquez Núñez
 
-# Carátula
-- **Universidad**: UPC
-- **Carrera**: Ingeniería de Software
-- **Ciclo**: 5
-- **Curso**: Desarrollo de Aplicaciones Open Source
-- **Sección**: SW51
-- **Profesor**: Ángel Augusto Velásquez Núñez
-
----
 
 # Informe de Trabajo Final
-- **Nombre del Startup**: Lux
-- **Nombre del Producto**: AgroGes
+ **Nombre del Startup**: Lux
+ **Nombre del Producto**: AgroGes
 - **Relación de Integrantes**:
   - Pecan Pariona, Sergio Joel (u20201a938)
   - Landeo Simeón, Favio Sebastián (u202119588)
