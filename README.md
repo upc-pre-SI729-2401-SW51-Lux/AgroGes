@@ -12,12 +12,6 @@ Profesor: Ángel Augusto Velásquez Núñez
 # Informe 
 - *Startup**: Lux
 - **Producto**: AgroGes
-- **Relación de Integrantes**:
-  - Pecan Pariona, Sergio Joel (u20201a938)
-  - Landeo Simeón, Favio Sebastián (u202119588)
-  - Cabanillas Gora, Andrea Milagros (u202211711)
-  - Poma Espinoza, Gustavo Arturo (u20221c138)
-  - Del Castillo, Bueno Daniel Mateo (u202211212)
 - **Ciclo**: 2024-1
 </p>
 
