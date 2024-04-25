@@ -28,28 +28,24 @@ Profesor: Ángel Augusto Velásquez Núñez
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Amaro Villanueva, Camila Elena</td>
-            <td>U202114248</td>
+            <td>Pecan Pariona, Sergio Joel</td>
+            <td>u20201a938</td>
         </tr>
         <tr>
-            <td>Jave Diaz, Mathias Alejandro</td>
-            <td> U202212721</td>
+            <td>Landeo Simeón, Favio Sebastián</td>
+            <td>u202119588</td>
         </tr>
         <tr>
-            <td>Huilca Chipana, Gustavo</td>
-            <td>U202213983</td>
+            <td>Cabanillas Gora, Andrea Milagros</td>
+            <td>u202211711</td>
         </tr>
         <tr>
-            <td>Luna Capuñay, Italo D'Alessandro</td>
-            <td>U202213375</td>
+            <td>Poma Espinoza, Gustavo Arturo</td>
+            <td>u20221c138</td>
         </tr>
          <tr>
-            <td>Cuadros Rodriguez, Juan Alejandro</td>
-            <td>U20221A359</td>
-        </tr>
-          <tr>
-            <td>Alvarez Araguache, Samira Jetzabel</td>
-            <td>U20211A046</td>
+            <td>Del Castillo, Bueno Daniel Mateo</td>
+            <td>u202211212</td>
         </tr>
     </table>
 </div>
