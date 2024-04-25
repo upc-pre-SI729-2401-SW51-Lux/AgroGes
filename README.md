@@ -377,10 +377,22 @@ El impacto económico puede variar según el alcance y la implementación de las
 El desafío de los agricultores esta en la monitorización del crecimiento de cultivos, ya que la falta de herramientas efectivas para monitorear el crecimiento de los cultivos dificulta la identificación temprana de problemas, como  condiciones climáticas adversas, lo que resulta en pérdidas de cosechas y disminución de la calidad de los productos, por otro lado Los productores agrícolas luchan por optimizar sus operaciones debido a la falta de herramientas, desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para aumentar la eficiencia y la productividad
 
 #### 1.2.2.2 Lean UX Assumptions
-Los usuarios están abiertos a la idea de utilizar una aplicación para gestionar sus operaciones agrícolas, en lugar de los métodos tradicionales.
-La aplicación resolverá problemas reales ya que abordará desafíos concretos que enfrentan los agricultores,como la planificación de cultivos, la gestión de insumos y la optimización de la cadena de suministro
-los usuarios comprenderán rápidamente cómo utilizar la aplicación y verán su valor para mejorar la eficiencia y la calidad en sus operaciones agrícolas.
-La aplicación podrá adaptarse fácilmente a diferentes entornos agrícolas, desde pequeñas granjas familiares hasta grandes operaciones comerciales, y satisfacer las necesidades específicas de cada usuario.
+#### Features
+- Herramientas de monitorización del crecimiento de cultivos: Sensores agrícolas para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
+- Plataforma integrada de gestión agrícola: Suite de herramientas que abarca la planificación de cultivos, gestión de la mano de obra, monitoreo de inventario, programación de riego, y seguimiento de costos y funcionalidades de análisis de datos para identificar áreas de mejora y optimizar la eficiencia operativa en todas las etapas de la producción agrícola.
+
+  #### Business Outcomes
+- Mejora de la eficiencia operativa: Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos agrícolas mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
+- Aumento de la rentabilidad: Reducción de las pérdidas debido a errores en la gestión de inventario, enfermedades de cultivos no detectadas y problemas logísticos y mejora de la productividad y la calidad de los productos agrícolas, lo que puede traducirse en mayores márgenes de beneficio para los productores.
+- Reducción de riesgos y cumplimiento normativo: Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
+- 
+#### Users
+Los usuarios son productores agrícolas, empresas agroindustriales grandes y pequeñas y expertos en agricultura.
+
+#### User Outcomes & Benefits
+Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
+Empresas agroindustriales grandes y pequeñas: Empresas dedicadas al procesamiento, envasado y distribución de productos agrícolas, incluyendo cooperativas y asociaciones de productores.
+Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
 
