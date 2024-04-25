@@ -497,16 +497,17 @@ pequeñas empresas y grandes empresas agrícolas.
 		<TD ROWSPAN=2>
 
 **6. Hipótesis**
+
+
+Hipótesis 1:
 ***Creemos que** *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola *
 **Sabremos que** *los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados *
 
-### Hipótesis 2:
+Hipótesis 2:
 ***Creemos*** * que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real *
 **Sabremos que** *los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha *
 
 Hipótesis 3:
-
-### Hipótesis 3:
 ***Creemos que** * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola *
 **Sabremos que** * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
 </TD>
