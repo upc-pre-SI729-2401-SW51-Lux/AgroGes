@@ -837,7 +837,11 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 ## 3.3 Impact Mapping
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/blob/main/AgroGes/Images/impact%20mapping.png)
+![P1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/50646619-800b-4c99-aa9e-29235bcd0766)
+
+![P2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/fa09091b-3fb6-44a0-be84-03eafc559c77)
+
+![p3](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d3e72a2a-30db-4856-8c35-fd3e3be2c876)
 
 ## 3.4 Product Backlog
 | **#Order** | **User Story Id** | **Título** | **Descripción** |  **Story Points (1 / 2 / 3 / 5 / 8)** |
