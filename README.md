@@ -1016,8 +1016,7 @@ https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-i
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
 
-  ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/94254725-59fd-4cec-814d-fc1bec11d1a5)
-
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/f3564931-f4ba-416a-92cb-e37f75a0ec06)
   
 - ### 4.7.2 Class Dictionary
 
