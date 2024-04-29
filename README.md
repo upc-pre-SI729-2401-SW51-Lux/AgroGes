@@ -975,7 +975,44 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 - ### 4.4.2 Web Applications Wireflow Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6fa9628b-71f1-46cf-b782-dacdd7f4e4b8)
+Para la realización de los Wireflow Diagrams hemos separado cada diagrama por User Goals y User Personas correspondientes a nuestro proyecto.
+
+- Agricultores:
+   - User Goal: Ingresar a la página principal de la Aplicación Web como usuario agricultor.
+
+	Para este objetivo el usuario agricultor ingresa a la página de iniciar sesión o registro, si el usuario está registrado ingresará sus datos y entrará a la página principal de nuestra aplicación; sin embargo, si no está registrado se le redigirá a la página de registro de usuario agricultor. Una vez registrado podrá ingresar como en la primera ruta como se muestra en el gráfico.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/4dadca35-6290-465d-8b0f-0d6c03e331c1)
+
+   - User Goal: Agregar un cultivo a la planificación del agricultor.
+
+	El objetivo es agregar el cultivo en la aplicación del agricultor, previamente registrado, ingresando desde la página principal mediante el botón "Crops". Luego se cliquea el botón "Add crop" para ingresar la información del cultivo junto con la ayuda opcional de un consultor.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/b45401ba-2344-4ce3-bbb3-4f8b44bb19a0)
+
+   - User Goal: Visualizar el calendario de la planificación del agricultor.
+
+  	Para alcanzar el user goal, primero, el usuario agricultor registrado debe ingresar desde la página principal a través del botón "Crops". Después se dirige a la parte inferior y al pulsar el botón "Calendar" el usuario ingresará al calendario respectivo de su planificación.
+
+  	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/4f4698c7-ea27-4ae1-9754-29fd7a1b6eb6)
+
+   - User Goal: Visualizar la información de los equipos y empleados de la empresa agricultora.
+
+      	Para alcanzar el objetivo en este user goal el usuario agricultor deberá dirigirse al botón "Employees" desde la página principal de la aplicación. Luego para ver la información de los equipos de un empleado se pulsará el botón "View teams" del empleado que el usuario desee. Por otro lado si se quiere ver la información personal del empleado se dirigirá al botón "Information" desde la página "Employees".
+
+     	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/2c46f955-2415-4d6b-b3c8-3fd9c6727ca2)
+
+   - User Goal: Registrar un empleado dentro de la empresa agricultora.
+
+     	Para este objetivo el usuario agricultor debe pulsar el botón "Employees" desde la página principal para luego pulsar el botón "Add employee" en la parte superior izquierda. Finalmente se le aparecerá la página donde podrá ingresar los datos correspondientes al nuevo empleado.
+
+     	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/adab0637-64ff-4b9b-97b6-e35e902fae6b)
+
+   - User Goal: Visualizar las finanzas y el balance mensual de la empresa agricultora.
+ 
+	Para el cumplimiento de este user goal el usuario agricultor deberá ingresar desde la pagina principal de la aplicación web AgroGes pulsando el botón "Finance" ubicado en la parte izquierda de la pantalla. Luego se ubicará en la parte superior derecha para clicar el botón "Monthly balance" para ver el balance mensual de su respectiva empresa.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/3cd8f5f8-7c6f-4b76-bc68-200b76c6d9ba)
 
 - ### 4.4.3 Web Applications Mock-ups
 
