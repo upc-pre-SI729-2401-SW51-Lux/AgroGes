@@ -104,7 +104,7 @@ TB1 <br>
 Durante el trabajo, el equipo se apoyo mutuamente para las actividades que requerian mas tiempo, como las entrevistas, pese a los imprevistos pudimos acabar el trabajo y presentarlo en el horario establecido. Para una proxima entrega nos comprometemos a ser mas meticulosos cuando deleguemos y designemos tareas
 <br>
 
-TB2<br>
+TP1<br>
 Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos debiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
 <br>
 
