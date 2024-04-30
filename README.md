@@ -1146,19 +1146,20 @@ https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-i
 Link al prototipo en LucidChart:
 https://lucid.app/lucidchart/64cc965f-5506-4254-a793-f4e0bd49acb0/edit?viewport_loc=-1024%2C-603%2C19230%2C8796%2C0_0&invitationId=inv_ebdc5d1a-a545-407c-92e1-f4774ed58d65
 
+
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
  
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/18dafe6a-3f8c-449e-b657-92926ba0fb7c)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/bca98d88-2f2d-4bc5-85e1-239f00aa6980)
   
 - ### 4.6.2 Software Architecture Container Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/1e048065-8b3f-45e1-9062-1fdd86c91533)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/a134bd14-2de3-44f8-8e73-a13e1a80821d)
 
 - ### 4.6.3 Software Architecture Components Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/3d829c3c-48ee-4e25-9418-e640acc477f5)
-  
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/bc4e9afc-1f86-4958-b92f-b73a12d1065d)
+
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
 
