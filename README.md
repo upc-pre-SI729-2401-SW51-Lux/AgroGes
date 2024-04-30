@@ -894,7 +894,71 @@ Segmento 2: Medianas y Grandes Empresas agrícolas
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b6e732d7-9d2e-4c40-91b0-204a4b68715c)
 
-<br/> <br/>
+<br/>
+
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Jesús Alvarado, tengo 28 años y bueno, estudié la carrera de ingeniería ambiental y eso más que nada.
+
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy reservado
+
+<br/>
+
+¿Cuanto tiempo llevas trabajando en la consultoria?
+
+ Hace 2 años me estaba encargando como soy ingeniero ambiental
+
+<br/>
+¿Existe algo que te frustre de la consultaria ,algo que se te dificulte?
+
+Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera Y prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
+
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+Mi familia que tiene un un terreno de cultivo
+
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo de consultor?
+
+ Controlar o prevenir los peligros ambientales o ciertos problemas que pueda haber al momento de cultivar
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+Excel
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+no, tengo una actualmente
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+ Mejorar y que siga creciendo el el negocio familiar
+
+<br/>
+
+Esta persona es un consultor que antes trabajaba como ingeniero ambiental, lleva 2 años en la agricultura. Está interesado en implementar programas para mejorar la gestión y prevenir problemas en el campo. Su principal motivación es su familia, que tiene un terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir peligros ambientales en la agricultura. Utiliza Google como navegador web y prefiere Excel para el software. Su meta es mejorar y hacer crecer el negocio familiar en la agricultura.
+<br/>
+
+
+
+
+
 
 
 **Entrevistado 2:** Jesus Alvarado  <br/>
@@ -902,6 +966,17 @@ Segmento 2: Medianas y Grandes Empresas agrícolas
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/31d85574-3d67-4879-8572-2889e14862c5)
 
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?
+
+<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
 
 
