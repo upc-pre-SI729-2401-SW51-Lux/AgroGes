@@ -140,7 +140,9 @@ software.</td>
 Andrea Cabanillas Gora <br>
 TB1 <br>
 Para esta entrega se analizaron las preferencias de los segmentos objetivos mendiante la realización y análisis de entrevistas. . 
-Cuadros Rodriguez, Juan Alejandro <br>
+
+
+----------------<br>
 TB1 <br>
 Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
 
