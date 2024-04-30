@@ -153,18 +153,19 @@ En esta entrega, se hizo un analisis del bounded context, para ello tuvimos que 
 TP	<br>
 Luego de la retroalimentacion del profesor pudimos enfocar nuestra atención en solucionar puntos criticos para tener un bounded context mejor planteado. Durante esta entrega tuvimos que descubrir más sobre las condiciones que necesita una planta para crecer plenamente, de modo que tuvimos que buscar la información pertinente y relevante para mostrarla a nuestros clientes y que puedan beneficiarse de esta.
 <br>
--------<br>
+Sergio Joel Pecan Pariona<br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
-
+TP <br>
+Se aplico el DDD en las carpetas, nomenclatura y orden de los component, pages, model y service siguiendo el bounded contexts para la realizacion del front-end
 -------- - <br>
 TB1 <br>
 En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
 
 ---------------- <br>
 TB1 <br>
-En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de escritores, ilustradores y lectores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de agricultores y consultores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
 </td>
             <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
