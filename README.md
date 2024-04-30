@@ -344,9 +344,13 @@ Se encuentra compuesta por 2 secciones:
 
 ### Antecedentes:
 -Creciente demanda de alimentos debido al aumento de la población mundial.
+
 -Necesidad de aumentar la productividad agrícola para satisfacer esta demanda.
+
 -Desafíos asociados con el cambio climático y la sostenibilidad.
+
 -Dificultad para monitorear y optimizar el crecimiento de los cultivos.
+
 -Preocupaciones sobre la calidad y seguridad de los productos.
 
 ### Problemática (5Ws y 2Hs)
