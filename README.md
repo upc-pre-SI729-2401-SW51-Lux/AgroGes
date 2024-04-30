@@ -1126,8 +1126,13 @@ Al igual que los Wireflow Diagram, nuestros User Flow Diagrams también se divid
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/65999122-793c-4593-881c-cda16fc5da6f)
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6e72d56f-3cd1-4633-bd19-6b62c47f317e)
+
 Link al prototipo en Figma:
 https://www.figma.com/file/wbJAAapAaZJPASC5AD399M/Lux-AgroGes?type=design&node-id=0%3A1&mode=design&t=NJ27qusj7UOMi0s4-1
+
+Link al prototipo en LucidChart:
+https://lucid.app/lucidchart/64cc965f-5506-4254-a793-f4e0bd49acb0/edit?viewport_loc=-1024%2C-603%2C19230%2C8796%2C0_0&invitationId=inv_ebdc5d1a-a545-407c-92e1-f4774ed58d65
 
 ## 4.6 Domain-Driven Software Architecture
 - ### 4.6.1 Software Architecture Context Diagram
