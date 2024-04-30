@@ -97,7 +97,10 @@ software.</td>
 Andrea Cabanillas Gora <br>
 TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
- <br>
+
+TP1
+Con las correciones del profesor mejore el capitulo 1 y segui la estrucuta pedida para terner un mejor trabajo y cumplir lo que nos piden.
+<br>
 
 Daniel Mateo del Castillo Bueno <br>
 TB1 <br>
@@ -140,6 +143,9 @@ software.</td>
 Andrea Cabanillas Gora <br>
 TB1 <br>
 Para esta entrega se analizaron las preferencias de los segmentos objetivos mendiante la realización y análisis de entrevistas. . 
+
+TP 1
+Para esta entrega en el frontend me encarge de hacer la parte finanzas , para esto nos guiamos del figma hecho para la applicacionn web.
 
 
 ----------------<br>
