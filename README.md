@@ -978,6 +978,7 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 Para la realización de los Wireflow Diagrams hemos separado cada diagrama por User Goals y User Personas correspondientes a nuestro proyecto.
 
 - Agricultores:
+
    - User Goal: Ingresar a la página principal de la Aplicación Web como usuario agricultor.
 
 	Para este objetivo el usuario agricultor ingresa a la página de iniciar sesión o registro, si el usuario está registrado ingresará sus datos y entrará a la página principal de nuestra aplicación; sin embargo, si no está registrado se le redigirá a la página de registro de usuario agricultor. Una vez registrado podrá ingresar como en la primera ruta como se muestra en el gráfico.
@@ -1013,6 +1014,26 @@ Para la realización de los Wireflow Diagrams hemos separado cada diagrama por U
 	Para el cumplimiento de este user goal el usuario agricultor deberá ingresar desde la pagina principal de la aplicación web AgroGes pulsando el botón "Finance" ubicado en la parte izquierda de la pantalla. Luego se ubicará en la parte superior derecha para clicar el botón "Monthly balance" para ver el balance mensual de su respectiva empresa.
 
 	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/3cd8f5f8-7c6f-4b76-bc68-200b76c6d9ba)
+
+- Consultores:
+
+   - User Goal: Ingresar a la página principal de la Aplicación Web como usuario consultor.
+
+ 	Para este user goal el usuario consultor deberá haberse creado una cuenta de consultor previamente, de otra forma tendrá que registrarse para ingresar. Una vez creada la cuenta podrá ingresar a la página principal de la aplicación web de AgroGes.
+
+  	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/48e33378-4328-4445-bf43-bffe3d52d692)
+
+   - User Goal: Visualizar la información de las empresas que el usuario consultor tiene a su cargo.
+ 
+	Para el cumplimiento de este user goal el usuario, previamente registrado, ingresa a la página principal de la aplicación web para luego clicar el botón "Monitoring". Después se mostrará la lista de empresas que tiene a su cargo. Finalmente si pulsa en el botón "Monitoring" en la card de la empresa que desee se mostrará la información pertinente a tal empresa.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/6096de5e-a85e-4752-ac12-50348afba25e)
+
+   - User Goal: Visualizar la información de las peticiones de contrato de las empresas que tiene el usuario consultor.
+ 
+	Para este user goal la ruta que usaremos es la siguiente: Primero nos ubicamos en la página principal de la aplicación web para dirigirnos al botón "Contracts". Finalmente la información del contrato propuesto por la empresa se mostrará y el usuario consultor es quien elige si aceptar o rechazar la propuesta.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/c167c033-d02f-4069-b710-57d3872c4de4)
 
 - ### 4.4.3 Web Applications Mock-ups
 
