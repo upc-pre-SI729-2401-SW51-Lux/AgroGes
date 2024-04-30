@@ -696,7 +696,9 @@ Segmento 1: Pymes Agrícolas <br/>
 ¿Cuanto tiempo llevas trabajando como agricultor?
 
 <br/>
-¿Existe algo que te frustre de la agricultura,algo que se te dificulte?<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+
+<br/>
 ¿Que te motiva a seguir trabajando?
 
 <br/>
@@ -706,15 +708,15 @@ Segmento 1: Pymes Agrícolas <br/>
 ¿Que navegador web usa más?
 
 <br/>
-¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
 
-?<br/>
-¿Podría brindarnos una frase que describa su situación
+<br/>
+¿Podría brindarnos una frase que describa su situación?
 
-?<br/>
-¿Tienes alguna meta que te gustaría cumplir en tu rubro
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
 
-?<br/>
+<br/>
 
 
 
