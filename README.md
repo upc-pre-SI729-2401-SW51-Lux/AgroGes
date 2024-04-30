@@ -687,6 +687,44 @@ Segmento 1: Pymes Agrícolas <br/>
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/52e7323b-cf1d-4dfd-8cba-07e29adff6dd)
 
 
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?<br/>
+¿Que te motiva a seguir trabajando?
+
+<br/>
+¿Que habilidades desarollaste en tu trabajo?
+
+<br/>
+¿Que navegador web usa más?
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)
+
+?<br/>
+¿Podría brindarnos una frase que describa su situación
+
+?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro
+
+?<br/>
+
+
+
+
+
+
+
+
+
+
 **Entrevistado 2:** Hernan Delgado <br/>
 **Resumen:** El entrevistado es un agricultor especializado en maíz y papa que lleva en el sector desde hace 10 años. Él considera que el cuidado de las plantas es una tarea de sumo cuidado, ya que implica una dedicación especial a cada tipo de cultivo. El considera que nuestro software sería una ayuda a la planificación y gestión de los cultivos, centrado en el agricultor para hacerlo más fácil y practico<br/>
 
