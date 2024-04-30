@@ -1060,7 +1060,45 @@ Para la realización de los Wireflow Diagrams hemos separado cada diagrama por U
 
 - ### 4.4.4 Web Applications User Flow Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/c310f9ee-c780-4568-a731-a7bc2dc83a80)
+Al igual que los Wireflow Diagram, nuestros User Flow Diagrams también se dividen por por User Personas y User Goals.
+
+- Agricultores:
+
+   - User Goal: Ingresar a la página principal de la Aplicación Web AgroGes como usuario agricultor.
+
+	El usuario para lograr ingreasr como agricultor a la aplicación web AgroGes primero deberá crearse una cuenta. Luego, la misma aplicación validará el RUC y la contraseña proporcionada, si falla uno de los campos se redirigirá a la misma página para que vuelva a intentar. Si el RUC y la contraseña son las correctas el usuario agricultor logrará ingresar a la página principal.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/b50af51c-c37c-4ac4-a5fd-1f08ff86f899)
+
+   - User Goal: Agregar un cultivo a la planificación del agricultor.
+
+	La ruta del usuario agricultor para agregar un cultivo será primero posicionarse en la página principal para luego ingresar a la página "Crops" donde se visualiza la información de los cultivos. Finalmente, mediante el botón "Add crop" se redirigirá a la página "Add crop" donde se validará la información y se determinará si se agrega o no se agrega.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/5d0abd0b-de28-489f-95f5-f80443346275)
+
+   - User Goal: Visualizar el calendario de la planificación del agricultor.
+
+	Para lograr visualizar el calendario donde el agricultor ha planificado sus cultivos deberá primero dirigirse a la página "Crops" para luego clicar sobre el botón "Calendar" para ver las fechas correspondientes a la planificación.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/c881ac03-fb25-4c17-b954-42f0bca5801b)
+
+   - User Goal: Visualizar la información de los equipos y empleados de la empresa agricultora.
+
+	Para que el usuario agricultor visualice la información de los equipos y empleados de su empresa deberá redirigirse desde la página principal de la aplicación web hacia la página de "Employees", donde desde ahí podrá seleccionar los botones "View teams" e "Information". El primer botón redirige a la página "Employees and Teams" donde se ven los equipos del usuario seleccionado. Por otro lado, el segundo botón redirige al usuario hacia la página "Employees" donde se visualiza la información del usuario seleccionado.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/0e2068e4-666d-4cfc-a051-5644ee1c5ca7)
+
+   - User Goal: Registrar un empleado dentro de la empresa agricultora.
+
+	Para registrar un empleado dentro de la empresa siendo el usuario agricultor, primero se ubicará en la página principal para luego clicar sobre el botón "Employees". En esa página se encuentra el botón "Add employee" que, al pulsarlo, lo llevará a la página "Add Employee" donde tendrá que llenar el formulario del nuevo empleado. La aplicación validará los datos ingresados para redirigir al usuario si son incorrectos.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/1f28a9e2-cfc3-40dc-9dc8-b70a0be77d9a)
+
+   - User Goal: Visualizar las finanzas y el balance mensual de la empresa agricultora.
+
+	Si el usuario agricultor desea visualizar las finanzas de su empresa deberá dirigirse pulsando el botón "Finance" desde la página principal. En esta página se mostrarán los cobros y pagos pendientes; además del botón "Monthly balance" que, al clicarlo, redirigirá al usuario al balance mensual de su empresa.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/121b330f-736d-4c38-ab59-c2d25bb9f5f3)
 
 ## 4.5 Web Applications Prototyping
 
