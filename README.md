@@ -825,30 +825,36 @@ Hernán Delgado, de 30 años, es un agricultor dedicado al cultivo de maíz desd
 
 ¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
 
-Tony Pariona, 
+Tony Pariona, 30 años, se dedicaba a la exportacion
 
 <br/>
 
 ¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
 
-Extrovertido ,soy abierto a las personas.
+Soy una persona abierta al cambio y estoy abierta a la nueva tecnologia.
 
 <br/>
+
 ¿Cuanto tiempo llevas trabajando como agricultor?
-Tenemos como 10 años trabajando en ese sector
+
+5 años
 
 <br/>
 ¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
-Digamos que es una tarea de que tienes que tener bastante cuidado en el tema del cuidado de la planta, y en los tiempos y en el proceso que lo hace, después digamos es un trabajo que lo puedes sobrellevar
+
+Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera YY prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
+
 <br/>
 
 ¿Que te motiva a seguir trabajando?
-La ganancia y ademas me relaja cuando salgo a cosechar ya que el trabajo suele ser estresante
+
+Por ahora no estoy trabajanndo ya que encontre otras actividades que me gustan
+
 <br/>
 
 ¿Que habilidades desarollaste en tu trabajo?
 
-Puedo ver el clima que se aproxima segun el cambio de las nubes y tambien identifico tipos de plagas
+Descubri el clima del dia segun como se vea por la mañana ademas puedo identificar que terrenos estan buenos para cultivo.
 
 <br/>
 ¿Que navegador web usa más?
@@ -858,21 +864,23 @@ Google
 <br/>
 ¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
 
-World, poeque es mas  paractico
+Excel
 
 <br/>
 ¿Podría brindarnos una frase que describa su situación?
 
-Cultivar es un trabajo duro pero tiene grandes recompensas
+no, tengo una actualmente
 
 <br/>
 ¿Tienes alguna meta que te gustaría cumplir en tu rubro?
 
-Expandir mi pequeña empresa agraria en una grande.
+Poder tener mas terrenos de cultivos para expandirme
 
 <br/>
 
+Tony Pariona, de 30 años, se dedicaba a la exportación agrícola antes de explorar otras actividades. Se describe como una persona abierta al cambio y a la tecnología. Con 5 años de experiencia en la agricultura, busca implementar programas para gestionar y prevenir situaciones en el campo de manera más eficiente. Su motivación actual no está en la agricultura. Ha desarrollado habilidades para interpretar el clima y identificar terrenos adecuados para el cultivo. Utiliza principalmente Google como navegador y prefiere Excel para el software. Su meta es expandirse y adquirir más terrenos de cultivo. No tiene una frase que describa su situación actualmente.
 
+<br/>
 
 
 Segmento 2: Medianas y Grandes Empresas agrícolas 
