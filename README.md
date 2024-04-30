@@ -1026,6 +1026,7 @@ Para la realización de los Wireflow Diagrams hemos separado cada diagrama por U
 
 	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/3cd8f5f8-7c6f-4b76-bc68-200b76c6d9ba)
 
+
 - Consultores:
 
    - User Goal: Ingresar a la página principal de la Aplicación Web como usuario consultor.
@@ -1099,6 +1100,27 @@ Al igual que los Wireflow Diagram, nuestros User Flow Diagrams también se divid
 	Si el usuario agricultor desea visualizar las finanzas de su empresa deberá dirigirse pulsando el botón "Finance" desde la página principal. En esta página se mostrarán los cobros y pagos pendientes; además del botón "Monthly balance" que, al clicarlo, redirigirá al usuario al balance mensual de su empresa.
 
 	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/121b330f-736d-4c38-ab59-c2d25bb9f5f3)
+
+
+- Consultores:
+
+   - User Goal: Ingresar a la página principal de la Aplicación Web como usuario consultor.
+
+ 	Si el usuario consultor desea ingresar a la página principal de AgroGes primero deberá haberse creado una cuenta de consultor, de lo contrario se dirigirá a la página "Create an account". Luego de haberse registrado la misma aplicación validará el DNI y la contraseña brindada por el usuario, si son incorrectas o correctas. Si las credenciales son correctas redirigirá al usuario a la página principal.
+
+  	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/60730d0b-ec0a-4551-ba87-5f9f2dfd2151)
+
+   - User Goal: Visualizar la información de las empresas que el usuario consultor tiene a su cargo.
+ 
+	El usuario consultor, para visualizar la información de las empresas que tiene a su cargo, deberá dirigirse desde la página principal a la página "Monitoring" mediante el botón con el mismo nombre. Luego se mostrará la lista de empresas que tiene a su cargo. Si presiona "Monitoring" en la empresa elegida se mostrará su respectiva información.
+
+	![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9c7404c5-194e-437b-a904-c9678e82687b)
+
+   - User Goal: Visualizar la información de las peticiones de contrato de las empresas que tiene el usuario consultor.
+ 
+	Para visualizar la información de las peticiones de contrato, el usuario consultor deberá dirigirse al botón "Contracts". Una vez en la página "Contracts" se mostrarán las empresas que le ofrecieron un contrato. El usuario elegirá si aceptar o rechazar la petición.
+
+	![UCONSULTOR3](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/0538efa1-2316-47f9-8f42-4ec5cacd318b)
 
 ## 4.5 Web Applications Prototyping
 
