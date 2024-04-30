@@ -689,35 +689,63 @@ Segmento 1: Pymes Agrícolas <br/>
 
 ¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
 
+ Roberto hoyo Gutiérrez, 60 años y exporto manzana golden
+
 <br/>
 ¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy introvertido no suelo abrirme mucho  con las personas ya que  soy reservado
 
 <br/>
 ¿Cuanto tiempo llevas trabajando como agricultor?
 
+5 años cultivando fruta
+
 <br/>
 ¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
 
-<br/>
-¿Que te motiva a seguir trabajando?
+No, para mí es un poco como que distraída
+
 
 <br/>
+
+¿Que te motiva a seguir trabajando?
+
+La distraccion y quiero seguir con la tradicion familiar.
+
+<br/>
+
 ¿Que habilidades desarollaste en tu trabajo?
+
+Tengo habilidades en el campo y en cuidado de cultivos 
 
 <br/>
 ¿Que navegador web usa más?
 
+Google
+
 <br/>
 ¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+word
 
 <br/>
 ¿Podría brindarnos una frase que describa su situación?
 
+
+
 <br/>
 ¿Tienes alguna meta que te gustaría cumplir en tu rubro?
 
+Tener mas cosechas en el año
+
 <br/>
 
+
+
+Roberto Hoyo Gutiérrez, de 60 años, es un agricultor introvertido que se dedica a la exportación de manzanas Golden desde hace 5 años. A pesar de su reserva, encuentra en la agricultura una distracción y desea continuar con la tradición familiar. Ha desarrollado habilidades en el cuidado de cultivos y en el trabajo de campo. Utiliza principalmente Google como navegador web y prefiere Word para sus necesidades de software. Su motivación radica en mantener la tradición familiar y aumentar la cantidad de cosechas en el año. No encuentra frustraciones significativas en su labor, considerándola más bien como una distracción.
+
+</br>
 
 
 
@@ -733,10 +761,114 @@ Segmento 1: Pymes Agrícolas <br/>
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b991f330-0226-4307-a1a0-f9cebacefb10)
 
 
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Hernán Delgado, 30 y generalmente estamos en el tema de cultivo de maíz.
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Extrovertido ,soy abierto a las personas.
+
+<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?
+
+Tenemos como 10 años trabajando en ese sector
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+
+Digamos que es una tarea de que tienes que tener bastante cuidado en el tema del cuidado de la planta, y en los tiempos y en el proceso que lo hace, después digamos es un trabajo que lo puedes sobrellevar
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+La ganancia y ademas me relaja cuando salgo a cosechar ya que el trabajo suele ser estresante
+
+<br/>
+¿Que habilidades desarollaste en tu trabajo?
+
+Puedo ver el clima que se aproxima segun el cambio de las nubes y tambien identifico tipos de plagas
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+World, poeque es mas  paractico
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+Cultivar es un trabajo duro pero tiene grandes recompensas
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Expandir mi pequeña empresa agraria en una grande.
+<br/>
+
+
+Hernán Delgado, de 30 años, es un agricultor dedicado al cultivo de maíz desde hace 10 años. Se describe como extrovertido y abierto a las personas. Aunque disfruta de su trabajo, encuentra desafíos en el cuidado de las plantas y la gestión del tiempo. Sin embargo, encuentra motivación en las ganancias y el aspecto relajante de la cosecha. Ha desarrollado habilidades para prever el clima y controlar plagas. Prefiere el navegador Google y utiliza Word por su practicidad. Su frase característica es "Cultivar es un trabajo duro pero tiene grandes recompensas". Su meta es expandir su pequeña empresa agraria hacia una más grande.
+
+</br>
+
+
 **Entrevistado 3:** Tony Pariona Quispe <br/>
 **Resumen:** Tony es un hombre que lleva 5 años en el negocio agrícola. Pudimos observar que él está entusiasmado por implementar un software que le permita ayudar a su gestión agrícola. Tony considera que el software debe tener las funciones de cuidado de riego, consulta meteorologica, control de plagas. Gracias a su entrevista pudimos denotar que le gustaría incorporar en un futuro  
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/6601b9d0-fba4-4dc4-aaa4-53ef2b68fc88)
+
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Tony Pariona, 
+
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Extrovertido ,soy abierto a las personas.
+
+<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?
+Tenemos como 10 años trabajando en ese sector
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+Digamos que es una tarea de que tienes que tener bastante cuidado en el tema del cuidado de la planta, y en los tiempos y en el proceso que lo hace, después digamos es un trabajo que lo puedes sobrellevar
+<br/>
+
+¿Que te motiva a seguir trabajando?
+La ganancia y ademas me relaja cuando salgo a cosechar ya que el trabajo suele ser estresante
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo?
+
+Puedo ver el clima que se aproxima segun el cambio de las nubes y tambien identifico tipos de plagas
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+World, poeque es mas  paractico
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+Cultivar es un trabajo duro pero tiene grandes recompensas
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Expandir mi pequeña empresa agraria en una grande.
 
 <br/>
 
