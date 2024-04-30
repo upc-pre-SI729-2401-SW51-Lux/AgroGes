@@ -732,7 +732,7 @@ word
 <br/>
 ¿Podría brindarnos una frase que describa su situación?
 
-
+Cuktivar sirve para relajarnos
 
 <br/>
 ¿Tienes alguna meta que te gustaría cumplir en tu rubro?
