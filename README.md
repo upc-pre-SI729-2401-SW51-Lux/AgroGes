@@ -296,6 +296,7 @@ En esta fase de entrega, se llevó a cabo un análisis de las preferencias de lo
 # Capítulo I: Introducción
 ## 1.1 Startup Profile
 Nuestro proyecto se centra en proporcionar una solución que optimice la gestión de productos agrícolas, mejore la calidad de la producción y facilite las operaciones para los productores en la industria agrícola.
+
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba0d247-84f1-4b44-b38b-d1cad0d2f0b8)
 
 ### 1.1.1 Descripción de la Startup
