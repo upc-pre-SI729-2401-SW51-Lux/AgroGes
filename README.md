@@ -1047,7 +1047,7 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 ### 2.3.2 User Task Matrix
 
 
-<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Juan Velasquez</i></b></th><th colspan="2" valign="top"><b><i>Esteban Dominguez</i></b></th></tr>
+<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Aldo Gomez</i></b></th><th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th></tr>
 <tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
 <tr><td>Buscar un web site de taller de personalización de autos</td><td><b><i>A menudo</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
 <tr><td>Elegir y comprar las piezas a desear para la personalización de autos</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
