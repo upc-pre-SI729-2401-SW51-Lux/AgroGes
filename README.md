@@ -115,7 +115,7 @@ TP1<br>
 Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos débiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
 <br>
 
------------------ <br>
+
 
 Gustavo Poma Espinoza
 TB1 <br>
@@ -124,14 +124,13 @@ Durante el trabajo me encargué del desarrollo de los siguientes puntos 4.4.3 We
 Tp1 <br>
 En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis diagramas, entre los cuales se incluyen el punto 4.6.1: 'Diagrama de Contexto de la Arquitectura de Software', el 4.6.2: 'Diagramas de Contenedores de la Arquitectura de Software', el 4.6.3: 'Diagramas de Componentes de la Arquitectura de Software' y el 4.7.1: 'Diagramas de Clases', actualizando cada uno de ellos conforme a las sugerencias recibidas. Además, el punto 4.8.1: 'Diagrama de la Base de Datos' también experimentó mejoras significativas bajo la orientación del profesor. Finalmente, en un esfuerzo creativo adicional, desarrollé la funcionalidad 'Feature-Consultancy', agregando así un toque innovador y práctico al proyecto. <br>
 
-------------- <br>
+
 Favio Landeo Simeon
 TB1 <br>
 Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la pp, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
 TP1 <br>
 Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
 
-----===---------- <br>
 
 Sergio Joel Pecan Pariona
 TB1 <br>
@@ -154,12 +153,8 @@ TB1 <br>
 Para esta entrega se analizaron las preferencias de los segmentos objetivos mendiante la realización y análisis de entrevistas. . 
 
 TP 1
-Para esta entrega en el frontend me encarge de hacer la parte finanzas , para esto nos guiamos del figma hecho para la applicacionn web.
+Para esta entrega en el frontend me encarge de hacer la parte finanzas , para esto nos guiamos del figma con los mocck up hecho para la applicacionn web.
 
-
-----------------<br>
-TB1 <br>
-Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
 
 Daniel Mateo del Castillo Bueno <br>
 TB1 <br>
@@ -173,9 +168,10 @@ Sergio Joel Pecan Pariona<br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
+
 TP1 <br>
 Se aplico el DDD en las carpetas, nomenclatura y orden de los component, pages, model y service siguiendo el bounded contexts para la realizacion del front-end
--------- - <br>
+
 
 Gustavo Poma Espinoza <br>
 
