@@ -4,7 +4,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW51</strong><br>
-    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
+    <strong>Profesor: Angel Augusto Velásquez Nuñez</strong><br>
     <br>INFORME
 </p>
 <p align="center">
@@ -99,16 +99,16 @@ TB1 <br>
 Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
 
 TP1
-Con las correciones del profesor mejore el capitulo 1 y segui la estrucuta pedida para terner un mejor trabajo y cumplir lo que nos piden.
+Con las correciones del profesor mejore el capitulo 1 y segui la estructura pedida para tener un mejor trabajo y cumplir con lo que nos piden.
 <br>
 
 Daniel Mateo del Castillo Bueno <br>
 TB1 <br>
-Durante el trabajo, el equipo se apoyo mutuamente para las actividades que requerian mas tiempo, como las entrevistas, pese a los imprevistos pudimos acabar el trabajo y presentarlo en el horario establecido. Para una proxima entrega nos comprometemos a ser mas meticulosos cuando deleguemos y designemos tareas
+Durante el trabajo, el equipo se apoyó mutuamente para las actividades que requerían más tiempo, como las entrevistas, pese a los imprevistos pudimos acabar el trabajo y presentarlo en el horario establecido. Para una próxima entrega nos comprometemos a ser más meticulosos cuando deleguemos y designemos tareas
 <br>
 
 TP1<br>
-Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos debiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
+Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos débiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
 <br>
 
 ----------------- <br>
