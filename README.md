@@ -1035,12 +1035,10 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 
 ## 2.3 Needfinding
+
 ### 2.3.1 User Personas
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/d1b9c7b7-5560-45b4-bdbc-9480febfa54e)
-
-
-
 ![Aldo Gomez (1)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/34c610b6-7f97-4219-b674-bb88e6f17a8d)
 
 
