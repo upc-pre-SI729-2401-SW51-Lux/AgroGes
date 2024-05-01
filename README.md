@@ -300,7 +300,7 @@ Nuestro proyecto se centra en proporcionar una solución que optimice la gestió
 
 
 ### 1.1.1 Descripción de la Startup
-Nuestro proyecto agrícola surge de la identificación de una necesidad insatisfecha en la gestión de productos agrícolas ya que los agrícolas enfrentan desafíos en la gestión de sus productos y operaciones, por lo que hemos visto una oportunidad para aplicar este software y asi mejorar la eficiencia y la calidad en las operaciones para los productores agrícolas.
+Nuestro proyecto agrícola surge de la identificación de una necesidad insatisfecha en la gestión de productos agrícolas ya que los agrícolas enfrentan desafíos en la gestión de sus productos y operaciones, por lo que hemos visto una oportunidad para aplicar este software y así mejorar la eficiencia y la calidad en las operaciones para los productores agrícolas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 #### - Favio Sebastián Landeo Simeón
@@ -579,12 +579,12 @@ Una vez que tengamos una comprensión sólida de las necesidades de los usuarios
 **Demográfico**</TD>
 </TR>
 	<TR>
-		<TD> Pequeños Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+		<TD> Pequeños y Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
         <TD>
 
-- busca mejorar la eficiencia y calidad de su producción.
+- Busca mejorar la eficiencia y calidad de su producción.
 - Creativo y curioso. 
-- desea apoyo en su cultivo
+- Desea apoyo en su cultivo
 </TD> 
 <TD>
 
@@ -593,15 +593,15 @@ Una vez que tengamos una comprensión sólida de las necesidades de los usuarios
 </TD>
 	</TR>
     <TR>
-		<TD> Grandes Agricultores </TD> <TD> Esta ubicado en un campo o zona de cultivo grande.</TD> 
+		<TD> Consultores </TD> <TD> Especializados en el rubro agrícola.</TD> 
         <TD>
 
-- Quiere reconocer las proximas plagas 
-- Desea estar atento a las proximas plagas para proteger sus cultivos
-- Le gusta ver el clima para lograr saber que hacer ese dia con sus cultivos 
+- Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
+- Desea estar atento a las peticiones de contrato y ayuda de los clientes.
+- Le gusta ver que sus clientes salgan satisfechos con sus consejos.
 </TD> <TD>
 
-- Edad: Desde adultos y personas de la tercera edad
+- Edad: Desde adultos jóvenes hasta adultos mayores.
 </TD>
 	</TR>
   
