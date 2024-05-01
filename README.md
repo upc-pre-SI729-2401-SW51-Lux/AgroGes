@@ -1146,25 +1146,28 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 ![p3](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d3e72a2a-30db-4856-8c35-fd3e3be2c876)
 
 ## 3.4 Product Backlog
-| **#Order** | **User Story Id** | **Título** | **Descripción** |  **Story Points (1 / 2 / 3 / 5 / 8)** |
-|------------|-------------------|------------|-----------------|-------------------------------------|
+
+| **#Order** | **User Story Id** | **Título** | **Descripción** | **Story Points (1 / 2 / 3 / 5 / 8)** |
+|------------|-------------------|------------|-----------------|---------------------------------------|
 | 1 | T01 | Explorar la Página de Inicio | Como visitante, quiero explorar la página de inicio para obtener una visión general del sitio web y sus secciones. | 1 |
 | 2 | T02 | Ver Información de Productos/Servicios | Como visitante, quiero ver información detallada sobre los productos o servicios ofrecidos. | 1 |
-| 3 | T03 | Contactar al Equipo de Ventas | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas. | 2 |
-| 4 | T04 | Explorar Testimonios o Casos de Éxito | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio. | 1 |
-| 5 | US003 | Seguimiento Detallado de Actividades Agrícolas | Como agricultor, registrarás datos diarios sobre las operaciones realizadas en cada cultivo, como riego, fertilización y control de plagas. Esto te permitirá llevar un seguimiento preciso de las actividades agrícolas. | 5 |
-| 6 | US001 | Planificar la Temporada de Cultivo | Como agricultor, crearás un plan de cultivo detallado para la próxima temporada. Asignarás recursos como semillas, fertilizantes y agua a cada cultivo. Esto te ayudará a optimizar la producción y la gestión de recursos. | 5 |
-| 7 | US008 | Adaptación a Cambios | Como agricultor, adaptarás tu estrategia según los cambios en el entorno o las condiciones climáticas. Reflexionarás sobre las decisiones tomadas y ajustarás tus acciones en consecuencia. | 3 |
-| 8 | US004 | Visualización de Métricas de Rendimiento | Como agricultor, visualizarás gráficos y métricas que muestren el progreso de tus cultivos. Esto te permitirá evaluar su rendimiento y tomar decisiones informadas. | 5 |
-| 9 | US002 | Definir Objetivos de Rendimiento | Como agricultor, establecerás metas de producción específicas para cada tipo de cultivo. Considerarás las condiciones climáticas y la disponibilidad de insumos para definir tus objetivos. |3 |
-| 10 | US007 | Informe de Rendimiento Histórico | Como agricultor, generarás informes que resuman el rendimiento de tus cultivos en temporadas anteriores. Esto te ayudará a identificar áreas de mejora y a tomar decisiones estratégicas. | 3 |
-| 11 | US006 | Mensajes Internos y Notificaciones | Como agricultor, enviarás mensajes a otros usuarios dentro de la aplicación para coordinar con tu equipo, proveedores y compradores. La comunicación eficiente es esencial para el éxito. | 3 |
-| 12 | US005 | Precios y Demandas en Tiempo Real | Como agricultor, recibirás notificaciones sobre ofertas de compra o venta, y accederás a información actualizada sobre precios y demanda. Esto te ayudará a tomar decisiones comerciales acertadas. | 5 |
-| 12 | T05 | Consultar Recursos | Como desarrollador, recibirás una respuesta con los recursos solicitados cuando envíes una solicitud GET a la API. Esto te ayudará a interactuar con la base de datos de manera eficiente. | 1|
-| 13 | T06 | Crear Recursos | Como desarrollador, recibirás una confirmación de que el recurso fue creado cuando envíes una solicitud POST a la API. Esto te permitirá agregar datos a la base de datos de manera eficiente. | 3|
-| 14 | T07 | Actualizar Recursos | Como desarrollador, recibirás una confirmación de que el recurso fue actualizado cuando envíes una solicitud PUT a la API. Esto te permitirá modificar datos en la base de datos de manera eficiente. | 5|
-| 15 | T08 | Eliminar Recursos | Como desarrollador, recibirás una confirmación de que el recurso fue eliminado cuando envíes una solicitud DELETE a la API. Esto te permitirá eliminar datos de la base de datos de manera eficiente. | 3|
-
+| 3 | T03 | Contactar al Equipo de Ventas | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas. | 1 |
+| 4 | US001 | Definir Objetivos de Rendimiento | Como agricultor, deseo definir objetivos de rendimiento para mis cultivos, para poder medir y mejorar mi productividad. | 5 |
+| 5 | US002 | Adaptar Estrategia de Cultivo | Como agricultor, deseo adaptar mi estrategia de cultivo según los cambios en el entorno o las condiciones climáticas, para poder maximizar la productividad de mis cultivos. | 5 |
+| 6 | US003 | Seguimiento de Actividades Agrícolas | Como agricultor, deseo realizar un seguimiento detallado de las actividades agrícolas diarias, para poder analizar y optimizar mis procesos. | 3 |
+| 7 | US004 | Monitorear Calidad de Productos | Como agricultor, deseo monitorear la calidad de mis productos para asegurar que cumplen con los estándares requeridos. | 3 |
+| 8 | US005 | Acceso a Mejores Prácticas Agrícolas | Como agricultor, deseo tener acceso a información actualizada sobre las mejores prácticas agrícolas para mejorar la calidad de mis productos. | 3 |
+| 9 | US006 | Predecir y Prevenir Amenazas | Como agricultor, deseo predecir y prevenir posibles amenazas a mis cultivos para reducir las pérdidas. | 5 |
+| 10 | US007 | Recibir Alertas Climáticas | Como agricultor, deseo recibir alertas sobre condiciones climáticas adversas, para poder tomar medidas preventivas y proteger mis cultivos. | 5 |
+| 11 | US008 | Asesoramiento en Objetivos de Rendimiento | Como consultor agrícola, deseo asesorar a los agricultores en la definición de objetivos de rendimiento para sus cultivos. | 2 |
+| 12 | US009 | Asesoramiento en Estrategias de Cultivo | Como consultor agrícola, deseo asesorar a los agricultores en la adaptación de su estrategia de cultivo según los cambios en el entorno o las condiciones climáticas. | 3 |
+| 13 | US010 | Asesoramiento en Control de Calidad | Como consultor agrícola, deseo asesorar a los agricultores en el monitoreo de la calidad de sus productos. | 2 |
+| 14 | US011 | Asesoramiento en Prevención de Amenazas | Como consultor agrícola, deseo asesorar a los agricultores en la predicción y prevención de posibles amenazas a sus cultivos. | 3 |
+| 15 | T04 | Explorar Testimonios o Casos de Éxito | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio. | 3 |
+| 16 | T05 | Consultar Recursos | Como desarrollador, quiero poder consultar recursos para interactuar con la base de datos. | 2 |
+| 17 | T06 | Crear Recursos | Como desarrollador, quiero poder crear recursos para agregar datos a la base de datos. | 3 |
+| 18 | T07 | Actualizar Recursos | Como desarrollador, quiero poder actualizar recursos para modificar datos en la base de datos. | 3 |
+| 19 | T08 | Eliminar Recursos | Como desarrollador, quiero poder eliminar recursos para eliminar datos de la base de datos. | 2 |
 
 
 ---
