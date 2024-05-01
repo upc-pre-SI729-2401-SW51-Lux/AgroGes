@@ -1035,10 +1035,6 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 
 
-
-Luego de el analisis de los datos recolectados por nuestras entrevistas pudimos determinar cuales son las preocupaciones,gustos y caracteristicas generales del publico al que queremos dirigirnos, el cual plasmaremos a continuación en el apartado de las user personas, dentro de ellas podremos observar una amalgama de información de cada uno de los individuos entrevistados.
----
-
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
 
