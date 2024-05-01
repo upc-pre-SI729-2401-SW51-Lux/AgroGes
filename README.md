@@ -1046,31 +1046,20 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 ### 2.3.2 User Task Matrix
 
-Usuario: Aldo
 
-| Tareas  | Frecuencia | Importancia | 
-|---------|------------|-------------|
-| Planificar el cultivo de una temporada | Media | Alta | 
-| Comunicarse con trabajadores | Media | Alta |
-| Seguimiento de cultivos | Alta | Alta |
-| Revisión de pronostico del clima | Alta | Media |
-| Riego de plantas | Media | Alta |
-| Control de pestes | Baja | Alta |
-| Pesaje de cosechas | Baja | Alta |
+<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Juan Velasquez</i></b></th><th colspan="2" valign="top"><b><i>Esteban Dominguez</i></b></th></tr>
+<tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
+<tr><td>Buscar un web site de taller de personalización de autos</td><td><b><i>A menudo</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+<tr><td>Elegir y comprar las piezas a desear para la personalización de autos</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+<tr><td>Marcar como favorito las piezas deseadas</td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Nunca</i></b></td><td>` `<b><i>Baja</i></b></td></tr>
+<tr><td>Realizar una orden para cambiar la pieza elegida</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+<tr><td>Enviar notificacion de estado de personalizacion</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Ver la lista de autos y el estado de la personalización</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>Escribir una observación en cada servicio de tunning</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td></tr>
+<tr><td>Cambiar estado (fecha de entrega) si hay inconvenientes al personalizar el auto</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
+<tr><td>Insertar una nueva pieza de personalización a la aplicación</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+</table>
 
-<br/>
-<br/>
-Usuario: Antonio <br/>
-
-| Tareas  | Frecuencia | Importancia | 
-|---------|------------|-------------|
-| Planificar el cultivo de una temporada | Alta | Alta | 
-| Comunicarse con trabajadores | Alta | Alta |
-| Seguimiento de cultivos | Alta | Alta |
-| Revisión de pronostico del clima | Alta | Alta |
-| Riego de plantas | Alta | Alta |
-| Control de pestes | Media | Alta |
-| Pesaje de cosechas | Baja | Alta |
 
 ### 2.3.3 User Journey Mapping
 
