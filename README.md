@@ -1448,78 +1448,94 @@ https://lucid.app/lucidchart/64cc965f-5506-4254-a793-f4e0bd49acb0/edit?viewport_
   
 - ### 4.7.2 Class Dictionary
 
-  Company: Empresas a las que se les brinda el servicio.
--RUC: Código de la empresa
--Password: Contraseña con la que se accede a la cuenta
--Company_name: El nombre de una compañía
--Phone: Teléfono de la empresa
--Mail: Correo de la empresa
--Create_company(): Es el método por el cual se crea las nuevas empresas
--Update_data(): El método por el cual se actualizan los datos de una empresa
 
-Crop: Es el cultivo al cual se le monitorea y administra.
--Crop_code: Código del cultivo
--Area: Área del terreno
--Product: Alimento que produce el cultivo
--State: El estado en que se encuentra el alimento
--Cost: Costo de producir ese cultivo
--Location: El lugar geográfico donde se encuentra el producto
--Return: El costo aproximado que se espera ganar por el cultivo
--Update_status(): Actualización del estado
--Add_expense(): Registra un nuevo gasto para el cultivo
--Decrease_expenditure(): Elimina un gasto
+company: Empresas a las que se les brinda el servicio.
+-ruc: Código de la empresa
+-password: Contraseña con la que se accede a la cuenta
+-companyName: El nombre de una compañía
+-phone: Teléfono de la empresa
+-mail: Correo de la empresa
+-createCompany(): Es el método por el cual se crea las nuevas empresas
+-updateData(): El método por el cual se actualizan los datos de una empresa
 
-Worker: Personas que trabajan en las diferentes compañías agrícolas.
--DNI: Documento de identificación de los trabajadores
--Name: Nombre del trabajador
--Last_name: Apellido
--Post: Cargo dentro de la empresa
--Salary: Dinero que gana el trabajador
--Phone: Teléfono de la empresa
--Age: Edad
--Estado: Dentro de la empresa
--Hire_employee(): Contrata a los empleados
--Vacations(): Para cuando un empleado salga de vacaciones
--Update_data(): Permite actualizar los datos de los trabajadores
+crop: Es el cultivo al cual se le monitorea y administra.
+-cropCode: Código del cultivo
+-area: Área del terreno
+-product: Alimento que produce el cultivo
+-state: El estado en que se encuentra el alimento
+-cost: Costo de producir ese cultivo
+-location: El lugar geográfico donde se encuentra el producto
+-return: El costo aproximado que se espera ganar por el cultivo
+-updateStatus(): Actualización del estado
+-addExpense(): Registra un nuevo gasto para el cultivo
+-decreaseExpenditure(): Elimina un gasto
 
-Equipment: Conjunto de Workers encargados de un Crop
--equipment_code: Código del equipo
--number_members: Dice la cantidad de integrantes de un equipo
--Manager_code: Indica quién es el líder del equipo
--crop_code: El código del cultivo en que trabaja el equipo
--create_team(): Crea un nuevo equipo
--Add_member(): Agrega a un nuevo miembro
--Remove_member(): Quitar a un miembro del equipo
+worker: Personas que trabajan en las diferentes compañías agrícolas.
+-dni: Documento de identificación de los trabajadores
+-name: Nombre del trabajador
+-lastName: Apellido
+-post: Cargo dentro de la empresa
+-salary: Dinero que gana el trabajador
+-phone: Teléfono de la empresa
+-age: Edad
+-estado: Dentro de la empresa
+-hireEmployee(): Contrata a los empleados
+-vacations(): Para cuando un empleado salga de vacaciones
+-updateData(): Permite actualizar los datos de los trabajadores
 
-Collection pending: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
--Collection_id: Código de la deuda a cobrar
--RUC: Código de la empresa que es la deuda a cobrar
--Type: Qué tipo de cobranza es
--Amount: Monto a cobrar
--Description: Explica el origen de la deuda
--State: Indica si pagó o no
--Create_pending_collection(): Crea una nueva deuda a cobrar
--Update_status(): Actualiza si ya se pagó la deuda
+equipment: Conjunto de Workers encargados de un Crop
+-equipmentCode: Código del equipo
+-numberMembers: Dice la cantidad de integrantes de un equipo
+-canagerCode: Indica quién es el líder del equipo
+-cropCode: El código del cultivo en que trabaja el equipo
+-createTeam(): Crea un nuevo equipo
+-addMember(): Agrega a un nuevo miembro
+-removeMember(): Quitar a un miembro del equipo
 
-Pending payment: Son las deudas pendientes de una Company.
--Collection_id: Código de la deuda a pagar
--RUC: Código de la empresa que es la deuda a pagar
--Type: Qué tipo de cobranza es
--Amount: Monto a pagar
--Description: Explica el origen de la deuda
--State: Indica si pagó o no
--Create_pending_collection(): Crea una nueva deuda a pagar
--Update_status(): Actualiza si ya se pagó la deuda
+collectionPending: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
+-collectionId: Código de la deuda a cobrar
+-ruc: Código de la empresa que es la deuda a cobrar
+-type: Qué tipo de cobranza es
+-amount: Monto a cobrar
+-description: Explica el origen de la deuda
+-state: Indica si pagó o no
+-createPendingCollection(): Crea una nueva deuda a cobrar
+-updateStatus(): Actualiza si ya se pagó la deuda
 
-Balance: Esta clase se crea mensualmente y determina las ganancias de la Company.
--Month: El mes del que se calcula el balance
--Spent: Gastos generados por la empresa
--Ingreso: Lo que generó la empresa
--Revenue: Ganancia de la empresa
--Ruc_company: El código de la empresa que se está sacando el balance
--Create_balance: Calcula las ganancias de la empresa
+pendingPayment: Son las deudas pendientes de una Company.
+-collectionId: Código de la deuda a pagar
+-ruc: Código de la empresa que es la deuda a pagar
+-type: Qué tipo de cobranza es
+-amount: Monto a pagar
+-description: Explica el origen de la deuda
+-state: Indica si pagó o no
+-createPendingCollection(): Crea una nueva deuda a pagar
+-updateStatus(): Actualiza si ya se pagó la deuda
 
-  
+balance: Esta clase se crea mensualmente y determina las ganancias de la Company.
+-month: El mes del que se calcula el balance
+-spent: Gastos generados por la empresa
+-ingreso: Lo que generó la empresa
+-revenue: Ganancia de la empresa
+-rucCompany: El código de la empresa que se está sacando el balance
+-createBalance: Calcula las ganancias de la empresa
+
+contract: Esta clase se crea una clase se crea cada ves que se desa contratar a un nuevo consultant
+-companyRuc: Con este atributo se podrá reconocer a la empresa a quien se está contratando 
+-consultanId: Con este atributo identificamos al consultor que se desea contratar 
+-timeInApplication: Con esto se determina cuanto tiempo tiene la empresa en la aplicación 
+-salary:El salario que ofrece la empresa por el puesto 
+-descriptionNeeds: la empresa comenta la necesidad que tienen y desempeñarán en ese trabajo. 
+-date: la fecha en la que se realiza el contrato 
+
+notification
+-transmitter: Es el que redacta la notificación.
+-receiver: Es el que recibe la notificación.
+-message: Es lo que se intenta comunicar en la notificación
+-hour: Es la hora en que se envía la notificación.
+-date: es la fecha del envío. 
+
+
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
 
