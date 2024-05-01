@@ -1049,15 +1049,13 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 <table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Aldo Gomez</i></b></th><th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th></tr>
 <tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
-<tr><td>Buscar un web site de taller de personalización de autos</td><td><b><i>A menudo</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
-<tr><td>Elegir y comprar las piezas a desear para la personalización de autos</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
-<tr><td>Marcar como favorito las piezas deseadas</td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Nunca</i></b></td><td>` `<b><i>Baja</i></b></td></tr>
-<tr><td>Realizar una orden para cambiar la pieza elegida</td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
-<tr><td>Enviar notificacion de estado de personalizacion</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Ver la lista de autos y el estado de la personalización</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
-<tr><td>Escribir una observación en cada servicio de tunning</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>A veces</i></b></td><td><b><i>Baja</i></b></td></tr>
-<tr><td>Cambiar estado (fecha de entrega) si hay inconvenientes al personalizar el auto</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Casi nunca</i></b></td><td><b><i>Baja</i></b></td></tr>
-<tr><td>Insertar una nueva pieza de personalización a la aplicación</td><td><b><i>Nunca</i></b></td><td><b><i>Baja</i></b></td><td><b><i>Siempre</i></b></td><td><b><i>Alta</i></b></td></tr>
+<tr><td>planificar el cultivo de la temporada</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>comunicarse contrabajadores</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td>` `<b><i>alta</i></b></td></tr>
+<tr><td>Revision de pronostico del clima</td><td><b><i>alta</i></b></td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>riego de plantas </td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>control de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>peaje de cosechas</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td></tr>
 </table>
 
 
