@@ -78,6 +78,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ---
 # Student Outcome
+ <tr>
+</table>
+
+<br>
 
 <table >
         <tr>
@@ -112,25 +116,30 @@ Luego de la retroalimentación que recibimos de parte del profesor, encontramos 
 <br>
 
 ----------------- <br>
-TB1 <br>
-Para esta entrega, el trabajo se llevó a cabo de manera cooperativa, involucrando a todos los integrantes en el desarrollo de las tareas del proyecto. Para la realización de las entrevistas fue parte fundamental la participación de cada miembro en la recolección de información clave para definir las funcionalidades de 
-nuestra solución. Asímismo, el uso de Gitflow facilitó un flujo de trabajo eficiente, permitiendo a cada miembro contribuir al desarrollo de la landing page de manera coordinada y fluida.
 
----------------- <br>
+Gustavo Poma Espinoza
 TB1 <br>
-En este avance del trabajo, se ha trabajado en equipo para realizar las entrevistas a los usuarios y obtener información relevante para el desarrollo de la aplicación. Además, se ha colaborado en la creación de los mockups y prototipos de la aplicación web, así como en el desarrollo en código de la Landing page.
-Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
+Durante el trabajo me encargué del desarrollo de los siguientes puntos 4.4.3 Web Applications Mock-ups, 4.5 Applications Protoryping,  4.6 Domain-Driven Software Architecture , 4.6.1 Software Architecture Context Diagram,4.6.2 Software Architecture Container Diagrams,4.6.3 Software Architecture Components Diagrams, 4.7 Software Object-Oriented Design,4.7.1 Class Diagrams, 4.8 Database Design,4.8.1 Database Diagram, Y finalmente realice el Landing Page
+<br>
+Tp1 <br>
+En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis diagramas, entre los cuales se incluyen el punto 4.6.1: 'Diagrama de Contexto de la Arquitectura de Software', el 4.6.2: 'Diagramas de Contenedores de la Arquitectura de Software', el 4.6.3: 'Diagramas de Componentes de la Arquitectura de Software' y el 4.7.1: 'Diagramas de Clases', actualizando cada uno de ellos conforme a las sugerencias recibidas. Además, el punto 4.8.1: 'Diagrama de la Base de Datos' también experimentó mejoras significativas bajo la orientación del profesor. Finalmente, en un esfuerzo creativo adicional, desarrollé la funcionalidad 'Feature-Consultancy', agregando así un toque innovador y práctico al proyecto. <br>
 
 ------------- <br>
+Favio Landeo Simeon
 TB1 <br>
-Durante el avance del presente trabajo cada integrante del grupo trabajo mediante diferentes ramas en el repositorio segun la division pactada previamente. Además, en el grupo pudimos coordinar nuestros avances y colaborar como equipo para mejorar las correcciones brindadas por nuestro profesor.
+Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la pp, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
+TP1 <br>
+Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
 
 ----===---------- <br>
+
+Sergio Joel Pecan Pariona
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 
+
 </td>
-            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.</td>
+            <td>TP1: Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es “Desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas”. Esto significa que estoy aprendiendo a utilizar mis conocimientos técnicos y habilidades analíticas para abordar desafíos de software de manera efectiva y eficiente.
             
 
    <tr>
@@ -156,26 +165,39 @@ Daniel Mateo del Castillo Bueno <br>
 TB1 <br>
 En esta entrega, se hizo un analisis del bounded context, para ello tuvimos que aprender mas sobre los tecnincismos que ofrece el area de agricultura y consultoria, de ese modo pudimos elaborar un apartado de ubiquitous language y presentarlo para ayudar a evitar malentendidos durante el desarrollo
 
-TP	<br>
+TP1	<br>
 Luego de la retroalimentacion del profesor pudimos enfocar nuestra atención en solucionar puntos criticos para tener un bounded context mejor planteado. Durante esta entrega tuvimos que descubrir más sobre las condiciones que necesita una planta para crecer plenamente, de modo que tuvimos que buscar la información pertinente y relevante para mostrarla a nuestros clientes y que puedan beneficiarse de esta.
 <br>
+
 Sergio Joel Pecan Pariona<br>
 TB1<br>
 En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
 Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño.
-TP <br>
+TP1 <br>
 Se aplico el DDD en las carpetas, nomenclatura y orden de los component, pages, model y service siguiendo el bounded contexts para la realizacion del front-end
 -------- - <br>
-TB1 <br>
-En esta entrega se han desarrollado diagramas de flujo de usuario (userflow diagrams) para ilustrar el flujo lógico de las acciones del usuario dentro de la aplicación web. Adicionalmente, se han creado diagramas de flujo de trabajo (wireflow diagrams) para representar el proceso lógico de la aplicación. Ambas tareas han contribuido a mejorar la experiencia del usuario (UX) al priorizar sus objetivos. Además, se ha implementado el modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará posteriormente en el backend. Por último, se ha documentado el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles (Scrum).
 
----------------- <br>
+Gustavo Poma Espinoza <br>
+
 TB1 <br>
+En esta entrega hice el featutre y todo lo relacionado al capitulo 5 , ademas de coordinar con mi grupo el mock up y ver el diseño visual que tendra nuetsra app a futuro.
+
+TP1 <br>
 En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de agricultores y consultores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
 
+Favio Landeo Simeon
+En esta entrega hice el Labeling Systems y mejore el capitulo 4 segun las indicaciones del profesor para lograr un producto exitoso, ademas nos reunimos y trabajamos en grupo para ver que todos trabajen de forma correcta.
+TB1 <br>
+
+TP1 <br>
+Trabajamo rn equipo para lograr tener una buena y completa applicacion , para esto nos reunimos y nos supervisamos el trabajo entre nosotros.
+
+---------------- <br>
+
+
+
 </td>
-            <td>TB1: En esta etapa del proyecto, se realizaron análisis detallados de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación y se desarrollaron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario y se implementó el modelado de la base de datos. Finalmente, se documentó el trabajo realizado utilizando metodologías ágiles.
-       <tr>
+            <td>
 </table>
 
 <br>
