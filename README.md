@@ -135,6 +135,127 @@ Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise 
 Sergio Joel Pecan Pariona
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
+<table >
+        <tr>
+            <th style="text-align:center;">Criterio específico</th>
+            <th style="text-align:center;">Acciones realizadas</th>
+            <th style="text-align:center;">Conclusiones</th>
+        </tr>
+        <tr>
+            <td align = "center">Participa en equipos
+multidisciplinarios con eficacia,
+eficiencia y objetividad, en el
+marco de un proyecto en
+soluciones de ingeniería de
+software.</td>
+            <td> 
+
+Andrea Cabanillas Gora <br>
+TB1 <br>
+Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
+
+TP1
+Con las correciones del profesor mejore el capitulo 1 y segui la estructura pedida para tener un mejor trabajo y cumplir con lo que nos piden.
+<br>
+
+Daniel Mateo del Castillo Bueno <br>
+TB1 <br>
+Durante el trabajo, el equipo se apoyó mutuamente para las actividades que requerían más tiempo, como las entrevistas, pese a los imprevistos pudimos acabar el trabajo y presentarlo en el horario establecido. Para una próxima entrega nos comprometemos a ser más meticulosos cuando deleguemos y designemos tareas
+<br>
+
+TP1<br>
+Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos débiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
+<br>
+
+----------------- <br>
+
+Gustavo Poma Espinoza
+TB1 <br>
+Durante el trabajo me encargué del desarrollo de los siguientes puntos 4.4.3 Web Applications Mock-ups, 4.5 Applications Protoryping,  4.6 Domain-Driven Software Architecture , 4.6.1 Software Architecture Context Diagram,4.6.2 Software Architecture Container Diagrams,4.6.3 Software Architecture Components Diagrams, 4.7 Software Object-Oriented Design,4.7.1 Class Diagrams, 4.8 Database Design,4.8.1 Database Diagram, Y finalmente realice el Landing Page
+<br>
+Tp1 <br>
+En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis diagramas, entre los cuales se incluyen el punto 4.6.1: 'Diagrama de Contexto de la Arquitectura de Software', el 4.6.2: 'Diagramas de Contenedores de la Arquitectura de Software', el 4.6.3: 'Diagramas de Componentes de la Arquitectura de Software' y el 4.7.1: 'Diagramas de Clases', actualizando cada uno de ellos conforme a las sugerencias recibidas. Además, el punto 4.8.1: 'Diagrama de la Base de Datos' también experimentó mejoras significativas bajo la orientación del profesor. Finalmente, en un esfuerzo creativo adicional, desarrollé la funcionalidad 'Feature-Consultancy', agregando así un toque innovador y práctico al proyecto. <br>
+
+------------- <br>
+Favio Landeo Simeon
+TB1 <br>
+Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la pp, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
+TP1 <br>
+Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
+
+----===---------- <br>
+
+Sergio Joel Pecan Pariona
+TB1 <br>
+Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
+
+
+</td>
+            <td>TP1: Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es “Desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas”. Esto significa que estoy aprendiendo a utilizar mis conocimientos técnicos y habilidades analíticas para abordar desafíos de software de manera efectiva y eficiente.
+            
+
+   <tr>
+            <td align = "center">Conoce al menos un sector
+empresarial o dominio de
+aplicación de soluciones de
+software.</td>
+            <td> 
+
+Andrea Cabanillas Gora <br>
+TB1 <br>
+Para esta entrega se analizaron las preferencias de los segmentos objetivos mendiante la realización y análisis de entrevistas. . 
+
+TP 1
+Para esta entrega en el frontend me encarge de hacer la parte finanzas , para esto nos guiamos del figma hecho para la applicacionn web.
+
+
+----------------<br>
+TB1 <br>
+Para la entrega del trabajo, se realizaron diversos analices para identificar y mejorar las UX al priorizar los objetivos. Además, nos hemos enfocada en los públicos objetivos añadiéndole cada segmento a cada uno asi como la organización de las funcionalidades en la aplicación.
+
+Daniel Mateo del Castillo Bueno <br>
+TB1 <br>
+En esta entrega, se hizo un analisis del bounded context, para ello tuvimos que aprender mas sobre los tecnincismos que ofrece el area de agricultura y consultoria, de ese modo pudimos elaborar un apartado de ubiquitous language y presentarlo para ayudar a evitar malentendidos durante el desarrollo
+
+TP1	<br>
+Luego de la retroalimentacion del profesor pudimos enfocar nuestra atención en solucionar puntos criticos para tener un bounded context mejor planteado. Durante esta entrega tuvimos que descubrir más sobre las condiciones que necesita una planta para crecer plenamente, de modo que tuvimos que buscar la información pertinente y relevante para mostrarla a nuestros clientes y que puedan beneficiarse de esta.
+<br>
+
+Sergio Joel Pecan Pariona<br>
+TB1<br>
+En este avance del trabajo, se hizo uso del enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend.
+Además, se realizaron los diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente haciendo uso de distintos patrones de diseño
+
+TP1 <br>
+Se aplico el DDD en las carpetas, nomenclatura y orden de los component, pages, model y service siguiendo el bounded contexts para la realizacion del front-end
+-------- - <br>
+
+Gustavo Poma Espinoza <br>
+
+TB1 <br>
+En esta entrega hice el featutre y todo lo relacionado al capitulo 5 , ademas de coordinar con mi grupo el mock up y ver el diseño visual que tendra nuetsra app a futuro.
+
+TP1 <br>
+En esta fase de entrega, se llevó a cabo un análisis de las preferencias de los segmentos de agricultores y consultores mediante la realización y evaluación de entrevistas. Además, se implementó un diseño UX/UI adecuado que se adapta tanto a la versión de escritorio como a la versión responsive, tomando en cuenta las necesidades de los usuarios. También se realizó una exhaustiva investigación de la competencia para identificar cómo nuestra aplicación puede diferenciarse de otras en el mercado, teniendo en cuenta los antecedentes relacionados con la problemática que buscamos abordar.
+
+Favio Landeo Simeon
+En esta entrega hice el Labeling Systems y mejore el capitulo 4 segun las indicaciones del profesor para lograr un producto exitoso, ademas nos reunimos y trabajamos en grupo para ver que todos trabajen de forma correcta.
+TB1 <br>
+
+TP1 <br>
+Trabajamo rn equipo para lograr tener una buena y completa applicacion , para esto nos reunimos y nos supervisamos el trabajo entre nosotros.
+
+---------------- <br>
+
+
+
+</td>
+            <td>ç
+</table>
+
+<br>
+
+
 
 
 </td>
