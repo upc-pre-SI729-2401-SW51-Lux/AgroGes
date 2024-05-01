@@ -732,7 +732,7 @@ word
 <br/>
 ¿Podría brindarnos una frase que describa su situación?
 
-Cuktivar sirve para relajarnos
+Cultivar sirve para relajarnos
 
 <br/>
 ¿Tienes alguna meta que te gustaría cumplir en tu rubro?
@@ -798,7 +798,7 @@ Google
 <br/>
 ¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
 
-World, poeque es mas  paractico
+World, porque es mas  practico
 
 <br/>
 ¿Podría brindarnos una frase que describa su situación?
@@ -831,7 +831,7 @@ Tony Pariona, 30 años, se dedicaba a la exportacion
 
 ¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
 
-Soy una persona abierta al cambio y estoy abierta a la nueva tecnologia.
+Soy una extrovertido y una persona abierta al cambio y estoy abierta a la nueva tecnologia.
 
 <br/>
 
@@ -842,7 +842,7 @@ Soy una persona abierta al cambio y estoy abierta a la nueva tecnologia.
 <br/>
 ¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
 
-Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera YY prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
+Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera y prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
 
 <br/>
 
@@ -920,7 +920,7 @@ No disfruto hacieno el trabajo
 
 ¿Que te motiva a seguir trabajando?
 
-Mi negocio con eln terreno de mi cultivo
+Mi negocio con el terreno de mi cultivo
 
 <br/>
 
@@ -965,8 +965,7 @@ Luis Carlos Cruz, de 30 años, se dedica al cultivo de maíz y lleva 22 años tr
 
 ¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
 
-Jesús Alvarado, tengo 28 años y bueno, estudié la carrera de ingeniería ambiental y eso más que nada.
-
+Jesús Alvarado, tengo 28 años y bueno, estudié la carrera de ingeniería ambiental 
 <br/>
 
 ¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
@@ -1051,7 +1050,7 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 <tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
 <tr><td>planificar el cultivo de la temporada</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>comunicarse contrabajadores</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td>` `<b><i>alta</i></b></td></tr>
+<tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>Revision de pronostico del clima</td><td><b><i>alta</i></b></td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>riego de plantas </td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>control de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
