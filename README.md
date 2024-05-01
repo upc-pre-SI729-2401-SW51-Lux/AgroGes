@@ -1040,7 +1040,8 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 ![1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0da430d1-ff31-4d9c-a514-85a2ed7f2ef3)
 
 
-![Aldo Gomez](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/9e509356-c26b-4600-80ed-3dc9927ff6ff)
+![Aldo Gomez (1)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/34c610b6-7f97-4219-b674-bb88e6f17a8d)
+
 
 
 ### 2.3.2 User Task Matrix
