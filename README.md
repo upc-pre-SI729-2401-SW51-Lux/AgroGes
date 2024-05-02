@@ -1143,10 +1143,19 @@ User persona 1: <br>
 
 Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser entendido en cualquier parte, esta sección tiene como intención permitirle a personas sin vocabulario de un Ingeniero de software puedan entender. A continuación, mostraremos un glosario con contenido de este proyecto:
 <ul>
-  <li> Api: Una "Application Programming Interface" sirve como un puente ente diferentes softwares, generalmente son utilizados para recaudar información del exterior para mostrarlas en el interior del documento </li>
-  <li> Catalogue: Es una sección sistematica y organizada de elementos, información o recursos disponibles para el usuario siendo esta una manera en la que el usuario tiene más libertad de elección. </li>
-  <li> User: Es el individuo que interactua con la plataforma y para la que ha sido diseñada la misma. Los usuarios representan una gran variedad de grupos de personas, siendo que estos aportan una retroalimentación util de cada punto de vista para la mejora constante del proyecto.  </li>
-  <li>Library: Una librería dentro del contexto del trabajo viene a ser un grupo de herramientas que cumplen funciones variadas que ayudan a organizar de mejor manera tareas específicas, el aspecto más relevante de los API es que es modular y puede incorporarse y retirarse del proyecto en cuanto sea pertinente. </li>
+  <li> Crop: El significado literal es cultivo y usaremos el término como entidad, servicio y componente durante el desarrollo del código. </li>
+  <li> Employee: Significa empleado y lo estaremos usando para realizar entidades, servicios y componentes. </li>
+  <li> Humidity: Traducido al español significa humedad y se utilizará para saber la humedad del cultivo.  </li>
+  <li> Soil: Se refiere a la parte superior del suelo donde se plantan cultivos. Es un elemento sustancial para la agricultura. </li>
+  <li> Harvest: El proceso de recoger cultivos madurados de los campos de cultivo. </li>
+  <li> Irrigation: La aplicación artificial de agua a la tierra para ayudar en la producción de cultivos. </li>
+  <li> Fertilizer: Sustancias que se aplican al suelo del cultivo para incrementar su fertilidad y rendimiento. </li>
+  <li> Pesticide: Son químicos utilizados para controlar, repeler y/o eliminar pestes del cultivo. </li>
+  <li> Crop rotation: Es la práctica de cultivar diferentes tipos de plantas al mismo tiempo en el mismo área en estaciones secuenciales. </li>
+  <li> Fumigation: Es un método de control de pestes o de eliminar microorganismos dañinos en un área específico mediante gases pesticidas. </li>
+  <li> Germination: Significa el comienzo del crecimiento, ya sea de una semilla, espora o brote, en respuesta a la temperatura correcta y agua. </li>
+  <li> Crop rotation: Es la práctica de cultivar diferentes tipos de plantas al mismo tiempo en el mismo área en estaciones secuenciales. </li>
+
 
 </ul>
 
