@@ -142,10 +142,9 @@ Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ade
 		<br>
 		TP1: El proceso refleja cómo la colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son elementos clave para enfrentar los desafíos en proyectos de ingeniería de software y alcanzar resultados exitosos, ademas la revisión exhaustiva y el apoyo mutuo en la fase de desarrollo de la aplicación web destacan la importancia de trabajar en equipo para alcanzar los objetivos establecidos.
 
-	    </td>
-	    
-            
 
+	    
+        
    <tr>
             <td align = "center">Conoce al menos un sector
 		empresarial o dominio de
