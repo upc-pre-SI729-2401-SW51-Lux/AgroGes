@@ -140,7 +140,8 @@ Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ade
             <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.
 	    <br>
 		<br>
-		TP1:ALOPOLISIA
+		TP1: El proceso refleja cómo la colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son elementos clave para enfrentar los desafíos en proyectos de ingeniería de software y alcanzar resultados exitosos, ademas la revisión exhaustiva y el apoyo mutuo en la fase de desarrollo de la aplicación web destacan la importancia de trabajar en equipo para alcanzar los objetivos establecidos.
+
 	    </td>
 	    
             
