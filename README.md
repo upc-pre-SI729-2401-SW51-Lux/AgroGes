@@ -1113,7 +1113,7 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 ### 2.3.3 User Journey Mapping
 
-![Whiteboard1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/ab895260-b51f-4295-bc2f-e544bc72863c)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/5afafc77-48b5-4ca8-944e-c2f3da2b3cff)
 
 ![Whiteboard](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/9ca4690e-4c76-460f-9135-aa70335e996e)
 
