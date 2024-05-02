@@ -973,6 +973,40 @@ Hacer crecer mi negocio y adaptarme a la nueva tecnologia
 Luis Carlos Cruz, de 30 años, se dedica al cultivo de maíz y lleva 22 años trabajando en consultoría, aunque no disfruta particularmente ese trabajo. Su motivación principal proviene de su negocio en el terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir problemas ambientales en la agricultura. Utiliza principalmente Google como navegador web y prefiere Word para el software. Describe el trabajo en la cosecha como divertido y tiene como meta hacer crecer su negocio y adaptarse a la nueva tecnología.
 
 
+**Entrevistado 3:** Miguel Angel de la Cruz <br/>
+
+Transcripcion:<br>
+
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?<br/>
+Me llamo Miguel Angel de la Cruz, tengo 49 años y me dedioo a la consultoría agricola
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+Soy extrovertido, me gusta mucho rodearme de gente y convivir con ellos
+
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+Este año cumplo 8 años ya trabajando
+
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+Los clientes imprudentes, siempre que recomiendo usar por ejemplo un pesticida en particular, terminan usando uno más barato para ahorrar costos y terminan peor
+
+¿Que te motiva a seguir trabajando?<br/>
+Los clientes fieles que tengo, son parte de mi familia practicamente
+
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+Las habilidades sociales y mi conocimiento fueron las que más fortalecí, es importante poder identificar y comunicar problemas desde el momento que aparecen para evitar problemas a futuro
+
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+Solo uso google chrome
+
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+Todos los informes los hago en documentos de google, drive me ayudó mucho a mi resolución de problemas
+
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
+Me gustaría llegar a más clientes para poder ayudar con sus cultivos
+
+**Resumen**:<br>
+Luego de la entrevista con Miguel podemos darnos cuenta que el es una persona muy dedicada a su trabajo, quien quiere conectarse más con sus clientes para así brindarles más información, por lo que podemos enfocarnos en satisfacer necesidades como las suyas, de modo que podemos brindar apoyo a sus
+
 
 
 **Entrevistado 2:** Jesus Alvarado  <br/>
