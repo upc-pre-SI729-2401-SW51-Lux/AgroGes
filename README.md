@@ -903,8 +903,8 @@ Tony Pariona, de 30 años, se dedicaba a la exportación agrícola antes de expl
 <br/>
 
 
-Segmento 2: Medianas y Grandes Empresas agrícolas 
-**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/Eeyk1ycTEE1FpiiYioLJHzABH_JJkAgTjxBpdhGxxWI6Cw?e=dYl2l0 <br/>
+Segmento 2: Consultores Agricolas
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EWEWBLqpVrVItszq7FBwqSoB8N2oC5DFOArBkD63N4UpAA?e=4NWY4X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br/>
 
 
 
@@ -1762,28 +1762,63 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 
 - ### 5.2.2 Sprint 2
 - #### 5.2.2.1. Sprint Planning 2
-   [Poner información aquí]
+  | Sprint # | Sprint 1|
+|----------|---------|
+| | Sprint Planning Background |
+| Date | 2024-04-09 |
+| Location | Reunión virtual a través de google meet |
+| Prepared By | Andrea Cabanillas, Gustavo Poma |
+| Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
+| Sprint n - 1 Review Summary | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio |
+| Sprint n - 1 Retrospective Summary| Nuestros miembros opinan que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
+| | Sprint Goal & User Stories |
+| Sprint 1 Goal | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con  |
+| Sprint 1 Velocity | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro |
+| Sum of Story Points | 9 Story points serán los que incluimos en este sprint | 
   
 - #### 5.2.2.2. Sprint Backlog 2
-   [Poner información aquí]
+   El backlog del sprint incluye las siguientes tareas:
+
+1. Crear wireframes para cada sección de la landing page.
+2. Seleccionar y aplicar una paleta de colores utilizando CSS.
+3. Configurar la estructura básica de la landing page utilizando HTML.
+4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
+
+| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|----|-------|----|-------|-------------|-------------------|-------------|--------|
+| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | Done |
+| T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas, Daniel del Castillo |  Done |
+| T03 | Contactar al equipo de ventas | W03 | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información |1| Gustavo Poma, Sergio Pecan  | Done |
+
   
 - #### 5.2.2.3. Development Evidence for Sprint Review
-   [Poner información aquí]
+ Durante el sprint, se desarrollaron los siguientes elementos:
+
+- Wireframes detallados de cada sección de la landing page.
+- Paleta de colores definida y aplicada utilizando CSS.
+- Estructura básica de la landing page creada en HTML.
+
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| GustavoPoma| main | 8c856 | style: actualización del lenguaje de la landing |  04/09/2024  |
   
 - #### 5.2.2.4. Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
 - #### 5.2.2.5. Execution Evidence for Sprint Review
-   [Poner información aquí]
+   
   
 - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-   [Poner información aquí]
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada.
   
 - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-   [Poner información aquí]
+
+   LINK:DEPLOY
   
 - #### 5.2.2.8. Team Collaboration Insights during Sprint
-   [Poner información aquí]
+- 
+   ![Imagen_de_WhatsApp_2024-05-01_a_las_14 07 58_29008838](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0e0d9244-f9c7-4830-b0ee-89901865fb98)
+
   
 
 - ### 5.2.3 Sprint 3
