@@ -65,19 +65,28 @@ TP2: Las tareas asignadas para la entrega TB2 se han completado y están documen
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
-<table >
-        <tr>
-            <th style="text-align:center;">Versión</th>
-            <th style="text-align:center;">Fecha</th>
-            <th style="text-align:center;">Autor</th>
-            <th style="text-align:center;">Descripción de la modificación</th>
-        </tr>
-        <tr>
-            <td align = "center">TB1</td>
-            <td>11/04/2024</td>
-            <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
-            <td>capitulo 1<br><br>capitulo 2<br><br>capitulo 3<br><br>capitulo 4<br><br>capitulo 5 <br><br>  </td>
 <table>
+  <tr>
+    <th style="text-align:center;">Versión</th>
+    <th style="text-align:center;">Fecha</th>
+    <th style="text-align:center;">Autor</th>
+    <th style="text-align:center;">Descripción de la modificación</th>
+  </tr>
+  <tr>
+    <td align="center">TB1</td>
+    <td>11/04/2024</td>
+    <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
+    <td>capitulo 1<br><br>capitulo 2<br><br>capitulo 3<br><br>capitulo 4<br><br>capitulo 5 <br><br>  </td>
+  </tr>
+  <tr>
+    <td align="center">TP1</td>
+    <td>11/04/2024</td>
+    <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
+    <td>capitulo 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8<br>  </td>
+  </tr>
+</table>
+
+
 <br>
 
 
@@ -1785,16 +1794,12 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 - #### 5.2.2.2. Sprint Backlog 2
    El backlog del sprint incluye las siguientes tareas:
 
-1. Crear wireframes para cada sección de la landing page.
-2. Seleccionar y aplicar una paleta de colores utilizando CSS.
-3. Configurar la estructura básica de la landing page utilizando HTML.
-4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
 
 | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
-| US002 | Adaptar Estrategia de Cultivo | W01 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 1 |  Gustavo Poma, Favio Landeo | Done |
-| US003 |Seguimiento de Actividades Agrícolas | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas,Favio Landeo y Daniel Del Castillo |  Done |
-| US007 | Recibir Alertas Climáticas W03 | Añadir una función que permita ver el pronostico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Daniel Del Castillo  | Done |
+| US002 | Adaptar Estrategia de Cultivo | W01 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Gustavo Poma, Favio Landeo | Done |
+| US003 |Seguimiento de Actividades Agrícolas | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Andrea Cabanillas,Favio Landeo y Daniel Del Castillo |  Done |
+| US007 | Recibir Alertas Climáticas |W03 | Añadir una función que permita ver el pronostico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Daniel Del Castillo  | Done 
 
   
 - #### 5.2.2.3. Development Evidence for Sprint Review
@@ -1806,8 +1811,7 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
  | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather| 01/05/2024 |
  | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities | 30/04/2024 |
  | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 01/04/2024 |
- | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management
- | 30/05/24 |
+ | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 30/05/24 |
  
 - #### 5.2.2.4. Testing Suite Evidence for Sprint Review
   
@@ -1828,7 +1832,7 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
   
 - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-   LINK:
+   LINK:https://myapp-8f99b.web.app/home
   
 - #### 5.2.2.8. Team Collaboration Insights during Sprint
   
