@@ -1130,14 +1130,10 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 ### 2.3.5 As-is Scenario Mapping
 User persona 1: <br>
 
-| Fases | Planificación de cultivos y gestión de insumos | Seguimiento de operaciones y toma de decisiones | Comunicación y colaboración | Evaluación y adaptación |
-|-------|-----------------|--|--|--|
-| Doing | Los agricultores se rigen por las temporadas y hacen cultivos esperando que no hayan imprevistos | Los agricultores registran el seguimiento de los cultivos en un cuaderno o algún registro manual que puede perderse o en caso sea digital este puede corromperse y perderse tambien | Los agricultores se comunican con otros miembros del equipo por telefono o por algun tipo de radio | Los agricultores analizan sus cultivos y se preparan para las siguientes temporadas luego de las cosechas |
-| Thinking | Los agricultores quieren que la cosecha de frutos pero su incertidumbre acaba con su esperanza | Los agricultores piensan que el seguimiento escrito a mano es mas confiable que uno modernizado | Los agricultores consideran que el sistema de radio es más rentable | Los agricultores consideran que adaptarse en base a experiencias pasadas sin cuidado de eventos repentinos como fenomenos y deslizamiento de rocas |
-| Feeling | Los agricultores se sienten desesperados por comenzar ya la temporada y cosechar lo mas pronto posible | Los agricultores se sienten conformes con los registros analogicos | Los agricultores se sienten conformes con las radios pero no quieren usar pilas para cada equipo | Los agricultores se sienten ansiosos de que no haya algún imprevisto durante la siguiente cosecha |
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/0ad20e9d-45cb-40b8-b85a-bdc710b31668)
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/92994521-e4c2-4e51-b19f-a1b4cc74b82d)
 
----
 
 ## 2.4 Ubiquitous Language
 
