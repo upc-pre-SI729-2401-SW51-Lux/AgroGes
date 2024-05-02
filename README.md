@@ -1134,6 +1134,12 @@ User persona 1: <br>
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/92994521-e4c2-4e51-b19f-a1b4cc74b82d)
 
+User persona 2: <br>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9457e988-09ba-4503-a677-be2c20563cdb)
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/748315a2-86a9-408a-b8c2-f3b2d8b18fb9)
+
 
 ## 2.4 Ubiquitous Language
 
