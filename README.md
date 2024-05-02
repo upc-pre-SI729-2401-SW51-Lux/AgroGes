@@ -131,7 +131,8 @@ Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise 
 Sergio Joel Pecan Pariona
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
-
+Tp 1 <br>
+Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ademas trabajos en equipo para hacer la aplicacion web apoyandanos entre todos.
 
 
 
@@ -152,8 +153,11 @@ Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha par
             <td> 
 
 
-
-
+Andrea Cabanillas Gora
+TB1 <br>
+Terminamos el informe, me encargue de todo el capitulo y caratula, ademas nos reunimos para revisar el trabajo en grupo.
+TP1<br>
+Corregimos el trabjo y diseñamos la app guiandonos del mock up con el diseño visual de la app web, ademas me encargue de la parte de finances
 
 
 
