@@ -1115,7 +1115,8 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/5afafc77-48b5-4ca8-944e-c2f3da2b3cff)
 
-![Whiteboard](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/9ca4690e-4c76-460f-9135-aa70335e996e)
+![o](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d25505f2-cb75-47a3-bb2b-6bf61fb8c562)
+
 
 
 ### 2.3.4 Empathy Mapping
