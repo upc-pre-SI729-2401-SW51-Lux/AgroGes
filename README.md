@@ -1122,8 +1122,7 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 ![Empathy map](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/f9463189-1469-4d0d-9264-d7a4fabf67b8)
 
-
-![2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d1427b1a-00d4-48d9-8b3c-2aece05fa55b)
+![Empathy map (1)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/2c24b05a-63b3-4296-a82f-e83f6fe5f855)
 
 
 
