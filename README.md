@@ -56,7 +56,9 @@ TP2: Las tareas asignadas para la entrega TB2 se han completado y están documen
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 2.
 
-  ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/05dac0d4-c330-4408-bc0a-2c9fb46c5434)
+
+![Imagen de WhatsApp 2024-05-01 a las 14 07 58_58362991](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/be9624f8-1533-42e5-b9ad-ec8a4cb0478c)
+
 
 
   
@@ -185,7 +187,7 @@ Sergio Joel Pecan Pariona <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 TP1<br>
-FALTA COMPLETAR
+
 
 </td>
             <td>
@@ -1132,13 +1134,11 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 ### 2.3.5 As-is Scenario Mapping
 User persona 1: <br>
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/0ad20e9d-45cb-40b8-b85a-bdc710b31668)
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/92994521-e4c2-4e51-b19f-a1b4cc74b82d)
 
 User persona 2: <br>
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9457e988-09ba-4503-a677-be2c20563cdb)
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/748315a2-86a9-408a-b8c2-f3b2d8b18fb9)
 
@@ -1168,8 +1168,11 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
+User persona 1:
 <img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/145626151/bb941e93-3157-4f28-b29a-a3c0b2f3c380" width="500"/>
 
+User persona 2:
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/9457e988-09ba-4503-a677-be2c20563cdb)
 
 ## 3.2 User Stories
 
@@ -1760,22 +1763,25 @@ No se realizó despliegue de software en este sprint, ya que el enfoque se centr
 Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
 
 
+
+
 - ### 5.2.2 Sprint 2
 - #### 5.2.2.1. Sprint Planning 2
-  | Sprint # | Sprint 1|
-|----------|---------|
-| | Sprint Planning Background |
-| Date | 2024-04-09 |
+| Sprint # | Sprint 2                          |
+|----------|-----------------------------------|
+|          | Sprint Planning Background        |
+| Date     | 2024-04-22                        |
 | Location | Reunión virtual a través de google meet |
-| Prepared By | Andrea Cabanillas, Gustavo Poma |
+| Prepared By | Daniel del Castillo           |
 | Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
-| Sprint n - 1 Review Summary | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio |
-| Sprint n - 1 Retrospective Summary| Nuestros miembros opinan que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
-| | Sprint Goal & User Stories |
-| Sprint 1 Goal | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con  |
-| Sprint 1 Velocity | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro |
-| Sum of Story Points | 9 Story points serán los que incluimos en este sprint | 
-  
+| Sprint n - 1 Review Summary | Esta reunión se dio para dividirnos los features que ibamos a realizar cada uno y quien iba a estar como apoyo del otro, de ese modo nos dividimos y cada cambio que hicimos lo registramos con extremo cuidado |
+| Sprint 1 Retrospective Summary | Luego de la retroalimentación del profesor, nos dimos cuenta que nuestro trabajo en equipo no era más que meramente designación, luego de eso nos repartimos el trabajo de modo que cada quien debía hacer commits luego de haberlos explicado al compañero para evitar futuras confusiones |
+| Sprint Goal & User Stories |         |
+| Sprint 2 Goal | Decidimos que nuestra meta iba a ser hacer vistas funcionales, con la función de almacenar los datos para luego mostrarlos en otra vista |
+| Sprint 2 Velocity | 13 |
+| Sum of Story Points | 13 |
+
+
 - #### 5.2.2.2. Sprint Backlog 2
    El backlog del sprint incluye las siguientes tareas:
 
@@ -1785,39 +1791,50 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
 
 | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
-|----|-------|----|-------|-------------|-------------------|-------------|--------|
-| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | Done |
-| T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas, Daniel del Castillo |  Done |
-| T03 | Contactar al equipo de ventas | W03 | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información |1| Gustavo Poma, Sergio Pecan  | Done |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+| US002 | Adaptar Estrategia de Cultivo | W01 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 1 |  Gustavo Poma, Favio Landeo | Done |
+| US003 |Seguimiento de Actividades Agrícolas | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas,Favio Landeo y Daniel Del Castillo |  Done |
+| US007 | Recibir Alertas Climáticas W03 | Añadir una función que permita ver el pronostico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Daniel Del Castillo  | Done |
 
   
 - #### 5.2.2.3. Development Evidence for Sprint Review
- Durante el sprint, se desarrollaron los siguientes elementos:
+ Durante el sprint, se desarrollaron los siguientes features:
+ crop, login, sign in, finance y consultant
 
-- Wireframes detallados de cada sección de la landing page.
-- Paleta de colores definida y aplicada utilizando CSS.
-- Estructura básica de la landing page creada en HTML.
-
-| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|---------------------|--------------------|
-| GustavoPoma| main | 8c856 | style: actualización del lenguaje de la landing |  04/09/2024  |
-  
+ | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | Develop | feature/Crop |  57f718e | feat(calendar): calendar now reflects the weather| 01/05/2024 |
+ | Develop | feature/Consultancy | 64edfb5 | feat(consultancy/model): create crop and notification entities | 30/04/2024 |
+ | Develop | feature/Farmer | 26999f1 | feat(finance.component): added lists of collections and payments to s… | 01/04/2024 |
+ | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management
+ | 30/05/24 |
+ 
 - #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-   [Poner información aquí]
+  
   
 - #### 5.2.2.5. Execution Evidence for Sprint Review
-   
+![Captura de pantalla 2024-05-02 021731](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/90ba835f-a63d-45b9-b688-5c19922f28fb)
+![Captura de pantalla 2024-05-02 021748](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/25f8483e-61e5-4fe7-8147-4566c6b6734c)
+
+  
+![Captura de pantalla 2024-05-02 021126](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b0f056c1-784d-44be-b348-02fc8bc602e1)
+![Captura de pantalla 2024-05-02 021154](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/37d76890-2099-414e-8323-1e29c9e950f4)
+![Captura de pantalla 2024-05-02 021210](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/3bbfd691-9299-4f23-9ff6-2f46e772715e)
+![Captura de pantalla 2024-05-02 021240](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/2c772236-cfbb-40f7-896b-b2a138d1b0ef)
+
   
 - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada.
   
 - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-   LINK:DEPLOY
+   LINK:
   
 - #### 5.2.2.8. Team Collaboration Insights during Sprint
-- 
-   ![Imagen_de_WhatsApp_2024-05-01_a_las_14 07 58_29008838](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/0e0d9244-f9c7-4830-b0ee-89901865fb98)
+  
+![Imagen de WhatsApp 2024-05-01 a las 14 07 58_58362991](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/e1265b42-e33d-4b6c-8441-68a573ac0ece)
+
+
 
   
 
