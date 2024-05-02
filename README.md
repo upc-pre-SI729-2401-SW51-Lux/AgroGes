@@ -1833,6 +1833,7 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
    LINK:https://myapp-8f99b.web.app/home
+  Repositorio: https://github.com/upc-pre-SI729-2401-SW51-Lux/development/tree/develop
   
 - #### 5.2.2.8. Team Collaboration Insights during Sprint
   
