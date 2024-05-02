@@ -125,9 +125,9 @@ En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis dia
 
 Favio Landeo Simeon
 TB1 <br>
-Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la pp, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
+Me encargué del capitulo 4 y ayudé con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, además hice algunas entrevistas que nos ayuda a recopilar datos.
 TP1 <br>
-Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
+Actualicé los Wireflow diagrams y User Flow Diagrams de la aplicación. Además revisé el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
 
 
 Sergio Joel Pecan Pariona
