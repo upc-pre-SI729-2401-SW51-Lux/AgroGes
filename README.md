@@ -100,12 +100,9 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
             <th style="text-align:center;">Conclusiones</th>
         </tr>
         <tr>
-            <td align = "center">Participa en equipos
-multidisciplinarios con eficacia,
-eficiencia y objetividad, en el
-marco de un proyecto en
-soluciones de ingeniería de
-software.</td>
+            <td align = "center">Comunica oralmente sus ideas y/o resultados con objetividad 
+		    a público de diferentes especialidades y niveles jerárquicos,
+		    en el marco del desarrollo de un proyecto en ingeniería.</td>
             <td> 
 
 Andrea Cabanillas Gora <br>
