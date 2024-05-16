@@ -157,10 +157,10 @@ Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ade
 	    
         
    <tr>
-            <td align = "center">Conoce al menos un sector
-		empresarial o dominio de
-		aplicación de soluciones de
-		software.</td>
+            <td align = "center">Comunica en forma escrita ideas y/o resultados
+		    con objetividad a público de diferentes 
+		    especialidades y niveles jerárquicos, en el marco 
+		    del desarrollo de un proyecto en ingeniería.</td>
             <td> 
 
 
