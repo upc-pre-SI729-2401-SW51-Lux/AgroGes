@@ -1867,11 +1867,11 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 - #### 5.2.3.3. Development Evidence for Sprint Review
    [Poner información aquí]
    | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
- |------------|--------|-----------|---------------------|--------------------|
- |            |        |           |                     |                    |
- |            |        |           |                     |                    |
- |            |        |           |                     |                    |
- |            |        |           |                     |                    |
+   |------------|--------|-----------|---------------------|--------------------|
+   |            |        |           |                     |                    |
+   |            |        |           |                     |                    |
+   |            |        |           |                     |                    |
+   |            |        |           |                     |                    |
 - #### 5.2.3.4. Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
