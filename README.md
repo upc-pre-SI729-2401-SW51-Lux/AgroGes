@@ -1842,14 +1842,36 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 
 - ### 5.2.3 Sprint 3
 - #### 5.2.3.1. Sprint Planning 3
-   [Poner información aquí]
-  
+ | Sprint # | Sprint 3                         |
+|----------|-----------------------------------|
+|          |                                   |
+| Date     |                                   |
+| Location |                                   |
+| Prepared By |                                |
+| Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
+| Sprint n - 1 Review Summary |                                      |
+| Sprint 3 Retrospective Summary |                                   |
+| Sprint Goal & User Stories |                                       |
+| Sprint 2 Goal |                                                    |
+| Sprint 2 Velocity |                                                |
+| Sum of Story Points |                                              |
+
+
 - #### 5.2.3.2. Sprint Backlog 3
-   [Poner información aquí]
-  
+ | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+|               |       |                    |      |             |                   |             |        |
+|               |       |                    |      |             |                   |             |        |
+|               |       |                    |      |             |                   |             |        | 
+
 - #### 5.2.3.3. Development Evidence for Sprint Review
    [Poner información aquí]
-  
+   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+ |------------|--------|-----------|---------------------|--------------------|
+ |            |        |           |                     |                    |
+ |            |        |           |                     |                    |
+ |            |        |           |                     |                    |
+ |            |        |           |                     |                    |
 - #### 5.2.3.4. Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
