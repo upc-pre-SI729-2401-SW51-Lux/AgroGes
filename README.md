@@ -140,6 +140,8 @@ TB1 <br>
 Me encargué del capitulo 4 y ayudé con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, además hice algunas entrevistas que nos ayuda a recopilar datos.
 TP1 <br>
 Actualicé los Wireflow diagrams y User Flow Diagrams de la aplicación. Además revisé el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
+Tb2 <br>
+He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
 
 
 Sergio Joel Pecan Pariona
