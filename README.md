@@ -1844,34 +1844,39 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 - #### 5.2.3.1. Sprint Planning 3
  | Sprint # | Sprint 3                         |
 |----------|-----------------------------------|
-|          |                                   |
-| Date     |                                   |
-| Location |                                   |
-| Prepared By |                                |
+|          |     Sprint Planning Background    |
+| Date     |       2024-05-25                   |
+| Location |     Reunion virtual a través de google meet       |
+| Prepared By |  Daniel del Castillo                        |
 | Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
-| Sprint n - 1 Review Summary |                                      |
-| Sprint 3 Retrospective Summary |                                   |
-| Sprint Goal & User Stories |                                       |
-| Sprint 2 Goal |                                                    |
-| Sprint 2 Velocity |                                                |
-| Sum of Story Points |                                              |
+| Sprint n - 1 Review Summary |       Esta reunión se dio para dividirnos los features de los endpoints que ibamos a trabajar en el equipo, durante este tiempo tambien asignamos tiempos de entregas de modo que fuera suficientemente flexible                                 |
+| Sprint 2 Retrospective Summary |    Posterior a los problemas que tuvimos en sprints anteriores, pudimos determinar que la mejor manera de trabajar en este momento sería crear un repositorio base con las clases compartidas ya implementadas, de modo que podemos avanzar el proyecto y la implementación no se verá fallida por un commit realizado                             |
+|  |         Sprint Goal & User Stories                              |
+| Sprint 3 Goal |  La meta de este sprint es poder genera un servicio web que pueda ser utilizado por nuestra aplicación web, de modo que se muestren datos que nuestros usuarios requieran y les brinden utilidad                                                  |
+| Sprint 3 Velocity |                                                |
+| Sum of Story Points |               15                               |
 
 
 - #### 5.2.3.2. Sprint Backlog 3
  | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
-|               |       |                    |      |             |                   |             |        |
-|               |       |                    |      |             |                   |             |        |
-|               |       |                    |      |             |                   |             |        | 
+|US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Gustavo Poma,Daniel Del Castillo|Done|
+|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 horas|Sergio Pecan,Gustavo Poma|Done|
+|T05|Consultar Recursos|T03|Consultar Backend|Haremos endpoints para consultas (GET)| Todos los miembros| 5 Hours|Done| 
+|T06|Crear Recursos|T04|  Metodo POST| Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo|6 Hours|Done| 
+|T07|Actualizar Recursos|T05|Metodo PUT| Haremos enpoints para borrado dependiendo del bounded context|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo| 8 Hours|Done| 
+|T08|Eliminar Recursos|T06|Metodo DELETE|Haremos enpoints para borrado dependiendo del bounded context|Andrea Cabanillas Favio Landeo, Sergio Pecan, Daniel Del Castillo|5 Hours|Done| 
 
 - #### 5.2.3.3. Development Evidence for Sprint Review
    [Poner información aquí]
    | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
    |------------|--------|-----------|---------------------|--------------------|
-   |            |        |           |                     |                    |
-   |            |        |           |                     |                    |
-   |            |        |           |                     |                    |
-   |            |        |           |                     |                    |
+   |BackEnd|sergio|bc127d2|feature(sales):Finished Sales|06-06-2024|
+   |BackEnd|mateo|d937879|feature(crop):Finished Feature|07-06-2024|
+   |BackEnd|gustavo|c2086a9|feat(adviser): add adviser bounded context with notification and contract aggregates|05-06-2024|
+   |BackEnd|andrea|8efea10|feat: added content of backend|05-06-2024|
+   |BackEnd|favio|d8489dc|fix: fixed variable in command to update the employee details.|07-06-2024|
+
 - #### 5.2.3.4. Testing Suite Evidence for Sprint Review
    [Poner información aquí]
   
