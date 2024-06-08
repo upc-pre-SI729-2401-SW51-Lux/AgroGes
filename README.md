@@ -144,7 +144,8 @@ TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 Tp 1 <br>
 Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ademas trabajos en equipo para hacer la aplicacion web apoyandanos entre todos.
-
+Tb2 <br>
+He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
 
 
 </td>
