@@ -1861,11 +1861,11 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
  | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
 |US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Gustavo Poma,Daniel Del Castillo|Done|
-|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 horas|Sergio Pecan,Gustavo Poma|Done|
-|T05|Consultar Recursos|T03|Consultar Backend|Haremos endpoints para consultas (GET)| Todos los miembros| 5 Hours|Done| 
-|T06|Crear Recursos|T04|  Metodo POST| Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo|6 Hours|Done| 
-|T07|Actualizar Recursos|T05|Metodo PUT| Haremos enpoints para borrado dependiendo del bounded context|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo| 8 Hours|Done| 
-|T08|Eliminar Recursos|T06|Metodo DELETE|Haremos enpoints para borrado dependiendo del bounded context|Andrea Cabanillas Favio Landeo, Sergio Pecan, Daniel Del Castillo|5 Hours|Done| 
+|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  3 horas| Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra|Sergio Pecan,Gustavo Poma|Done|
+|T05|Consultar Recursos|T03|Consultar Backend|Haremos endpoints para consultas (GET)| 5 Hours| Todos los miembros|Done| 
+|T06|Crear Recursos|T04|  Metodo POST| Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo|Done| 
+|T07|Actualizar Recursos|T05|Metodo PUT| Haremos enpoints para borrado dependiendo del bounded context|8 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo| Done| 
+|T08|Eliminar Recursos|T06|Metodo DELETE|Haremos enpoints para borrado dependiendo del bounded context|5 Hours|Andrea Cabanillas Favio Landeo, Sergio Pecan, Daniel Del Castillo|Done| 
 
 - #### 5.2.3.3. Development Evidence for Sprint Review
    [Poner información aquí]
@@ -1889,16 +1889,16 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 # Documentación de la API de Crop
 
-## Descripción
+ Descripción
 La API de Crop permite gestionar los cultivos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar). A continuación se detallan los endpoints disponibles y cómo utilizarlos.
 
 Endpoints
 
  Obtener Todos los Cultivos
-- **Método:** GET
-- **URL:** `/api/crops`
-- **Descripción:** Obtiene una lista de todos los cultivos.
-- **Respuesta Exitosa (200):**
+**Método:** GET
+ **URL:** `/api/crops`
+**Descripción:** Obtiene una lista de todos los cultivos.
+ **Respuesta Exitosa (200):**
   ```json
   [
     {
@@ -1914,6 +1914,7 @@ Endpoints
       "value": 1500
     }
   ]
+```
   
 - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -1926,10 +1927,21 @@ Repository: https://github.com/upc-pre-SI729-2401-SW51-Lux/Back-End
 
 ## 5.3 Validation Interviews
 - ### 5.3.1. Diseño de Entrevistas
+   Segmento 1:</br>
+   </br>
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como agricultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus cultivos a crecer?</br>
+   ¿Te gustaría recomendar alguna ?</br>
    
-  
+  Segmento 2: </br>
+  </br>
+  ¿?</br>
+   ¿?</br>
+   ¿?</br>
+   ¿?</br>
 - ### 5.3.2. Registro de Entrevistas
-  
+  Segmento 1:</br>
   
   
 
