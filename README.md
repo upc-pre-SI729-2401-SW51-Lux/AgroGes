@@ -122,6 +122,9 @@ Durante el trabajo, el equipo se apoyó mutuamente para las actividades que requ
 TP1<br>
 Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos débiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
 <br>
+TB2 <br>
+Durante el trabajo, el equipo se brindó apoyo mutuo en las actividades que requerían más tiempo, como las entrevistas. A pesar de los imprevistos, logramos completar y presentar el trabajo dentro del plazo establecido. Para futuras entregas, nos comprometemos a ser más meticulosos al delegar y asignar tareas.<br>
+
 
 
 Gustavo Poma Espinoza
@@ -153,7 +156,7 @@ He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun
 	    <br>
 		<br>
 		TP1: El proceso refleja cómo la colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son elementos clave para enfrentar los desafíos en proyectos de ingeniería de software y alcanzar resultados exitosos, ademas la revisión exhaustiva y el apoyo mutuo en la fase de desarrollo de la aplicación web destacan la importancia de trabajar en equipo para alcanzar los objetivos establecidos.
-
+TB2:La colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son esenciales para superar los desafíos en proyectos de ingeniería de software y lograr resultados exitosos. Además, la revisión exhaustiva y el apoyo mutuo durante la fase de desarrollo de una aplicación web subrayan la importancia del trabajo en equipo para alcanzar los objetivos establecidos.
 
 	    
         
