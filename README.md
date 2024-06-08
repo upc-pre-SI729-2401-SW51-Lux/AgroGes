@@ -1878,29 +1878,59 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
    |BackEnd|favio|d8489dc|fix: fixed variable in command to update the employee details.|07-06-2024|
 
 - #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-   [Poner información aquí]
+   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |BackEnd|master|4544c27|testing(products):done testing in swagger|06-06-2024|
   
 - #### 5.2.3.5. Execution Evidence for Sprint Review
-   [Poner información aquí]
-  
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/5a46790c-3f7e-4e76-9719-f702648fc517)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/c0f81195-aabd-4ee7-bacd-f49ff9370739)
+
 - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-   [Poner información aquí]
+# Documentación de la API de Crop
+
+## Descripción
+La API de Crop permite gestionar los cultivos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar). A continuación se detallan los endpoints disponibles y cómo utilizarlos.
+
+Endpoints
+
+ Obtener Todos los Cultivos
+- **Método:** GET
+- **URL:** `/api/crops`
+- **Descripción:** Obtiene una lista de todos los cultivos.
+- **Respuesta Exitosa (200):**
+  ```json
+  [
+    {
+      "cropid": 1,
+      "cropcode": "C001",
+      "currency": "USD",
+      "value": 1000
+    },
+    {
+      "cropid": 2,
+      "cropcode": "C002",
+      "currency": "EUR",
+      "value": 1500
+    }
+  ]
   
 - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-   [Poner información aquí]
+
+Repository: https://github.com/upc-pre-SI729-2401-SW51-Lux/Back-End
   
 - #### 5.2.3.8. Team Collaboration Insights during Sprint
-   [Poner información aquí]
+![Imagen de WhatsApp 2024-06-07 a las 21 08 02_9c063fbe](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/40e60f95-39ad-44e9-ba7f-7f66b451c445)
+
+
 
 ## 5.3 Validation Interviews
 - ### 5.3.1. Diseño de Entrevistas
-   [Poner información aquí]
+   
   
 - ### 5.3.2. Registro de Entrevistas
-   [Poner información aquí]
   
-- ### 5.3.3. Evaluaciones según heurísticas
-   [Poner información aquí]
+  
   
 
 ## 5.4 Video About-the-Product
