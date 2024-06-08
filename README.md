@@ -1861,7 +1861,7 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
  | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
 |US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Gustavo Poma,Daniel Del Castillo|Done|
-|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  3 horas| Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra|Sergio Pecan,Gustavo Poma|Done|
+|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Sergio Pecan,Gustavo Poma|Done|
 |T05|Consultar Recursos|T03|Consultar Backend|Haremos endpoints para consultas (GET)| 5 Hours| Todos los miembros|Done| 
 |T06|Crear Recursos|T04|  Metodo POST| Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo|Done| 
 |T07|Actualizar Recursos|T05|Metodo PUT| Haremos enpoints para borrado dependiendo del bounded context|8 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo| Done| 
