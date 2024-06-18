@@ -1144,7 +1144,7 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 <tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>Revision de pronostico del clima</td><td><b><i>alta</i></b></td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>riego de plantas </td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>control de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>Identificación de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
 <tr><td>peaje de cosechas</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td></tr>
 </table>
 
