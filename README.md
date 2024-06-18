@@ -124,7 +124,9 @@ Luego de la retroalimentación que recibimos de parte del profesor, encontramos 
 <br>
 TB2 <br>
 Durante el trabajo, el equipo se brindó apoyo mutuo en las actividades que requerían más tiempo, como las entrevistas. A pesar de los imprevistos, logramos completar y presentar el trabajo dentro del plazo establecido. Para futuras entregas, nos comprometemos a ser más meticulosos al delegar y asignar tareas.<br>
-
+TF <br>
+A lo largo del trabajo colaborativo, puedo destacar la superacion de dificultades con respecto a las entregas anteriores. Cada anotacion hecha por el profesor fue tomada en cuenta y se corrigio adecuadamente.
+<br>
 
 
 Gustavo Poma Espinoza
@@ -140,7 +142,7 @@ TB1 <br>
 Me encargué del capitulo 4 y ayudé con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, además hice algunas entrevistas que nos ayuda a recopilar datos.
 TP1 <br>
 Actualicé los Wireflow diagrams y User Flow Diagrams de la aplicación. Además revisé el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
-Tb2 <br>
+TB2 <br>
 He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
 
 
@@ -159,6 +161,9 @@ He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun
 		<br>
 		TP1: El proceso refleja cómo la colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son elementos clave para enfrentar los desafíos en proyectos de ingeniería de software y alcanzar resultados exitosos, ademas la revisión exhaustiva y el apoyo mutuo en la fase de desarrollo de la aplicación web destacan la importancia de trabajar en equipo para alcanzar los objetivos establecidos.
 TB2:La colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son esenciales para superar los desafíos en proyectos de ingeniería de software y lograr resultados exitosos. Además, la revisión exhaustiva y el apoyo mutuo durante la fase de desarrollo de una aplicación web subrayan la importancia del trabajo en equipo para alcanzar los objetivos establecidos.
+	<br>
+ 	TF: Durante el ciclo, pudimos ver que la colaboracion
+		
 
 	    
         
@@ -175,6 +180,9 @@ TB1 <br>
 Terminamos el informe, me encargue de todo el capitulo y caratula, ademas nos reunimos para revisar el trabajo en grupo.
 TP1<br>
 Corregimos el trabjo y diseñamos la app guiandonos del mock up con el diseño visual de la app web, ademas me encargue de la parte de finances
+TF<br>
+
+<br>
 
 
 
@@ -200,6 +208,20 @@ TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 TP1<br>
 
+Daniel Mateo Del Castillo Bueno
+TB1 <br>
+En esta entrega, realice el capitulo II del trabajo, principalmente el diseno de entrevistas
+<br>
+
+TP1 <br>
+
+<br>
+TB2 <br>
+
+<br>
+TF <br>
+
+<br>
 
 </td>
             <td>
