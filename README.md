@@ -161,10 +161,11 @@ En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis dia
 
 Favio Landeo Simeon
 TB1 <br>
-Me encargué del capitulo 4 y ayudé con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, además hice algunas entrevistas que nos ayuda a recopilar datos.
+Me comuniqué correctamente con mi equipo durante de mi avance en el capítulo 4, ayudando y colaborando con mi grupo realizando el diseño de la app.
 TP1 <br>
-Actualicé los Wireflow diagrams y User Flow Diagrams de la aplicación. Además revisé el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
+He trabajado en cooperación con mi equipo realizando un trabajo de comunicación para que yo logre terminar los Wireflow Diagrams y User Flow Diagrams de la aplicación.
 TB2 <br>
+Avancé el api de empleados con la ayuda de la comunicación oral efectiva que tuvimos como grupo.
 He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
 
 
@@ -228,10 +229,11 @@ En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis dia
 
 Favio Landeo Simeon<br>
 TB1 <br>
-Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la pp, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
+Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
 TP1 <br>
 Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
-
+TB2 <br>
+He avanzado con el api de empleados segun el DDD de nuestro proyecto para integrar las funcionalidades que el agricultor va a necesitar.
 
 
 Sergio Joel Pecan Pariona <br>
