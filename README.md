@@ -109,11 +109,13 @@ Andrea Cabanillas Gora <br>
 
 TB1 <br>
 Me encargue de hacer el diseño de entrevistas y la grabacion de entrevistas , ademas me reuni con mi grupo para poder coordinar los avances que se harian en el proyecto.
+
 TP1
 Con las correciones del profesor mejore el capitulo 1 y y mejore el resumen de las entrevitas hechas, poniendo la opinion y caracteristicas de cada uno.
+
 TB2 <br> 
 Registre las entrevistas de validacion, donde las personas dieron la opinion de nuestra app
-
+<br>
 
 Daniel Mateo del Castillo Bueno <br>
 
