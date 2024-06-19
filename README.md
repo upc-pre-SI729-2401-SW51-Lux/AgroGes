@@ -1162,6 +1162,13 @@ De las entrevistas sacamos esta conclusion final:
 Los entrevistados esperarían de una app de agricultores una herramienta integral que les permita gestionar eficientemente sus cultivos, anticipar y prevenir problemas, y optimizar sus procesos agrícolas. Buscarían funcionalidades que les ayuden a monitorear el clima, controlar plagas y enfermedades, gestionar el tiempo y los recursos de manera efectiva, así como acceder a información actualizada sobre técnicas de cultivo y mejores prácticas. Además, esperarían una plataforma que fomente la colaboración y el intercambio de conocimientos entre agricultores, así como la posibilidad de realizar seguimiento de sus cosechas y ventas. En resumen, anhelarían una aplicación que les brinde las herramientas necesarias para mejorar la productividad, reducir riesgos y aumentar sus beneficios en el campo.
 
 Estadisiticas:
+De los agricultores tenemos estos datos:
+
+![Segmento 1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/9fff30e7-33e3-4ff4-9432-d19f827ca2bb)
+
+De los consultores obtuvimos la siguiente data:
+
+![Segmento 2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d6013c0a-1855-41aa-8f7f-41da875b9b85)
 
 
 ## 2.3 Needfinding
