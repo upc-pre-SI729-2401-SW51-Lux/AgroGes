@@ -80,10 +80,17 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
   </tr>
   <tr>
     <td align="center">TP1</td>
-    <td>11/04/2024</td>
+    <td>20/05/2024</td>
     <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
     <td>capitulo 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8<br>  </td>
-  </tr>
+  </tr
+  <tr>
+    <td align="center">TB2</td>
+    <td>15/06/2024</td>
+    <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
+    <td>capitulo 5.2.2, 5.2.2.1, 5.2.2.2, 5.2.2.3, 5.2.2.4, 5.2.2.5, 5.2.2.6, 5.2.2.7, 5.2.2.8<br>  </td>
+  </tr
+
 </table>
 
 
