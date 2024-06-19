@@ -1932,7 +1932,7 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 | Sprint 2 Retrospective Summary |    Posterior a los problemas que tuvimos en sprints anteriores, pudimos determinar que la mejor manera de trabajar en este momento sería crear un repositorio base con las clases compartidas ya implementadas, de modo que podemos avanzar el proyecto y la implementación no se verá fallida por un commit realizado                             |
 |  |         Sprint Goal & User Stories                              |
 | Sprint 3 Goal |  La meta de este sprint es poder genera un servicio web que pueda ser utilizado por nuestra aplicación web, de modo que se muestren datos que nuestros usuarios requieran y les brinden utilidad                                                  |
-| Sprint 3 Velocity |                                                |
+| Sprint 3 Velocity |                   16                             |
 | Sum of Story Points |               15                               |
 
 
@@ -1941,10 +1941,14 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
 |US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Gustavo Poma,Daniel Del Castillo|Done|
 |US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Sergio Pecan,Gustavo Poma|Done|
-|T05|Consultar Recursos|T03|Consultar Backend|Haremos endpoints para consultas (GET)| 5 Hours| Todos los miembros|Done| 
-|T06|Crear Recursos|T04|  Metodo POST| Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo|Done| 
-|T07|Actualizar Recursos|T05|Metodo PUT| Haremos enpoints para borrado dependiendo del bounded context|8 Hours|Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo| Done| 
-|T08|Eliminar Recursos|T06|Metodo DELETE|Haremos enpoints para borrado dependiendo del bounded context|5 Hours|Andrea Cabanillas Favio Landeo, Sergio Pecan, Daniel Del Castillo|Done| 
+|TS01|Sales endpoint|T03|SalesOrderController|Dentro de este bounded context consideramos que no deberíamos implementar metodos de delete por ello se realizó de esa forma| 5 Hours| Sergio Pecan |Done| 
+|TS02|Crop endpoint|T04| CropController | Este bounded context requiere todos los metodos del crud según la logica de negocios que establecimos |6 Hours|Daniel Del Castillo|Done| 
+
+|TS03|Endpoint de Notificaciones del Clima|T05| NotificationsController|Este endpoint utilizará los métodos del CRUD| 5 Hours| Gustavo Poma |Done| 
+|TS04|Endpoint de Contratos de Empleados|T06| ContractController | Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Gustavo Poma|Done| 
+
+|TS05|Endpoint de Employees|T07|EmployeeController| Se realizarán todos los metodos CRUD en este endpoint que conectará nuestra base de datos| 4 Hours| Favio Landeo |Done| 
+|TS06|Endpoint de Farming|T08| FarmingController| Este endpoint servirá para poder obtener información de la granja y requiere métodos del crud| 3 Hours|Andrea Cabanillas|Done| 
 
 - #### 5.2.3.3. Development Evidence for Sprint Review
    [Poner información aquí]
@@ -2023,9 +2027,14 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 - ### 5.3.2. Registro de Entrevistas
   Segmento 1:</br>
   
- Enlace de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+ Enlace de las entrevistas: 
 ## 5.4 Video About-the-Product
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/f64c16a2-66e7-424e-8ebe-46bdddb91b2b)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 
 
 
