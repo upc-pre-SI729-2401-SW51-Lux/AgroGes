@@ -108,10 +108,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 Andrea Cabanillas Gora <br>
 
 TB1 <br>
-Todo el equipo colaboró en la realización del trabajo, dividiendo equitativamente las secciones entre los miembros. Además, trabajamos de manera conjunta en varios aspectos como las entrevistas, el desarrollo de la landing page y las secciones de development evidence y testing suite, garantizando así un enfoque integral y cooperativo en todas las etapas del proyecto.
+Me encargue de hacer el diseño de entrevistas y la grabacion de entrevistas , ademas me reuni con mi grupo para poder coordinar los avances que se harian en el proyecto.
 TP1
-Con las correciones del profesor mejore el capitulo 1 y segui la estructura pedida para tener un mejor trabajo y cumplir con lo que nos piden.
-<br>
+Con las correciones del profesor mejore el capitulo 1 y y mejore el resumen de las entrevitas hechas, poniendo la opinion y caracteristicas de cada uno.
+TB2 <br> 
+Registre las entrevistas de validacion, donde las personas dieron la opinion de nuestra app
 
 
 Daniel Mateo del Castillo Bueno <br>
@@ -1980,5 +1981,5 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 
 ## 5.4 Video About-the-Product
 
-   [Poner información aquí]
+
 
