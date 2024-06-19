@@ -178,17 +178,22 @@ He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun
 
 
 </td>
-            <td>TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.
+            <td>
+<br>
+TB1: Como equipo, implementamos diversas estrategias de organización para abordar el desafío de la falta de tiempo y garantizar la entrega de un trabajo completo y de calidad. Esto implicó establecer horarios de reuniones regulares para mantenernos actualizados sobre el progreso del proyecto, asignar tareas de manera equitativa y priorizarlas según su importancia y urgencia. Además, utilizamos herramientas de gestión de proyectos para seguir de cerca el avance de las actividades y asegurarnos de cumplir con los plazos establecidos. Esta colaboración y coordinación efectiva nos permitió optimizar nuestro tiempo y recursos, superar obstáculos y finalmente entregar un trabajo satisfactorio.
 	    <br>
 		<br>
 		TP1: El proceso refleja cómo la colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son elementos clave para enfrentar los desafíos en proyectos de ingeniería de software y alcanzar resultados exitosos, ademas la revisión exhaustiva y el apoyo mutuo en la fase de desarrollo de la aplicación web destacan la importancia de trabajar en equipo para alcanzar los objetivos establecidos.
+  <br>
+  
+<br>		    
 TB2:La colaboración efectiva, la adaptabilidad y el compromiso con la mejora continua son esenciales para superar los desafíos en proyectos de ingeniería de software y lograr resultados exitosos. Además, la revisión exhaustiva y el apoyo mutuo durante la fase de desarrollo de una aplicación web subrayan la importancia del trabajo en equipo para alcanzar los objetivos establecidos.
 	<br>
- 	TF: Durante el ciclo, pudimos ver que la colaboracion
-		
-
-	    
-        
+ <br>
+ TF: Como grupo nos reunimos por meet y cooridnamos el trabajo que le tocaba a cada uno, ademas grabamos about the team y gracias al trabajo hemos aprendido a comunicarnos mas como grupo
+ <br>
+ 	
+		 
    <tr>
             <td align = "center">Comunica en forma escrita ideas y/o resultados
 		    con objetividad a público de diferentes 
