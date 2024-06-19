@@ -117,6 +117,11 @@ TB2 <br>
 Registre las entrevistas de validacion, donde las personas dieron la opinion de nuestra app
 <br>
 
+TF <br>
+Me reuni con mi grupo para poder acabar el trabajo y para grabar el about the team
+<br>
+
+
 Daniel Mateo del Castillo Bueno <br>
 
 TB1 <br>
@@ -189,7 +194,9 @@ Tp2<br>
 Me encargue del endpoint farming donde el agricultor registrara su cultivo
 <br>
 
-
+TF<br>
+Trabaje haciendo el frontend de mi end point y  luego lo conecte con mi backend
+<br>
 
 
 Gustavo Poma Espinoza
