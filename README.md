@@ -166,8 +166,6 @@ TP1 <br>
 He trabajado en cooperación con mi equipo realizando un trabajo de comunicación para que yo logre terminar los Wireflow Diagrams y User Flow Diagrams de la aplicación.
 TB2 <br>
 Avancé el api de empleados con la ayuda de la comunicación oral efectiva que tuvimos como grupo.
-He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
-
 
 Sergio Joel Pecan Pariona
 TB1 <br>
