@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/8ecc9a25-aa4f-45ea-b7d5-c81ab0e1eb10)## AGROGRES
+## AGROGRES
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
