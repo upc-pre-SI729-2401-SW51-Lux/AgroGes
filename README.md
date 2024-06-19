@@ -135,21 +135,20 @@ TF <br>
 Me reuni con mi grupo para poder acabar el trabajo y para grabar el about the team
 <br>
 
-
 Daniel Mateo del Castillo Bueno <br>
 
 TB1 <br>
-Durante el trabajo, el equipo se apoyó mutuamente para las actividades que requerían más tiempo, como las entrevistas, pese a los imprevistos pudimos acabar el trabajo y presentarlo en el horario establecido. Para una próxima entrega nos comprometemos a ser más meticulosos cuando deleguemos y designemos tareas
+Durante el trabajo me encargué de realizar entrevistas, realicé dos entrevistas a ambos segmentos.
 <br>
 TP1<br>
-Luego de la retroalimentación que recibimos de parte del profesor, encontramos puntos débiles en nuestro trabajo, sobre todo en el enfoque colaborativo. Por ello, en esta entrega acordamos incorporar todos los cambios dentro de la rama principal unicamente cuando todos hayamos revisado y aprobado los cambios hechos, de ese modo hacemos que todos los miembros se vean involucrados en las decisiones del equipo.
+Luego de la retroalimentación dada por el docente en esta entrega y a asumir el rol de lider del grupo, tuve que cambiar cambiar información preguntada para hacer nuevamente las entrevistas, durante ese proceso tuvimos que volver con las personas que entrevistamos previamente y darles un espacio seguro para que puedan respondernos adecuadamente. Además de planear las stand-up meetings para afinar detalles. 
 <br>
 TB2 <br>
-Durante el trabajo, el equipo se brindó apoyo mutuo en las actividades que requerían más tiempo, como las entrevistas. A pesar de los imprevistos, logramos completar y presentar el trabajo dentro del plazo establecido. Para futuras entregas, nos comprometemos a ser más meticulosos al delegar y asignar tareas.<br>
-TF <br>
-A lo largo del trabajo colaborativo, puedo destacar la superacion de dificultades con respecto a las entregas anteriores. Cada anotacion hecha por el profesor fue tomada en cuenta y se corrigio adecuadamente.
+Durante esta entrega realicé entrevistas de validación, siempre tratando de fijarme en que mis entrevistados puedan entenderme adecuadamente y puedan dar una respuesta que satisfaga las necesidades del equipo. Además, trabajamos en el aspecto de las daily-standup meetings, traté de hacer que todos los miembros puedan entender sus actividades y considero que lo logramos.
 <br>
-
+TF <br>
+Para la entrega final tuve que realizar más reuniones, mas largas para llegar a la meta, dado que tuvimos dificultades en las entregas pasadas, considero que lo realizamos adecuadamente y logré comunicarme con mis compañeros de modo que fue claro y entendible.
+<br>
 
 Gustavo Poma Espinoza
 TB1 <br>
@@ -245,17 +244,18 @@ TP1<br>
 
 Daniel Mateo Del Castillo Bueno
 TB1 <br>
-En esta entrega, realice el capitulo II del trabajo, principalmente el diseno de entrevistas
+En esta entrega, realicé  con ayuda de mis compañeros el capitulo II, en el que definiamos a nuestros usuarios y como impactaría nuestro producto dentro de su ambito laboral.
 <br>
 
 TP1 <br>
-
+En esta entrega realicé la homepage de nuestra aplicación web, de modo que se adaptaba a lo que el usuario requería.
 <br>
 TB2 <br>
+Para esta entrega, realice el aspecto de los crops dentro de nuestro domain driven design. Dados los aspectos planteados dentro del front tuve que adaptar mi rama del spring boot para poder mostrar datos adecuadamente
 
 <br>
 TF <br>
-
+Para esta entrega, tuve que afinar aspectos de la aplicación backend, siendo que tuvimos que mostrar como esta es funcional para el usuario, adaptada a las reglas del domain driven design
 <br>
 
 </td>
@@ -2012,18 +2012,18 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
    ¿Que te gustaría ver en una aplicación web?</br>
    ¿Que te parece util para ti como agricultor en nuestra aplicación ?</br>
    ¿Consideras que nuestra pagina ayudaría a tus cultivos a crecer?</br>
-   ¿Te gustaría recomendar alguna ?</br>
+   ¿Te gustaría recomendar alguna función ?</br>
    
   Segmento 2: </br>
-  </br>
-  ¿?</br>
-   ¿?</br>
-   ¿?</br>
-   ¿?</br>
+
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como consultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus contactos a crecer?</br>
+   ¿Te gustaría recomendar alguna función adicional? ?</br>
 - ### 5.3.2. Registro de Entrevistas
   Segmento 1:</br>
   
-  
+ Enlace de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 5.4 Video About-the-Product
 
