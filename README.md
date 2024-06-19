@@ -261,10 +261,13 @@ TB1: En esta etapa del proyecto, se realizaron análisis detallados de las prefe
 		    <BR>
      TP1: Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es “Desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas”. Esto significa que estoy aprendiendo a utilizar mis conocimientos técnicos y habilidades analíticas para abordar desafíos de software de manera efectiva y eficiente.
      <br>
-      TP2: Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es "desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas". Esto implica que estoy adquiriendo conocimientos técnicos y habilidades analíticas para enfrentar desafíos de software de manera efectiva y eficiente.
-	    
-     
-     
+		    <br>
+      TB2: Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es "desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas". Esto implica que estoy adquiriendo conocimientos técnicos y habilidades analíticas para enfrentar desafíos de software de manera efectiva y eficiente.
+	    <br>
+     <br>
+     TF:  Como estudiante de Ingeniería de Software en la UPC, uno de mis objetivos es “Desarrollar la capacidad para identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de la ingeniería, la ciencia y las matemáticas”. Esto significa que con el trabajo final logramos aquidir 
+     onocimientos técnicos y habilidades analíticas para enfrentar desafíos de software de manera efectiva y eficiente.
+    <br> 
 </table>
 
 <br>
