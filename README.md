@@ -88,14 +88,14 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     <td align="center">TB2</td>
     <td>15/06/2024</td>
     <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
-    <td>capitulo <br> capitulo 5.3, 5.3.1, 5.3.2, 5.4  </td>
+    <td>capitulo <br>  5.3, 5.3.1, 5.3.2, 5.4  </td>
   </tr
 
  <tr>
     <td align="center">TF</td>
     <td>19/06/2024</td>
     <td>Andrea Cabanillas Gora <br><br>Daniel del Castillo <br><br>Sergio Pecan<br><br>Favio Landeo y Gustavo Poma<br><br> Favio Landeo, Andrea Cabanillas, Gustavo Poma, Daniel del Castillo, Sergio Pecan <br><br></td>
-    <td>capitulo capitulo 5.3, 5.3.1, 5.3.2, 5.4  <br>  </td>
+    <td>capitulo  <br> 5.3, 5.3.1, 5.3.2, 5.4  </td>
   </tr
 
 </table>
