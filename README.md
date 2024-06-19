@@ -180,11 +180,11 @@ TB2:La colaboración efectiva, la adaptabilidad y el compromiso con la mejora co
 
 Andrea Cabanillas Gora
 TB1 <br>
-Terminamos el informe, me encargue de todo el capitulo y caratula, ademas nos reunimos para revisar el trabajo en grupo.
+Me encargue de todo el capitulo y caratula, ademas nos reunimos para revisar el trabajo en grupo.
 TP1<br>
 Corregimos el trabjo y diseñamos la app guiandonos del mock up con el diseño visual de la app web, ademas me encargue de la parte de finances
-TF<br>
-
+Tp2<br>
+Me encargue del endpoint farming donde el agricultor registrara su cultivo
 <br>
 
 
