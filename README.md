@@ -159,9 +159,9 @@ Tp1 <br>
 En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis diagramas, entre los cuales se incluyen el punto 4.6.1: 'Diagrama de Contexto de la Arquitectura de Software', el 4.6.2: 'Diagramas de Contenedores de la Arquitectura de Software', el 4.6.3: 'Diagramas de Componentes de la Arquitectura de Software' y el 4.7.1: 'Diagramas de Clases', actualizando cada uno de ellos conforme a las sugerencias recibidas. Además, el punto 4.8.1: 'Diagrama de la Base de Datos' también experimentó mejoras significativas bajo la orientación del profesor. Finalmente, en un esfuerzo creativo adicional, desarrollé la funcionalidad 'Feature-Consultancy', agregando así un toque innovador y práctico al proyecto. <br>
 
 
-Favio Landeo Simeon
+Favio Landeo Simeon <br>
 TB1 <br>
-Me comuniqué correctamente con mi equipo durante de mi avance en el capítulo 4, ayudando y colaborando con mi grupo realizando el diseño de la app.
+Me comuniqué correctamente con mi equipo durante de mi avance en el capítulo 4, ayudando y colaborando con mi grupo realizando el diseño de la app; además realicé algunas entrevistas.
 TP1 <br>
 He trabajado en cooperación con mi equipo realizando un trabajo de comunicación para que yo logre terminar los Wireflow Diagrams y User Flow Diagrams de la aplicación.
 TB2 <br>
