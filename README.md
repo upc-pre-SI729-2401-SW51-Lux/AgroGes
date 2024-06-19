@@ -1,4 +1,4 @@
-## AGROGRES
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/8ecc9a25-aa4f-45ea-b7d5-c81ab0e1eb10)## AGROGRES
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
@@ -124,7 +124,7 @@ Andrea Cabanillas Gora <br>
 TB1 <br>
 Me encargue de hacer el diseño de entrevistas y la grabacion de entrevistas , ademas me reuni con mi grupo para poder coordinar los avances que se harian en el proyecto.
 
-TP1
+TP1 <br>
 Con las correciones del profesor mejore el capitulo 1 y y mejore el resumen de las entrevitas hechas, poniendo la opinion y caracteristicas de cada uno.
 
 TB2 <br> 
@@ -162,8 +162,10 @@ En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis dia
 Favio Landeo Simeon <br>
 TB1 <br>
 Me comuniqué correctamente con mi equipo durante de mi avance en el capítulo 4, ayudando y colaborando con mi grupo realizando el diseño de la app; además realicé algunas entrevistas.
+<br>
 TP1 <br>
 He trabajado en cooperación con mi equipo realizando un trabajo de comunicación para que yo logre terminar los Wireflow Diagrams y User Flow Diagrams de la aplicación.
+<br>
 TB2 <br>
 Avancé el api de empleados con la ayuda de la comunicación oral efectiva que tuvimos como grupo.
 
@@ -228,8 +230,10 @@ En esta segunda etapa, me dediqué meticulosamente a las correcciones de mis dia
 Favio Landeo Simeon<br>
 TB1 <br>
 Me encargue del capitulo 4 y ayude con el diseño del mock up, en grupo logramos terminar sastifactoriamente el diseño visual de la app, ademas hice algunos registros de entrevistas que nos ayuda a recopilar datos.
+<br>
 TP1 <br>
-Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion
+Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise el trabajo para ver si estaba completo y nos apoyamos entre todos para desarollar de forma exitosa la aplicacion.
+<br>
 TB2 <br>
 He avanzado con el api de empleados segun el DDD de nuestro proyecto para integrar las funcionalidades que el agricultor va a necesitar.
 
