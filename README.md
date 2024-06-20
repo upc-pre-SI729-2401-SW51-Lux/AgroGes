@@ -167,6 +167,10 @@ He trabajado en cooperación con mi equipo realizando un trabajo de comunicació
 <br>
 TB2 <br>
 Avancé el api de empleados con la ayuda de la comunicación oral efectiva que tuvimos como grupo.
+<br>
+TF <br>
+Me encargue de coordinar mi avance con mi grupo en reuniones. Ademas de realizar colaborativamente el video about the team.
+
 
 Sergio Joel Pecan Pariona
 TB1 <br>
@@ -237,6 +241,9 @@ Hice los Wireflow diagrams y user flow diagrams de la aplicacion, ademas revise 
 <br>
 TB2 <br>
 He avanzado con el api de empleados segun el DDD de nuestro proyecto para integrar las funcionalidades que el agricultor va a necesitar.
+<br>
+TF <br>
+Me encargue de integrar el backend y el frontend del endpoint Employees.
 
 
 Sergio Joel Pecan Pariona <br>
