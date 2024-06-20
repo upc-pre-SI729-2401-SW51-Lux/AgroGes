@@ -1911,7 +1911,7 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 
   
 - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada.
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada. Ademas agregando un falso api de json server, esto se incluyendo al logica visual del negocio para el testeo.
   
 - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
