@@ -1297,12 +1297,11 @@ User persona 2:
 
 
 ## 3.3 Impact Mapping
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/38e4aec7-13b3-4564-a7af-20199676b38d)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/43faabfd-51d9-4829-9413-9289b4c0669f)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/4219a357-1a37-4c65-847d-c26f23b7442c)
 
-![P1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/50646619-800b-4c99-aa9e-29235bcd0766)
 
-![P2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/fa09091b-3fb6-44a0-be84-03eafc559c77)
-
-![p3](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d3e72a2a-30db-4856-8c35-fd3e3be2c876)
 
 ## 3.4 Product Backlog
 
@@ -1719,7 +1718,7 @@ notification
  
  **Java :** Para el desarrollo del backend de la aplicación.
 
- **Uxspresia :**
+ **Uxspresia : Para el desarrollo de los impact, empathy mappings y los user persona https://uxpressia.com**
  
  **MySQL** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
  
