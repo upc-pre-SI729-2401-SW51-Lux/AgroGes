@@ -1605,7 +1605,8 @@ https://lucid.app/lucidchart/64cc965f-5506-4254-a793-f4e0bd49acb0/edit?viewport_
 ## 4.7 Software Object-Oriented Design
 - ### 4.7.1 Class Diagrams
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/f3564931-f4ba-416a-92cb-e37f75a0ec06)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/4a14e7e8-37de-4f31-bc37-6513ccf39242)
+
   
 - ### 4.7.2 Class Dictionary
 
