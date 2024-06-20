@@ -170,11 +170,13 @@ Avancé el api de empleados con la ayuda de la comunicación oral efectiva que t
 
 Sergio Joel Pecan Pariona
 TB1 <br>
-Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
+Me comunique con mi equipo y me centre en el capitulo tres con la lluvia de ideas para realizar el User story y tecnical story para el desarrollo de la aplicacion, pero tambien participando la forma de realizacion del lading page.
 Tp 1 <br>
-Hemos hecho la correcion segun las indicaciones y hemos mejorado el informe, ademas trabajos en equipo para hacer la aplicacion web apoyandanos entre todos.
+desarrollé el frontend con Angular. Para probar las funcionalidades de la aplicación en el bouded context de iam y dashboard del iam, utilicé un servidor falso API de JSON
 Tb2 <br>
-He avanzado con el api del sales order y los FarmerProductPrice ejecutante segun el DDD de nuestro proyecto para integrar la lista de ordernes que el agricultor va a necesitar.
+mplementé la lógica del negocio en el backend en el contexto de payment de la aplicación utilizando Spring Boot y Java. Este trabajo implicó asegurar que los datos se manejaran de manera segura y eficiente, lo que es crucial para el rendimiento y la seguridad de la aplicación para que lo usen mis compañeros de equipo usando un ubquos language.
+TF1<br>
+Desarrollé el backend de la aplicación utilizando Spring Boot y Java, asegurando que los datos se manejen de manera segura y eficiente discutiendo con mis compañeros la realizacion de esta union.
 
 
 </td>
@@ -241,6 +243,11 @@ Sergio Joel Pecan Pariona <br>
 TB1 <br>
 Durante la ejecución de nuestro proyecto actual, cada miembro del equipo ha participado activamente a través de distintas ramas en el repositorio, en línea con la división de responsabilidades previamente acordada. También hemos mantenido una comunicación constante para coordinar nuestros avances y hemos trabajado juntos para integrar las correcciones recomendadas por nuestro profesor. Este enfoque colaborativo ha sido esencial para mantenernos en sintonía y asegurar el progreso efectivo del proyecto.
 TP1<br>
+desarrollé el frontend con Angular y utilicé un servidor falso API de JSON para probar las funcionalidades del endpoint de iam y sus pages. Este enfoque me permitió asegurar que estábamos construyendo las características correctas y que funcionaban como se esperaba antes de integrarlas con el backend real.
+TB2<br>
+En esta fase, implementé la lógica del negocio en el backend de la aplicación utilizando Spring Boot y Java para el endpoint de payment. Este trabajo implicó asegurar que los datos se manejaran de manera segura y eficiente, lo que es crucial para el rendimiento y la seguridad de nuestra aplicación. Este trabajo fue esencial para asegurar que nuestra aplicación pudiera manejar la información de manera segura y rápida.
+TF<br>
+Finalmente, trabajé en la integración del frontend y el backend. Esto implicó asegurar una comunicación fluida entre ambas partes de la aplicación y activar los privilegios CORS para permitir conexiones desde diferentes dominios. Este trabajo fue crucial para asegurar que todas las partes de nuestra aplicación trabajaran juntas de manera fluida.
 
 Daniel Mateo Del Castillo Bueno
 TB1 <br>
