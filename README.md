@@ -1898,7 +1898,12 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
  | Develop | feature/IAM| df8d6f1 | feat(iam): completed dashboard admin management| 30/05/24 |
  
 - #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-  
+- 
+   Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |Develop|Added|3245ef2|testing(Crop):done testing in local host|06-04-2024|
+    |Develop|Added|4544c27|testing(Consultancy):done testing in firebase|07-04-2024|
+
   
 - #### 5.2.2.5. Execution Evidence for Sprint Review
 ![Captura de pantalla 2024-05-02 021731](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/90ba835f-a63d-45b9-b688-5c19922f28fb)
@@ -2008,6 +2013,7 @@ Endpoints
 ```
   
 - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b30ae874-1bb1-41db-bac6-4c3a19cef6e8)
 
 Repository: https://github.com/upc-pre-SI729-2401-SW51-Lux/Back-End
 RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
@@ -2034,13 +2040,62 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
    ¿Te gustaría recomendar alguna función adicional? ?</br>
 - ### 5.3.2. Registro de Entrevistas
   Segmento 1:</br>
+
+Entrevista 1 :<br>
+  Nombre y apellidos: Jose Carhuas<br>
+
+  Distrito: Santiago de surco<br>
+
+  Resumen:José, un agricultor, destacó cómo la aplicación web Agroges ha revolucionado su gestión agrícola. Gracias a sus funciones de monitoreo en tiempo real y alertas, ha indicado que ahora sus cultivos pueden llevar un conteo adecuado, lo que ha mejorado la salud y el rendimiento de sus cultivos. También mencionó la facilidad para llevar registros de ventas con regulaciones. José le gustaría probar Agroges por su impacto positivo en la eficiencia y calidad de su producción.
+
+ <br>
+
+  <br>
+
+Entrevista  2:<br>
+  Nombre y apellidos: Alexia Gamboa<br>
+
+  <br>
+  Distrito:Santiago de Surco<br>
+
+  <br>
+  Resumen: Alexia, es una antigua estudiante de biología, tiene conocimientos en plagas y ayuda a algunos conocidos a cuidar plantas y evitar la proliferación de insectos maliciosos para los cultivos, luego de ver la página, consideró que era muy intuitiva y podría ayudarla a encontrar más clientes si decidiera dedicarse completamente a la consultoría 
+  <br>
+  <br>
+
+
+Entrevista 3 :<br>
+  Nombre y apellidos: Jeremy Quispe<br>
+
+  <br>
+  Distrito:La molina<br>
+
+  <br>
+  Resumen: Jeremy Quispe, un agricultor con una vasta experiencia, explicó cómo la aplicación web Agroges ha transformado la forma en que maneja su finca. Resaltó que las herramientas de monitoreo de Agroges le permiten gestionar mejor el control de plagas, resultando en cultivos más sanos y productivos. Además, la plataforma facilita el seguimiento de insumos, la gestión de empleados y el cumplimiento de normativas de la SUNAT. Jeremy también destacó la capacidad de Agroges para manejar las finanzas de la finca, permitiéndole tener un control más preciso sobre los costos y beneficios.
+  <br>
+  <br>
+
+Entrevista 4 :<br>
+  Nombre y apellidos:Miguel Meza<br>
+
+  <br>
+  Distrito:Santiago de Surco<br>
+
+  <br>
+  Resumen: Miguel es un hombre de 57 años, el tiene una pequeña huerta donde planta pitahayas, una de sus preocupaciones era el tema del riego y de la prevención ante posibles diluvios que terminen en deslizamientos de tierra, él elogió la función del clima y el calendario, de ese modo puede ver cuando lloverá. Como aspecto a mejorar, nos mencionó que deberíamos implementar un sistema de automatización de riego,de ese modo puede ahorrar costos<br>
+  <br>
+  <br>
+
+
   
- Enlace de las entrevistas: 
-## 5.4 Video About-the-Product
+ Enlace de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/ERvpXesSLaNBqV6qOFA5aHUBVGFMvFBQCRJFfO9IOws8Gg?e=AhffmR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ 
+## 5.4 Video About-the-Product 
+
 
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/f64c16a2-66e7-424e-8ebe-46bdddb91b2b)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
