@@ -1701,7 +1701,7 @@ notification
 ## 4.8 Database Design
 - ### 4.8.1 Database Diagram
 
-![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/142ed253-8af6-4123-85d2-2900a2542fd7)
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/1ea779c9-8759-4850-95d7-84073e34608c)
 
 ---
 # Capítulo V: Product Implementation, Validation & Deployment
