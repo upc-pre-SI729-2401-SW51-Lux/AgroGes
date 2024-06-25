@@ -2252,6 +2252,19 @@ Entrevista 4 :<br>
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
+## 6. Conclusiones
+
+Nuestro equipo ha logrado desarrollar una solución integral que optimiza la gestión de productos agrícolas. Hemos diseñado una plataforma que no solo mejora la calidad de la producción agrícola, sino que también facilita las operaciones diarias para los productores, especialmente pequeños y medianos agricultores.
+
+Durante el desarrollo de AgroGes, enfrentamos varios desafíos, incluyendo la adaptación a las necesidades específicas del sector agrícola y la integración de tecnologías avanzadas en un entorno tradicionalmente menos tecnológico. Sin embargo, nuestra dedicación y compromiso nos permitieron superar estos obstáculos y avanzar hacia una solución efectiva.
+
+AgroGes se estableció con objetivos claros: proporcionar información técnica especializada, mejorar las prácticas agrícolas y facilitar la programación de visitas profesionales. Estos objetivos han sido alcanzados, ofreciendo una herramienta valiosa que respalda a los agricultores en cada etapa de su producción.
+
+La plataforma AgroGes representa un avance significativo en la digitalización del sector agrícola. Proporciona a los agricultores acceso a información precisa y asesoramiento especializado, mejorando la eficiencia y productividad de sus cultivos. Esta innovación tiene el potencial de transformar la manera en que los productores gestionan sus operaciones agrícolas.
+
+Creemos firmemente en la importancia de la atención individualizada. Nuestra plataforma permite programar visitas de profesionales a los terrenos de los agricultores, ofreciendo recomendaciones personalizadas y apoyo continuo. Esto asegura un mejor desempeño en los cultivos y promueve prácticas agrícolas más sostenibles y eficaces.
+
+En AgroGes, estamos comprometidos con el futuro del sector agrícola. Nuestra plataforma no solo mejora la producción actual, sino que también prepara a los agricultores para enfrentar los desafíos futuros mediante la adopción de tecnologías avanzadas y prácticas innovadoras.
 
 
 
