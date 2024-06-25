@@ -2244,6 +2244,15 @@ Entrevista 4 :<br>
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
+ 
+## 5.4 Video About-the-Team
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/43cc8663-1282-4b7d-9e6c-6c27b80a17ed)
+
+
+enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211711_upc_edu_pe/ETXYemVeDYtIsEKia-giLPMBrifJbxbFXC_2Ufa3ltMAtQ?e=4aQix8
+
+
 ## 6. Conclusiones
 
 Nuestro equipo ha logrado desarrollar una solución integral que optimiza la gestión de productos agrícolas. Hemos diseñado una plataforma que no solo mejora la calidad de la producción agrícola, sino que también facilita las operaciones diarias para los productores, especialmente pequeños y medianos agricultores.
@@ -2260,7 +2269,8 @@ En AgroGes, estamos comprometidos con el futuro del sector agrícola. Nuestra pl
 
 
 
-
+ANEXO
+Video sprint 4: 
 
 
 
