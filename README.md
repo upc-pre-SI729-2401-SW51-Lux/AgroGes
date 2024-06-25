@@ -2101,15 +2101,59 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 - #### 5.2.4.5. Execution Evidence for Sprint Review.
 En este Sprint, nuestro equipo se enfocó en la integración del frontend y el backend. Los endpoints implementados y componentes creados se listan a continuación:
 
+![PHOTO-2024-06-25-00-00-08](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/4282e8ef-e566-4402-b62f-51191e2e54b9)
+![PHOTO-2024-06-25-00-00-41](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ce58b41-bc1a-4799-94e7-a4038ffb4899)
+![PHOTO-2024-06-25-00-07-28](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/b07471d7-6726-4ec8-bccc-796858a503f9)
+![PHOTO-2024-06-25-00-09-00](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/0a1d3e6f-7320-47cf-8ccc-1ae430f15c35)
+
 
 - #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
 
+| EndPoint                                | Detalles                                                                                      |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------|
+| /api/v1/SalesOrder/{salesOrderId}       | Obtiene, actualiza o elimina una orden de venta específica.                                   |
+| /api/v1/SalesOrder                      | En esta ruta se gestionan las órdenes de venta (agregar, obtener).                            |
+| /api/v1/SalesOrder/{salesOrderId}/items/{farmerProductPriceId} | Actualiza un artículo específico en una orden de venta.                                         |
+| /api/v1/product/{productId}             | Obtiene, actualiza o elimina un producto específico.                                          |
+| /api/v1/product                         | En esta ruta se gestionan los productos (agregar, obtener).                                   |
+| /api/notifications/{id}                 | Actualiza o elimina una notificación específica.                                              |
+| /api/notifications                      | En esta ruta se gestionan las notificaciones (agregar, obtener).                              |
+| /api/notifications/{transmitter}        | Obtiene notificaciones por transmisor.                                                        |
+| /api/v1/crop/{Id}                       | Obtiene, actualiza o elimina un cultivo específico.                                           |
+| /api/v1/crop                            | En esta ruta se gestionan los cultivos (agregar, obtener).                                    |
+| /api/v1/crop/{Id}/products/{productId}  | Actualiza un producto específico de un cultivo.                                               |
+| /api/v1/Contract/{id}                   | Actualiza un contrato específico.                                                             |
+| /api/v1/Contract                        | En esta ruta se gestionan los contratos (agregar, obtener).                                   |
+| /api/v1/Contract/declined               | Obtiene contratos declinados.                                                                 |
+| /api/v1/employees/{idDocument}          | Obtiene o actualiza un empleado específico.                                                   |
+| /api/v1/employees                       | En esta ruta se gestionan los empleados (agregar, obtener).                                   |
+| /api/v1/employees/{id}                  | Elimina un empleado específico.                                                               |
+| /api/v1/farmerProductPrices/{farmerProductPriceId} | Obtiene, actualiza o elimina un precio de producto de agricultor específico.                  |
+| /api/v1/farmerProductPrices             | En esta ruta se gestionan los precios de productos de agricultores (agregar, obtener).        |
+| /api/v1/farming/ruc/create              | Crea un RUC de cultivo.                                                                       |
+| /api/v1/farming/ruc                     | Obtiene todos los RUCs de cultivo.                                                            |
+| /api/v1/farming/ruc/{id}                | Obtiene un RUC de cultivo específico.                                                         |
+
+
+Detalles de los métodos HTTP permitidos
+GET: Utilizado para obtener información. Todos los endpoints deben admitir este método.
+POST: Utilizado para agregar nuevos registros.
+PUT/PATCH: Utilizado para actualizar información existente. Algunos endpoints podrían no admitir PUT, pero sí admitir PATCH si solo necesitan actualizaciones parciales.
+DELETE: Utilizado para eliminar registros existentes. Algunos endpoints podrían no admitir este método por razones de seguridad o integridad de los datos.
 
 - #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+  
+
 - #### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+<img width="904" alt="Screenshot 2024-06-25 at 12 11 41 AM" src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/a4f6d25d-1ac9-4429-a1b9-9410a1d08009">
+
+
+
 
 
 
