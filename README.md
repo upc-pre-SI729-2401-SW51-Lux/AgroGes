@@ -57,8 +57,18 @@ TB2: Las tareas asignadas para la entrega TB2 se han completado y están documen
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 2.
 
 
+TP:  Las tareas asignadas para la entrega TP se han completado y están documentadas en el repositorio de Github.
+- Se escribieron diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 3.
+
+
+TF: Las tareas asignadas para la entrega TP se han completado y están documentadas en el repositorio de Github.
+- Se escribieron diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio
+- Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 4
+
 ![Imagen de WhatsApp 2024-05-01 a las 14 07 58_58362991](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/be9624f8-1533-42e5-b9ad-ec8a4cb0478c)
 
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/4452ae07-5da3-481a-97ee-6aedaa6ad2b1)
 
 
   
