@@ -2090,17 +2090,24 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 
 - #### 5.2.4.4. Services Documentation Evidence for Sprint Review
 
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|Acceptance-Test| US59.feature |a84f789|Create US59.feature|-|24/06/2024|
+|Acceptance-Test| US60.feature |b9c63f2|Create US60.feature|-|24/06/2024|
+|Acceptance-Test| US61.feature |c2d1478|Create US61.feature|-|24/06/2024|
+|Acceptance-Test| US62.feature |d1e45ab|Create US62.feature|-|24/06/2024|
 
 
+- #### 5.2.4.5. Execution Evidence for Sprint Review.
+En este Sprint, nuestro equipo se enfocó en la integración del frontend y el backend. Los endpoints implementados y componentes creados se listan a continuación:
 
 
-
-
-
-
-- #### 5.2.4.4. Services Documentation Evidence for Sprint Review
+- #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
+
+
+- #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 
 
