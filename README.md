@@ -1969,7 +1969,7 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
  | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
 |US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Gustavo Poma,Daniel Del Castillo|Done|
-|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Sergio Pecan,Gustavo Poma|Done|
+|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Sergio Pecan,|Done|
 |TS01|Sales endpoint|T03|SalesOrderController|Dentro de este bounded context consideramos que no deberíamos implementar metodos de delete por ello se realizó de esa forma| 5 Hours| Sergio Pecan |Done| 
 |TS02|Crop endpoint|T04| CropController | Este bounded context requiere todos los metodos del crud según la logica de negocios que establecimos |6 Hours|Daniel Del Castillo|Done| 
 
@@ -1993,10 +1993,13 @@ Se elaboró documentación sobre la estructura de la landing page, incluyendo lo
    | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
    |------------|--------|-----------|---------------------|--------------------|
    |BackEnd|master|4544c27|testing(products):done testing in swagger|06-06-2024|
+
+
   
 - #### 5.2.3.5. Execution Evidence for Sprint Review
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/5a46790c-3f7e-4e76-9719-f702648fc517)
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/c0f81195-aabd-4ee7-bacd-f49ff9370739)
+
 
 - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 # Documentación de la API de Crop
@@ -2039,6 +2042,84 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 
 
 
+
+5.2.4. Sprint 4
+
+- #### 5.2.4.1 Sprint planning 4
+- 
+ | Sprint # | Sprint 4                         |
+|----------|-----------------------------------|
+|          |     Sprint Planning Background    |
+| Date     |       2024-06-10                   |
+| Location |     Reunion virtual a través de google meet       |
+| Prepared By |  Daniel del Castillo                        |
+| Attendees | Andrea Cabanillas, Gustavo Poma, Favio Landeo, Sergio Pecan, Daniel Del Castillo |
+| Sprint n - 1 Review Summary |       Esta reunión se dio para hacer el backend y frontend de los respctivos endpoints en un tiempo determinado                                 |
+| Sprint 2 Retrospective Summary |    Posterior a los problemas que tuvimos en sprints anteriores, arreglamos algunos endpoints por tema de tiempo ya que 3 miembros del grupo se retiraron                        |
+|  |         Sprint Goal & User Stories                              |
+| Sprint 3 Goal |  La meta de este sprint es poder conectar el backend y frontend de nuestra aplicación web, de modo que se muestren datos y la app funcione correctamente.                                         |
+| Sprint 3 Velocity |                   50                          |
+| Sum of Story Points |               50                             |
+
+
+
+
+
+- #### 5.2.4.2 Sprint 4 backlog
+ | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+|TSO1 || End point SalesOrdeeEmployees|T01|  |Corregimos el endpoint, se arreglo el front y el router link | 2 Hours| Sergio Pecan |Done|
+|T0S5|| Endpoint de Employees | T02|| se tocaeron los value objects y backend | 3 Hours |Sergio Pecan|Done|
+|TS06|Endpoint farming|T03|SalesOrderController|Dentro de este bounded context consideramos que no deberíamos implementar metodos de delete por ello se realizó de esa forma| 5 Hours| Andrea Cabanillas |Done| 
+
+
+
+
+- #### 5.2.4.3 Sprint 4 backlog Development Evidence for Sprint Review
+
+ 
+   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |BackEnd|main|bc127d2|feature(crops,sales):updates|20-06-2024|
+   |BackEnd|main|o68f866|fix(crop): the endpoints of crop are now usable|21-06-2024|
+   |Development|added|c2086a9|feat(farming): added entity|21-06-2024|
+   |Development|added|7860cd5|feat(farming): added farming integration with api|05-06-2024|
+   |Development|added|22a15aa|Merge branch 'feature/Employees' into added.|23-06-2024|
+   |Development|added|a97bb55|fix: app component router outlet|23-06-2024|
+
+
+- #### 5.2.4.4. Services Documentation Evidence for Sprint Review
+
+
+
+
+
+
+
+
+
+- #### 5.2.4.4. Services Documentation Evidence for Sprint Review
+
+En este Sprint, integramos el frontend y el backend. Los endpoints implementados y componentes se muestran:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 5.3 Validation Interviews
 - ### 5.3.1. Diseño de Entrevistas
    Segmento 1:</br>
@@ -2054,6 +2135,8 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
    ¿Que te parece util para ti como consultor en nuestra aplicación ?</br>
    ¿Consideras que nuestra pagina ayudaría a tus contactos a crecer?</br>
    ¿Te gustaría recomendar alguna función adicional? ?</br>
+
+   
 - ### 5.3.2. Registro de Entrevistas
   Segmento 1:</br>
 
@@ -2112,6 +2195,20 @@ Entrevista 4 :<br>
 ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/f64c16a2-66e7-424e-8ebe-46bdddb91b2b)
 
 Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EQqiazO_lZhHt0gUmNYEeSIBUkSxqeS1RjZ2swEQ1Rq88w?e=GlSOuX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+5.3.3 Sprint 4 
+
+5.3.3.1. Sprint Planning 4
+
+
+
+
+
+
+
+
+
+
 
 
 
