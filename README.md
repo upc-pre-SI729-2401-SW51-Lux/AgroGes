@@ -2145,7 +2145,8 @@ DELETE: Utilizado para eliminar registros existentes. Algunos endpoints podrían
 
 - #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-  
+  ![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/40871cb6-1712-4310-9d17-755d02f4b545)
+
 
 - #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
