@@ -2092,10 +2092,10 @@ RestApi Service: https://evening-cove-75289-3dd3b7c57a3c.herokuapp.com
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 | - | - | - | - | - | - |
-|Acceptance-Test| US59.feature |a84f789|Create US59.feature|-|24/06/2024|
-|Acceptance-Test| US60.feature |b9c63f2|Create US60.feature|-|24/06/2024|
-|Acceptance-Test| US61.feature |c2d1478|Create US61.feature|-|24/06/2024|
-|Acceptance-Test| US62.feature |d1e45ab|Create US62.feature|-|24/06/2024|
+|Acceptance-Test| US09.feature |d937879702b9b7116fa1175c62fe70f1f91650e3|Create US09.feature|-|21/06/2024|
+|Acceptance-Test| US17.feature |cb72d4f67151f6159f33d72eb6d230f559a65905|Create US17.feature|-|19/06/2024|
+|Acceptance-Test| US21.feature |cb72d4f67151f6159f33d72eb6d230f559a65905|Create US21.feature|-|24/06/2024|
+|Acceptance-Test| US12.feature |fc4b70fb817714c21dbdc4a0c0e35b91fb6b37e4|Create US12.feature|-|22/06/2024|
 
 
 - #### 5.2.4.5. Execution Evidence for Sprint Review.
