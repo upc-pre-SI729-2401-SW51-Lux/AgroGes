@@ -2109,6 +2109,9 @@ En este Sprint, integramos el frontend y el backend. Los endpoints implementados
 
 - #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+- #### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 
 
 
