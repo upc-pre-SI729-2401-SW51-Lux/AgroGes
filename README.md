@@ -33,14 +33,6 @@
             <td>Cabanillas Gora, Andrea Milagros</td>
             <td>u202211711</td>
         </tr>
-        <tr>
-            <td>Poma Espinoza, Gustavo Arturo</td>
-            <td>u20221c138</td>
-        </tr>
-         <tr>
-            <td>Del Castillo, Bueno Daniel Mateo</td>
-            <td>u202211212</td>
-        </tr>
     </table>
 </div>
 
